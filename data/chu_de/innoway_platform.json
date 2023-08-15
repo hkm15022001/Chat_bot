@@ -1,0 +1,245 @@
+{
+    "intents": [
+        {
+            "tag": "?innoway_platform_1",
+            "patterns": [
+                "Kết nối thiết bị thực với Platform.",
+                "Kết nối thiết bị vật lý với Platform.",
+                "Thiết bị thực được kết nối với Platform.",
+                "Gắn kết thiết bị thực vào Platform.",
+                "Kết nối các thiết bị vật lý với nền tảng.",
+                "Đưa thiết bị thực vào hệ thống Platform.",
+                "Gắn kết thiết bị vào nền tảng.",
+                "Thiết lập kết nối giữa thiết bị và Platform.",
+                "Nối thiết bị thực với nền tảng.",
+                "Thiết bị thực được liên kết với Platform.",
+                "Kết hợp thiết bị vật lý với nền tảng.",
+                "Thiết bị thực và Platform được gắn kết với nhau.",
+                "Tạo sự kết nối giữa thiết bị và Platform.",
+                "Gắn thiết bị thực vào hệ thống Platform.",
+                "Tạo liên kết giữa thiết bị và nền tảng.",
+                "Kết nối thiết bị vật lý vào Platform.",
+                "Nối thiết bị thực vào hệ thống Platform.",
+                "Kết nối thiết bị với nền tảng.",
+                "Đưa thiết bị thực vào hạ tầng Platform.",
+                "Tạo liên kết giữa thiết bị vật lý và nền tảng.",
+                "Thiết bị và Platform được liên kết với nhau."
+            ],
+            "responses": [
+                "Để kết nối thiết bị thực với Platform, bạn hãy tham khảo hướng dẫn sau đây: \nhttps://innoway-viettel.gitbook.io/innoway/bat-dau-su-dung/ket-noi-thiet-bi-thuc-voi-platform "
+            ]
+        },
+        {
+            "tag": "?innoway_platform_2",
+            "patterns": [
+                "Platform IoT là gì?",
+                "platform iot là gì?",
+                "iot platform là gì?",
+                "Plaform iot đóng vai trò gì trong hệ thống iot",
+                "khái niệm platform iot",
+                "Trong hệ thống IoT, nền tảng IoT có vai trò gì?",
+                "Nền tảng IoT thực hiện chức năng gì trong hệ thống IoT?",
+                "Vai trò của nền tảng IoT là gì trong hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có chức năng gì?",
+                "Nền tảng IoT chịu trách nhiệm thực hiện những nhiệm vụ gì trong hệ thống IoT?",
+                "Khái niệm 'nền tảng IoT' là gì?",
+                "Giải thích ý nghĩa của 'nền tảng IoT' trong hệ thống IoT.",
+                "Nền tảng IoT được hiểu như thế nào trong ngữ cảnh của hệ thống IoT?",
+                "Vai trò của nền tảng IoT là gì trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT thực hiện những chức năng gì trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có vai trò như thế nào?",
+                "Nền tảng IoT chịu trách nhiệm thực hiện những nhiệm vụ gì trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT được hiểu như thế nào trong hệ thống IoT?",
+                "Giải thích ý nghĩa của nền tảng IoT trong hệ thống IoT.",
+                "Vai trò của nền tảng IoT là gì trong hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong hệ thống IoT?",
+                "Nền tảng IoT thực hiện những chức năng gì trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có chức năng gì?"
+            ],
+            "responses": [
+                "Platform iot là hệ thống phần mềm và cơ sở hạ tầng được thiết kế để hỗ trợ việc kết nối, quản lý và xử lý dữ liệu từ các thiết bị IOT \n Cung cấp công cụ và dịch vụ để triển khai, vận hành, phát triển và quản lý các ứng dụng IOT"
+            ]
+        },
+        {
+            "tag": "innoway_platform_3",
+            "patterns": [
+                "dùng platform IoT để làm gì?",
+                "platform iot có tác dụng gì",
+                "tại sao phải sử dụng platform iot",
+                "Platform IoT được sử dụng để thực hiện những việc gì?",
+                "Platform IoT có tác dụng gì trong các ứng dụng IoT?",
+                "Tại sao cần sử dụng nền tảng IoT?",
+                "nền tảng IoT được áp dụng vào mục đích gì?",
+                "nền tảng IoT được dùng để làm gì trong các hệ thống IoT?",
+                "Tác dụng của nền tảng IoT trong việc quản lý thiết bị IoT là gì?",
+                "Vai trò của nền tảng IoT trong hệ thống IoT là gì?",
+                "Lý do phải sử dụng nền tảng IoT là gì?",
+                "nền tảng IoT được sử dụng như thế nào trong các ứng dụng IoT?",
+                "nền tảng IoT được ứng dụng để làm gì trong hệ thống IoT?",
+                "Tại sao nên dùng nền tảng IoT trong việc quản lý thiết bị IoT?",
+                "nền tảng IoT có vai trò quan trọng như thế nào trong hệ thống IoT?",
+                "Tác dụng của nền tảng IoT là gì trong việc quản lý thiết bị IoT?",
+                "Vai trò của nền tảng IoT trong hệ thống IoT là gì?",
+                "Lợi ích của việc sử dụng platform IoT là gì?",
+                "Platform IoT được áp dụng như thế nào trong các ứng dụng IoT?",
+                "Platform IoT có tác dụng gì trong việc quản lý thiết bị IoT?",
+                "Tại sao cần sử dụng platform IoT trong hệ thống IoT?",
+                "Platform IoT được dùng để làm gì trong hệ thống IoT?",
+                "Lý do phải sử dụng platform IoT là gì trong các ứng dụng IoT?"
+            ],
+            "responses": [
+                "Hướng tới mục tiêu rút ngắn time-to-market, giảm chi phí, cải thiện năng suất, tối ưu nguồn lực.Innoway là nền tảng IOT lớn nhất Việt Nam.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_4",
+            "patterns": [
+                "innoway của viettel là gì",
+                "platform iot của viettel là gì",
+                "Định nghĩa của Innoway là gì?",
+                "Innoway là khái niệm gì?",
+                "Hãy giải thích về Innoway.",
+                "Có thể giới thiệu về Innoway không?",
+                "Innoway được mô tả như thế nào?",
+                "Xin hãy giải thích về Innoway của Viettel.",
+                "Innoway do Viettel phát triển là gì?",
+                "Định nghĩa về Innoway của Viettel là gì?",
+                "Innoway là dự án gì của Viettel?",
+                "Hãy mô tả về Innoway của Viettel.",
+                "Xin hãy giải thích về Platform IoT của Viettel.",
+                "Platform IoT do Viettel phát triển là gì?",
+                "Định nghĩa về Platform IoT của Viettel là gì?",
+                "Platform IoT là dịch vụ gì do Viettel cung cấp?",
+                "Hãy mô tả về Platform IoT của Viettel.",
+                "Xin hãy giải thích về Platform IoT của Viettel.",
+                "Platform IoT do Viettel phát triển là gì?",
+                "Định nghĩa về Platform IoT của Viettel là gì?",
+                "Platform IoT là dịch vụ gì do Viettel cung cấp?",
+                "Hãy mô tả về Platform IoT của Viettel."
+            ],
+            "responses": [
+                "InnoWay là một nền tảng Internet of Thing (IoT) được nghiên cứu và phát triển bởi Viettel High Tech, đơn vị nghiên cứu, sản xuất Công nghệ chủ lực của tập đoàn Viettel.InnoWay ra đời với mục đích giảm chi phí PoC và time to market tối ưu quy trình xây dựng giải pháp IoT.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_5",
+            "patterns": [
+                "Innoway cung cấp dịch vụ gì?",
+                "nền tảng iot của viettel cung cấp dịch vụ gì",
+                "platform iot của viettel cung cấp gì",
+                "nền tảng innoway có tác dụng gì",
+                "platform innoway giúp ích được gì",
+                "Các dịch vụ mà Innoway cung cấp là gì?",
+                "Nền tảng IoT của Viettel cung cấp những dịch vụ gì?",
+                "Platform IoT của Viettel cung cấp những gì?",
+                "Nền tảng Innoway có ứng dụng gì?",
+                "Platform Innoway giúp ích được những gì?",
+                "Innoway cung cấp những dịch vụ ra sao?",
+                "Những dịch vụ nào được cung cấp bởi nền tảng IoT của Viettel?",
+                "Platform IoT của Viettel cung cấp những dịch vụ như thế nào?",
+                "Nền tảng Innoway có tác dụng như thế nào?",
+                "Platform Innoway hỗ trợ những gì?",
+                "Các dịch vụ do Innoway cung cấp là gì?",
+                "Nền tảng IoT của Viettel cung cấp những gì?",
+                "Platform IoT của Viettel hỗ trợ như thế nào?",
+                "Nền tảng Innoway giúp ích ra sao?",
+                "Platform Innoway có tác dụng gì?",
+                "Những dịch vụ mà Innoway cung cấp như thế nào?",
+                "Nền tảng IoT của Viettel có những gì?",
+                "Platform IoT của Viettel giúp ích như thế nào?",
+                "Nền tảng Innoway có tác dụng ra sao?",
+                "Platform Innoway hỗ trợ như thế nào?"
+            ],
+            "responses": [
+                "InnoWay định hướng mở rộng rãi các developer dễ dàng sử dụng để phát triển giải pháp, các bộ công cụ hỗ trợ vận hành khai thác và cho phép tích hợp toàn bộ thiết bị từ các nhà sản xuất khác.InnoWay cung cấp bộ công cụ vượt trội so với các nền tảng hiện có tại Việt Nam về phát triển thiết bị và bộ công cụ quản lý SIM, provisioning, thuê bao,gói cước.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "innoway_platform_6",
+            "patterns": [
+                "innoway của viettel phù hợp với ai",
+                "innoway dành cho ai",
+                "người không có kiến thức chuyên sâu sử dụng được innoway không",
+                "cần biết lập trình để sử dụng innoway không",
+                "nền tảng innoway của viettel có hỗ trợ các ngành nghề khác nhau không",
+                "Innoway của Viettel phù hợp với đối tượng nào?",
+                "Innoway dành cho ai trong dòng sản phẩm của Viettel?",
+                "Người không có kiến thức chuyên sâu có thể sử dụng Innoway không?",
+                "Có cần biết lập trình để sử dụng Innoway không?",
+                "Nền tảng Innoway của Viettel có thích hợp cho những đối tượng nào?",
+                "Đối tượng sử dụng Innoway của Viettel là ai?",
+                "Innoway của Viettel hướng đến đối tượng người dùng nào?",
+                "Ai nên sử dụng Innoway của Viettel?",
+                "Innoway có thích hợp cho mọi người không?",
+                "Nền tảng Innoway của Viettel phù hợp cho những ai?",
+                "Có thể sử dụng Innoway của Viettel mà không cần kiến thức chuyên sâu không?",
+                "Innoway của Viettel sử dụng được bởi những đối tượng nào?",
+                "Innoway có ứng dụng cho những đối tượng nào?",
+                "Cần phải có kiến thức lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có hỗ trợ cho những đối tượng không có kiến thức chuyên sâu không?",
+                "Ai có thể sử dụng Innoway của Viettel một cách hiệu quả?",
+                "Innoway của Viettel có dễ sử dụng cho mọi người không?",
+                "Innoway của Viettel được thiết kế để phục vụ đối tượng nào?",
+                "Ai có thể hưởng lợi từ việc sử dụng Innoway của Viettel?",
+                "Có yêu cầu kiến thức lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có ứng dụng rộng rãi trong ngành nghề khác nhau không?",
+                "Có cần phải biết lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel hỗ trợ cho ngành nghề nào?",
+                "Ai có thể tận dụng Innoway của Viettel một cách hiệu quả nhất?",
+                "Innoway của Viettel có thích hợp cho người không có kỹ năng lập trình không?",
+                "Innoway của Viettel có ứng dụng rộng rãi cho người dùng không chuyên không?",
+                "Cần phải có kỹ năng lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có phù hợp với đối tượng người dùng nào?"
+            ],
+            "responses": [
+                "Innoway hỗ trợ nghiệp vụ đa ngành, đa lĩnh vực - Không yêu cầu nhà phát triển có kinh nghiệm chuyên sâu.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_7",
+            "patterns": [
+                "Innoway tích hợp những sản phẩm đặc trưng nào?",
+                "các sản phẩm đặc trưng tích hợp của Innoway là gì",
+                "Các giải pháp đặc trưng của nền tảng Innoway",
+                "Những giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Innoway tích hợp những giải pháp đặc trưng như thế nào?",
+                "Các giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Innoway tích hợp những giải pháp đặc trưng ra sao?",
+                "Nền tảng Innoway tích hợp những sản phẩm đặc trưng như thế nào?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway là gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway có gì?",
+                "Innoway tích hợp những sản phẩm đặc trưng như thế nào?",
+                "Nền tảng Innoway tích hợp những giải pháp đặc trưng gì?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway có những gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Nền tảng Innoway tích hợp những giải pháp đặc trưng nào?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway có những gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway có những gì?"
+            ],
+            "responses": [
+                "Có rất nhiều các sản phẩm được phát triển tích hợp nền tảng Innoway như: Smart Home, Định vị thông minh vTag, Asset Management, Giám sát xe tải – vận chuyển hành khách - V-Tracking 2.0, Smart Metering..."
+            ]
+        },
+        {
+            "tag": "innoway_platform_8",
+            "patterns": [
+                "Innoway hỗ trợ các giao thức nào",
+                "Innoway hỗ trợ các giao thức nào?",
+                "Các giao thức nào được hỗ trợ bởi Innoway?",
+                "Những giao thức nào có sự hỗ trợ từ Innoway?",
+                "Innoway có hỗ trợ các giao thức nào không?",
+                "Innoway hỗ trợ những giao thức ra sao?",
+                "Các giao thức nào được hỗ trợ trong Innoway?",
+                "Innoway hỗ trợ những giao thức như thế nào?",
+                "Innoway có sự hỗ trợ cho các giao thức nào?",
+                "Những giao thức nào được hỗ trợ bởi nền tảng Innoway?",
+                "Innoway hỗ trợ những giao thức như thế nào?"
+            ],
+            "responses": [
+                "Innoway hỗ trợ hầu hết các giao thức kết nối trong IOT thông dụng hiện nay. Để được hỗ trợ tích hợp, hãy liên hệ với chúng tôi theo hotline ở trang chủ."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "intents": [
+        {
+            "tag": "?thong_tin_vcar",
+            "patterns": [
+                "Vcar là gì?",
+                "vcar là cái gì",
+                "vcar cụ thể là cái gì",
+                "Tôi muốn hỏi về vcar",
+                "thông tin về vcar",
+                "chi tiết về vcar",
+                "cụ thể về vcar",
+                "thông tin chi tiết về vcar",
+                "thêm thông tin về vcar",
+                "Có điều gì bạn có thể chia sẻ về vcar không?",
+                "Hãy cho tôi biết thêm về vcar.",
+                "Tôi đang quan tâm đến vcar, liệu bạn có thể cung cấp thông tin về nó không?",
+                "Tôi cần hiểu rõ hơn về vcar, bạn có thể giải thích thêm không?",
+                "Có thông tin chi tiết nào về vcar mà tôi nên biết?",
+                "Tôi muốn tìm hiểu về vcar, bạn có thể hướng dẫn tôi điều đó không?",
+                "Hãy cung cấp một cái nhìn tổng quan về vcar.",
+                "Có thể cho tôi biết về vcar được không?",
+                "Xin hỏi về vcar thông tin?",
+                "Bạn có thể cung cấp thông tin chi tiết về vcar không?",
+                "Tôi cần tìm hiểu về vcar, bạn có thể giúp được không?",
+                "Hãy cung cấp cho tôi thêm thông tin về vcar.",
+                "Tôi quan tâm đến vcar, có thể nói rõ hơn về nó được không?",
+                "Tôi đang tìm hiểu về vcar, có thể chia sẻ thêm về nó không?"
+            ],
+            "responses": [
+                "vCar là giải pháp kết nối ô tô thông minh qua Smartphone đầu tiên tại Việt Nam, giúp số hóa mọi thông tin và hỗ trợ đắc lực cho trải nghiệm sử dụng ô tô của bạn. Khách hàng có thể dễ dàng sử dụng để phát wifi, khám sức khỏe ô tô, phát hiện va chạm,... qua ứng dụng ngay trên điện thoại thông minh, luôn đảm bảo yên tâm trên mọi cung đường."
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vcar",
+            "patterns": [
+                "Chức năng của vcar.",
+                "tính năng về vcar",
+                "vcar có thể làm được những gì",
+                "các tính năng của vcar",
+                "vcar có chức năng gì",
+                "vcar có những tính năng gì",
+                "Hãy cung cấp thông tin về chức năng của vcar.",
+                "Xin hãy mô tả những tính năng chính của vcar.",
+                "Vui lòng giới thiệu về khả năng vận hành của vcar.",
+                "Tôi muốn hiểu rõ hơn về các tính năng đặc biệt của vcar.",
+                "Có gì đáng chú ý về tính năng của vcar mà tôi nên biết?",
+                "Xin hãy chỉ ra những chức năng cơ bản của vcar.",
+                "Hãy kể về những điểm mạnh của vcar trong khía cạnh tính năng.",
+                "vcar có những tính năng công nghệ cao nào được tích hợp?",
+                "Tôi quan tâm đến tính năng của vcar, bạn có thể mô tả chúng cho tôi không?",
+                "Có những tính năng độc đáo nào trên vcar không?",
+                "Hãy cho biết về tính năng tiện ích dành cho người dùng trên vcar."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vCar có thể kể đến như: \n1. Định vị, giám sát, lưu lịch sử hành trình và quản lý nhiều xe từ xa\n2. Hỗ trợ hành trình với các tính năng cảnh báo tốc độ, thông báo tình trạng giao thông và cảnh báo cảmera phạt nguội trên từng cung đường bằng giọng nói.\n3. Theo dõi các thông số kỹ thuật, tình trạng sức khỏe của xe, đưa ra các chẩn đoán và cảnh báo khi xe có lỗi động cơ, bộ truyền động, hệ thống nhiên liệu.\n4. Các tiện ích nâng cao như phát WiFi, tìm kiếm garage, trạm xăng, tìm đường,..."
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vcar",
+            "patterns": [
+                "Giá thành của vcar.",
+                "giá của vcar",
+                "vcar có giá bao nhiêu",
+                "chi phí cho vcar là bao nhiêu",
+                "vcar bao nhiêu tiền",
+                "Xin hãy cho biết giá cả của vcar là bao nhiêu?",
+                "Tôi quan tâm đến giá thành của vcar, bạn có thể cung cấp thông tin chi tiết không?",
+                "Hãy giới thiệu về giá của vcar và các tùy chọn mua hàng.",
+                "Tôi muốn tìm hiểu về mức giá phổ biến của vcar trên thị trường.",
+                "Vui lòng cho biết vcar có giá cả phải chăng hay không?",
+                "Có các gói giá hoặc ưu đãi đặc biệt nào cho việc mua vcar không?",
+                "Xin hãy cung cấp thông tin về giá cả và cách thức thanh toán cho vcar.",
+                "Tôi đang tìm hiểu về giá thành của vcar, có thể giúp tôi tìm hiểu thêm không?",
+                "Tôi muốn biết chi phí cho vcar trong nhiều phiên bản khác nhau.",
+                "Xin hãy cho tôi biết giá của vcar",
+                "Tôi cần thông tin về giá cả và các gói bảo hành cho vcar.",
+                "Hãy cung cấp thông tin về giá bán lẻ đề xuất của vcar.",
+                "Vcar có phải là lựa chọn tốt với giá cả hiện tại?",
+                "Tôi muốn tìm hiểu về giá và các chương trình khuyến mãi liên quan đến vcar.",
+                "Xin hãy hướng dẫn tôi cách tìm hiểu và so sánh giá của các mẫu vcar khác nhau.",
+                "Có những khoản chi phí nào khác ngoài giá của vcar mà tôi nên xem xét?"
+            ],
+            "responses": [
+                "Giá thiết bị vCar: 2.500.000 VNĐ\nCước phí dịch vụ data eSim kèm thiết bị:\n– Gói vCar BASIC (không có data phát wifi): 30.000đ/tháng\n– Gói vCar BASIC Data (có 2GB data tốc độ cao/ngày để phát wifi): 50.000đ/tháng\n– Gói vCar VIP (có 4GB data tốc độ cao/ngày để phát wifi): 100.000đ/tháng\n- Ưu đãi khi đóng cước trước: đóng trước 6 tháng tặng 1 tháng dịch vụ, đóng trước 12 tháng tặng 2 tháng\n- Ưu đãi dành cho khách hàng lần đầu hòa mạng gói 12 tháng kèm thiết bị vCar: giảm 50% giá gói cước VIP hoặc BASIC Data 12 tháng hoặc miễn phí giá gói cước BASIC 12 tháng."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vcar",
+            "patterns": [
+                "Cách sử dụng vcar.",
+                "cách cài đặt vcar",
+                "cài đặt vcar như thế nào",
+                "quy trình cài đặt vcar",
+                "Xin hãy hướng dẫn cách sử dụng vcar.",
+                "Tôi muốn tìm hiểu cách thức vận hành vcar, bạn có thể giúp tôi không?",
+                "Hãy cung cấp hướng dẫn cụ thể về cách sử dụng vcar.",
+                "Tôi cần hướng dẫn về cách điều khiển và sử dụng vcar, có thể cung cấp thông tin không?",
+                "Có những hướng dẫn cài đặt nào cho vcar không?",
+                "Hãy giải thích cách cài đặt vcar một cách dễ hiểu.",
+                "Tôi muốn tự cài đặt vcar, bạn có thể chỉ cho tôi quy trình không?",
+                "Xin hãy hướng dẫn tôi cài đặt vcar một cách chi tiết.",
+                "Có những điều cần lưu ý khi cài đặt vcar không?",
+                "Tôi cần một quy trình chi tiết về cách cài đặt vcar.",
+                "Hãy hướng dẫn tôi cách thiết lập vcar sao cho hiệu quả nhất.",
+                "Xin hãy cung cấp hướng dẫn chi tiết về cách kết nối vcar với các thiết bị khác.",
+                "Tôi đang gặp khó khăn khi cài đặt vcar, bạn có thể giúp tôi không?",
+                "Có những tài liệu hướng dẫn cài đặt vcar mà tôi nên tham khảo không?",
+                "Hãy cung cấp các bước cài đặt cơ bản cho vcar.",
+                "Tôi muốn tìm hiểu cách sử dụng và cài đặt vcar một cách đơn giản nhất."
+            ],
+            "responses": [
+                "B1. Định vị cổng OBD trên ô tô của bạn\nB2. Cắm thiết bị VCAR vào cổng OBD cho đến khi thiết bị sáng đèn\n3. Cài đặt ứng dụng VCAR trên thiết bị thông minh như smartphone, Ipad,... của bạn và bạn đã sẵn sàng sử dụng!\n Nếu bạn còn thắc mắc về quá trình cài đặt, Viettel sẽ hướng dẫn người dùng cài đặt từ xa hoặc tại điểm giao dịch."
+            ]
+        },
+        {
+            "tag": "?bao_hanh_vcar",
+            "patterns": [
+                "Bảo hành của vcar.",
+                "chế độ bảo hành của vcar",
+                "cơ chế bảo hành vcar",
+                "chính sách bảo hành của vcar",
+                "Xin hãy cung cấp thông tin về chế độ bảo hành của vcar.",
+                "Tôi quan tâm đến chính sách bảo hành của vcar, bạn có thể giải thích cho tôi không?",
+                "Hãy giới thiệu về cơ chế bảo hành vcar.",
+                "Tôi muốn biết chi tiết về các điều kiện và điều khoản trong chế độ bảo hành của vcar.",
+                "Xin hãy chỉ ra thời gian và phạm vi bảo hành của vcar.",
+                "Có những yếu tố nào ảnh hưởng đến chế độ bảo hành của vcar?",
+                "Tôi cần hiểu rõ về chế độ bảo hành và phạm vi bảo hành của vcar.",
+                "Có những lợi ích và điểm đặc biệt nào trong chính sách bảo hành của vcar?",
+                "Hãy giải thích cụ thể về chế độ bảo hành của vcar.",
+                "Tôi đang tìm hiểu về chế độ bảo hành, có thể cung cấp thông tin chi tiết không?",
+                "Xin hãy cung cấp những điều khoản và điều kiện trong chế độ bảo hành của vcar.",
+                "Vui lòng cho biết về các gói bảo hành và dịch vụ hỗ trợ liên quan đến vcar.",
+                "Hãy hướng dẫn tôi cách yêu cầu bảo hành cho vcar khi cần thiết.",
+                "Xin hãy cung cấp thông tin về điều kiện mất bảo hành của vcar.",
+                "Tôi muốn biết về các trường hợp không được bảo hành của vcar.",
+                "Hãy kể về những điểm nổi bật trong chính sách bảo hành của vcar."
+            ],
+            "responses": [
+                "vCar được bảo hành chính hãng 12 tháng tại tất cả các cửa hàng của Viettel Telecom và Viettel Store trên toàn quốc. Khách hàng có thể đến 1 trong 2 chuỗi cửa hàng trên để bảo hành hoặc sữa chữa thiết bị."
+            ]
+        },
+        {
+            "tag": "?thanh_toan_vcar",
+            "patterns": [
+                "Thanh toán hàng tháng của vcar.",
+                "hình thức thanh toán gói cước hàng tháng của vcar",
+                "cách thanh toán hàng tháng của vcar",
+                "Xin hãy cung cấp thông tin về thanh toán hàng tháng của vcar.",
+                "Tôi quan tâm đến hình thức thanh toán gói cước hàng tháng của vcar, bạn có thể giải thích cho tôi không.",
+                "Hãy giới thiệu về cách thanh toán hàng tháng của vcar.",
+                "Tôi muốn biết cách thanh toán hàng tháng cho vcar, bạn có thể hướng dẫn tôi không.",
+                "Xin hãy chỉ ra cách thanh toán hàng tháng của vcar.",
+                "Có những hình thức thanh toán gói cước hàng tháng nào cho vcar.",
+                "Tôi cần hiểu rõ về các phương thức thanh toán hàng tháng của vcar.",
+                "Có những điều cần lưu ý khi thanh toán hàng tháng cho vcar không.",
+                "Hãy giải thích cụ thể về hình thức thanh toán gói cước hàng tháng của vcar.",
+                "Tôi đang tìm hiểu về cách thanh toán hàng tháng của vcar, có thể cung cấp thông tin chi tiết không.",
+                "Xin hãy cung cấp các tùy chọn thanh toán hàng tháng cho vcar.",
+                "Vui lòng cho biết về cách thanh toán hàng tháng và các phương thức thanh toán khác của vcar.",
+                "Hãy hướng dẫn tôi cách thiết lập thanh toán hàng tháng cho vcar.",
+                "Xin hãy cung cấp thông tin về cách thanh toán hàng tháng và các điều khoản liên quan đến vcar.",
+                "Tôi muốn biết về các tùy chọn và hình thức thanh toán hàng tháng của vcar."
+            ],
+            "responses": [
+                "Hệ thống tự động gia hạn thanh toán nếu tài khoản của khách hàng đủ tiền hoặc hệ thống sẽ nhắn tin và khách hàng tự nạp tiền, tự đăng ký gia hạn gói cước trên APP MyViettel, Viettel Pay hoặc tại các điểm giao dịch của Viettel trên toàn quốc"
+            ]
+        }
+    ]
+}

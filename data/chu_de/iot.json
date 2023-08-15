@@ -1,0 +1,286 @@
+{
+    "intents": [
+        {
+            "tag": "?iot_1",
+            "patterns": [
+                "Internet vạn vật (IoT) là gì?",
+                "Iot là gì",
+                "iot là gì?",
+                "Iot là gì",
+                "iot là gì",
+                "Khái niệm Internet vạn vật IoT là gì?",
+                "Giải thích về Internet vạn vật IoT là gì?",
+                "Internet vạn vật IoT được hiểu như thế nào?",
+                "Tìm hiểu về Internet vạn vật IoT là gì?",
+                "Internet vạn vật IoT là thuật ngữ có ý nghĩa gì?",
+                "Khái niệm về Internet vạn vật IoT có gì?",
+                "Tại sao lại có khái niệm Internet vạn vật IoT?",
+                "Internet vạn vật IoT được định nghĩa như thế nào?",
+                "Internet vạn vật IoT là thuật ngữ có liên quan đến gì?",
+                "Giải thích ý nghĩa của Internet vạn vật IoT là gì?",
+                "Internet vạn vật IoT là gì và có tác dụng gì?",
+                "Khái niệm về Internet vạn vật (IoT) được mô tả như thế nào?",
+                "Internet vạn vật IoT mang ý nghĩa gì?",
+                "Internet vạn vật IoT là thuật ngữ với ý nghĩa như thế nào?",
+                "Internet vạn vật Iot có tác dụng ra sao?",
+                "Internet vạn vật IoT được hiểu như thế nào trong ngành công nghệ?",
+                "Internet vạn vật IoT là gì và vai trò của nó là gì?",
+                "Khái niệm về Internet vạn vật IoT có những gì?",
+                "Internet vạn vật IoT được định nghĩa ra sao?",
+                "Internet vạn vật IoT mang ý nghĩa như thế nào trong thế giới kỹ thuật số?"
+            ],
+            "responses": [
+                "Thuật ngữ IoT hay Internet vạn vật đề cập đến mạng lưới tập hợp các thiết bị thông minh và công nghệ tạo điều kiện thuận lợi cho hoạt động giao tiếp giữa thiết bị và đám mây cũng như giữa các thiết bị với nhau.\nNhờ sự ra đời của chip máy tính giá rẻ và công nghệ viễn thông băng thông cao, ngày nay, chúng ta có hàng tỷ thiết bị được kết nối với internet. Điều này nghĩa là các thiết bị hàng ngày như bàn chải đánh răng, máy hút bụi, ô tô và máy móc có thể sử dụng cảm biến để thu thập dữ liệu và phản hồi lại người dùng một cách thông minh."
+            ]
+        },
+        {
+            "tag": "iot_2",
+            "patterns": [
+                "Internet vạn vật hoạt động như thế nào?",
+                "Cách hoạt động của Internet vạn vật như thế nào?",
+                "Giải thích cách Internet vạn vật hoạt động là gì?",
+                "Internet vạn vật hoạt động như thế nào trong thực tế?",
+                "Cơ chế hoạt động của Internet vạn vật là gì?",
+                "Cách mà Internet vạn vật hoạt động được triển khai như thế nào?",
+                "IoT làm việc như thế nào?",
+                "Cơ chế làm việc của IoT như thế nào?",
+                "IoT thực hiện như thế nào để kết nối các thiết bị?",
+                "Cách mà IoT làm việc trong việc thu thập dữ liệu?",
+                "IoT hoạt động như thế nào để gửi dữ liệu qua internet?",
+                "IoT thực hiện cách để xử lý và lưu trữ dữ liệu như thế nào?",
+                "Cơ chế xử lý dữ liệu của IoT như thế nào?",
+                "IoT thực hiện như thế nào để tự động hóa các hành động?",
+                "Internet vạn vật (IoT) hoạt động như nào"
+            ],
+            "responses": [
+                "Một hệ thống IoT thông thường hoạt động thông qua việc thu thập và trao đổi dữ liệu theo thời gian thực. Một hệ thống IoT có ba thành phần:\n+ Thiết bị thông minh\n+ Nền tảng IoT (IoT platform)\n+ Giao diện đồ họa người dùng"
+            ]
+        },
+        {
+            "tag": "iot_3",
+            "patterns": [
+                "Thiết bị thông minh là gì?",
+                "thiết bị iot là gì",
+                "tôi cần biết về thiết bị thông minh",
+                "Khái niệm thiết bị thông minh là gì?",
+                "Định nghĩa thiết bị IoT là gì?",
+                "Giải thích về thiết bị thông minh là gì?",
+                "Thiết bị IoT có ý nghĩa gì?",
+                "Thiết bị thông minh là thuật ngữ có nghĩa như thế nào?",
+                "Tôi cần hiểu về thiết bị thông minh là gì?",
+                "Khái niệm thiết bị IoT có gì?",
+                "Tôi muốn tìm hiểu về thiết bị thông minh là gì?",
+                "Thiết bị thông minh được hiểu như thế nào?",
+                "Giải thích ý nghĩa của thiết bị IoT là gì?",
+                "Thiết bị thông minh là gì và tác dụng của nó là gì?",
+                "Khái niệm về thiết bị IoT có được mô tả như thế nào?",
+                "Thiết bị thông minh mang ý nghĩa gì?",
+                "Thiết bị IoT là thuật ngữ với ý nghĩa như thế nào?",
+                "Tôi cần biết về thiết bị thông minh làm sao?",
+                "Thiết bị thông minh hoạt động như thế nào?",
+                "Khái niệm thiết bị IoT được định nghĩa ra sao?",
+                "Thiết bị thông minh mang ý nghĩa như thế nào trong ngành công nghệ?",
+                "Tôi muốn tìm hiểu về thiết bị IoT là gì?",
+                "Thiết bị thông minh là gì và vai trò của nó là gì?"
+            ],
+            "responses": [
+                "Đây là một thiết bị, giống như tivi, camera an ninh hoặc thiết bị tập thể dục đã được trao cho khả năng điện toán. Thiết bị này thu thập dữ liệu từ môi trường xung quanh, thao tác nhập liệu của người dùng hoặc mô thức sử dụng và truyền cũng như nhận dữ liệu qua Internet từ ứng dụng IoT của nó."
+            ]
+        },
+        {
+            "tag": "?iot_4",
+            "patterns": [
+                "Giao diện đồ họa người dùng là gì",
+                "Khái niệm của giao diện đồ họa người dùng là gì?",
+                "Giải thích về giao diện đồ họa người dùng là gì?",
+                "Giao diện đồ họa người dùng có ý nghĩa gì?",
+                "Tôi cần hiểu về giao diện đồ họa người dùng là gì?",
+                "Khái niệm giao diện đồ họa người dùng là gì?",
+                "Giao diện đồ họa người dùng là thuật ngữ có nghĩa như thế nào?",
+                "Giao diện đồ họa người dùng được mô tả như thế nào?",
+                "Tôi muốn tìm hiểu về giao diện đồ họa người dùng là gì?",
+                "Giao diện đồ họa người dùng mang ý nghĩa gì?",
+                "Giải thích ý nghĩa của giao diện đồ họa người dùng là gì?"
+            ],
+            "responses": [
+                "Một hoặc một nhóm các thiết bị IoT có thể được quản lý thông qua giao diện đồ họa người dùng. Các ví dụ phổ biến bao gồm một ứng dụng di động hoặc trang web có thể được sử dụng để đăng ký và kiểm soát các thiết bị thông minh."
+            ]
+        },
+        {
+            "tag": "?iot_5",
+            "patterns": [
+                "Ô tô thông minh là gì",
+                "Khái niệm của ô tô thông minh là gì?",
+                "Giải thích về ô tô thông minh là gì?",
+                "Ô tô thông minh có ý nghĩa gì?",
+                "Tôi cần hiểu về ô tô thông minh là gì?",
+                "Khái niệm ô tô thông minh là gì?",
+                "Ô tô thông minh là thuật ngữ có nghĩa như thế nào?",
+                "Ô tô thông minh được mô tả như thế nào?",
+                "Tôi muốn tìm hiểu về ô tô thông minh là gì?",
+                "Ô tô thông minh mang ý nghĩa gì?",
+                "Giải thích ý nghĩa của ô tô thông minh là gì?"
+            ],
+            "responses": [
+                "Những phương tiện, chẳng hạn như ô tô, có thể kết nối với Internet bằng rất nhiều cách. Có thể là thông qua camera hành trình thông minh, hệ thống tin học giải trí hoặc thậm chí qua cổng kết nối của phương tiện. Chúng thu thập dữ diệu từ chân ga, phanh, đồng hồ đo tốc độ, đồng hồ đo quãng đường, bánh xe và bình xăng để giám sát cả hiệu suất của người lái và tình trạng phương tiện. \nÔ tô thông minh được sử dụng cho hàng loạt mục đích:\n+ Giám sát đội xe ô tô cho thuê để tăng cường hiệu quả sử dụng nhiên liệu và giảm chi phí.\n+ Giúp cha mẹ theo dõi hành vi lái xe của con cái.\n + Tự động thông báo cho bạn bè và người thân trong trường hợp xảy ra tai nạn xe.\n + Dự đoán và hạn chế nhu cầu bảo dưỡng xe."
+            ]
+        },
+        {
+            "tag": "?iot_6",
+            "patterns": [
+                "Nhà thông minh là gì",
+                "Khái niệm của nhà thông minh là gì?",
+                "Giải thích về nhà thông minh là gì?",
+                "Nhà thông minh có ý nghĩa gì?",
+                "Tôi cần hiểu về nhà thông minh là gì?",
+                "Khái niệm nhà thông minh là gì?",
+                "Nhà thông minh là thuật ngữ có nghĩa như thế nào?",
+                "Nhà thông minh được mô tả như thế nào?",
+                "Tôi muốn tìm hiểu về nhà thông minh là gì?",
+                "Nhà thông minh mang ý nghĩa gì?",
+                "Giải thích ý nghĩa của nhà thông minh là gì?"
+            ],
+            "responses": [
+                "Các thiết bị gia đình thông minh tập trung chủ yếu vào hoạt động cải thiện hiệu quả và độ an toàn của ngôi nhà, cũng như mạng lưới kết nối trong nhà. Các thiết bị như ổ điện thông minh có thể giám sát mức sử dụng điện và bộ điều nhiệt thông minh có thể cung cấp khả năng kiểm soát nhiệt độ tốt hơn. Các hệ thống thủy canh có thể sử dụng cảm biến IoT để quản lý khu vườn, trong khi đó, máy báo khói IoT có thể phát hiện khói thuốc lá. Các hệ thống an ninh gia đình như khóa cửa, camera an ninh và máy phát hiện rò nước có thể phát hiện và ngăn chặn các mối nguy hiểm, đồng thời gửi cảnh báo tới chủ nhà.\nGia đình có thể sử dụng những thiết bị thông minh cho các mục đích:\n+ Tự động tắt các thiết bị khi không sử dụng.\n+ Quản lý và bảo trì các bất động sản cho thuê.\n+ Tìm đồ thất lạc như chìa khóa hoặc ví.\n+ Tự động hóa các công việc hàng ngày như hút bụi, pha cà phê,..."
+            ]
+        },
+        {
+            "tag": "?iot_7",
+            "patterns": [
+                "thành phố thông minh là gì",
+                "Khái niệm của thành phố thông minh là gì?",
+                "Giải thích về thành phố thông minh là gì?",
+                "thành phố thông minh có ý nghĩa gì?",
+                "Tôi cần hiểu về thành phố thông minh là gì?",
+                "Khái niệm thành phố thông minh là gì?",
+                "thành phố thông minh là thuật ngữ có nghĩa như thế nào?",
+                "thành phố thông minh được mô tả như thế nào?",
+                "Tôi muốn tìm hiểu về thành phố thông minh là gì?",
+                "thành phố thông minh mang ý nghĩa gì?",
+                "Giải thích ý nghĩa của thành phố thông minh là gì?"
+            ],
+            "responses": [
+                "Các ứng dụng IoT đã giúp quá trình quy hoạch đô thị và bảo trì cơ sở hạ tầng hiệu quả hơn. Các chính phủ đang sử dụng ứng dụng IoT để giải quyết những vấn đề về cơ sở hạ tầng, y tế và môi trường. Ứng dụng IoT có thể được sử dụng cho các mục đích:\n+ Đo lường chất lượng không khí và mức độ bức xạ.\n+ Giảm chi phí năng lượng nhờ hệ thống chiếu sáng thông minh.\n+ Giảm chi phí năng lượng nhờ hệ thống chiếu sáng thông minh.\n+ Xác định thời điểm cần bảo trì các cơ sở hạ tầng quan trọng như đường xá, cầu cống và đường ống.\n+ Tăng lợi nhuận thông qua công tác quản lý bãi đỗ xe hiệu quả."
+            ]
+        },
+        {
+            "tag": "?iot_8",
+            "patterns": ["Công trình thông minh"],
+            "responses": [
+                "Các công trình như khuôn viên trường đại học và công trình thương mại sử dụng ứng dụng IoT để thúc đẩy hoạt động hiệu quả hơn. Những công trình thông minh có thể sử dụng các thiết bị IoT cho mục đích:\n+ Giảm mức tiêu thụ năng lượng.\n+ Giảm chi phí bảo trì.\n+ Tận dụng không gian làm việc hiệu quả hơn."
+            ]
+        },
+        {
+            "tag": "iot_9",
+            "patterns": ["IoT công nghiệp là gì?"],
+            "responses": [
+                "IoT công nghiệp (IIoT) đề cập đến các thiết bị thông minh được sử dụng trong sản xuất, bán lẻ, y tế và các lĩnh vực khác để tạo ra hiệu quả kinh doanh. Các thiết bị công nghiệp, từ cảm biến đến máy móc, cung cấp cho chủ doanh nghiệp dữ liệu chi tiết theo thời gian thực để các doanh nghiệp có thể sử dụng phục vụ mục đích cải thiện quá trình kinh doanh. Những thiết bị này cung cấp thông tin chuyên sâu về quản lý chuỗi cung ứng, kho vận, nguồn nhân lực và sản xuất – giảm chi phí và tăng luồng doanh thu. Một số ngành phổ biến áp dụng IoT công nghiệp như: Sản xuất, Công nghiệp ô tô, Kho vận và vận tải và bán lẻ"
+            ]
+        },
+        {
+            "tag": "iot_10",
+            "patterns": ["IoT công nghiệp áp dụng trong sản xuất"],
+            "responses": [
+                "IoT doanh nghiệp trong sản xuất sử dụng khả năng bảo trì dự đoán để giảm thời gian ngừng hoạt động ngoài dự kiến và công nghệ đeo trên người để cải thiện an toàn cho người lao động. Các ứng dụng IoT có thể dự đoán lỗi máy móc trước khi nó xảy ra, giúp giảm thời gian ngừng sản xuất. Thiết bị gắn trên mũ bảo hiểm và vòng tay, cũng như các camera thị giác máy tính được sử dụng để cảnh báo người lao động về những mối nguy hiểm tiềm ẩn."
+            ]
+        },
+        {
+            "tag": "iot_11",
+            "patterns": ["IoT công nghiệp áp dụng trong công nghiệp ô tô"],
+            "responses": [
+                "Phân tích dựa theo cảm biến và robot giúp tăng hiệu quả trong sản xuất ô tô và công tác bảo dưỡng. Ví dụ: các cảm biến công nghiệp được sử dụng để cung cấp hình ảnh 3D của các thành phần bên trong phương tiện theo thời gian thực. Việc chẩn đoán và khắc phục sự cố có thể được thực hiện nhanh hơn nhiều trong khi hệ thống IoT tự động đặt hàng các phụ tùng thay thế."
+            ]
+        },
+        {
+            "tag": "iot_12",
+            "patterns": ["IoT công nghiệp áp dụng trong công nghiệp kho vận và vận tải"],
+            "responses": [
+                "Các thiết bị IoT thương mại và công nghiệp có thể hỗ trợ quản lý chuỗi cung ứng, bao gồm quản lý hàng tồn kho, mối quan hệ với nhà cung cấp, quản lý đội xe và bảo trì theo lịch. Các công ty vận chuyển sử dụng ứng dụng IoT công nghiệp để theo dõi tài sản và tối ưu hóa mức tiêu thụ nhiên liệu trên các tuyến vận chuyển. Công nghệ này đặc biệt hữu dụng trong việc kiểm soát chặt chẽ nhiệt độ trong các công-ten-nơ lạnh. Nhờ các thuật toán định tuyến và tái định tuyến thông minh, các quản lý chuỗi cung ứng có thể đưa ra những dự đoán sáng suốt"
+            ]
+        },
+        {
+            "tag": "iot_13",
+            "patterns": ["IoT công nghiệp áp dụng trong công nghiệp bán lẻ"],
+            "responses": [
+                "Amazon đang thúc đẩy quá trình đổi mới tự động hóa và hợp tác giữa con người và máy móc trong lĩnh vực bán lẻ. Các cơ sở của Amazon sử dụng robot được kết nối Internet để theo dõi, định vị, phân loại và vận chuyển sản phẩm."
+            ]
+        },
+        {
+            "tag": "iot_14",
+            "patterns": ["IoT có thể cải thiện cuộc sống của chúng ta như thế nào?"],
+            "responses": [
+                "Internet vạn vật tác động sâu rộng tới cuộc sống cũng như công việc của con người. IoT cho phép máy móc xử lý phần việc nặng nhọc, đảm nhiệm những nhiệm vụ nhàm chán và giúp cuộc sống trở nên lành mạnh, năng suất và thoải mái hơn.\nVí dụ: các thiết bị thông minh có thể thay đổi hoàn toàn thói quen buổi sáng của bạn. Khi bạn nhấn nút tạm hoãn, chiếc đồng hồ báo thức của bạn sẽ tự động bật máy pha cà phê và kéo mở rèm cửa sổ. Tủ lạnh của bạn sẽ tự động phát hiện những thực phẩm sắp hết và đặt mua giao tận nhà. Lò nướng thông minh sẽ cho bạn biết thực đơn trong ngày và thậm chí còn nấu những nguyên liệu đã được chuẩn bị sẵn để đảm bảo rằng bữa trưa của bạn đã sẵn sàng. Chiếc đồng hồ thông minh sẽ lên lịch họp cho bạn, trong khi đó, chiếc ô tô thông minh của bạn tự động đặt vị trí GPS dừng xe để nạp nhiên liệu. Tiềm năng là vô hạn trong thế giới IoT!"
+            ]
+        },
+        {
+            "tag": "iot_15",
+            "patterns": ["IoT mang tới cho doanh nghiệp những lợi ích gì?"],
+            "responses": [
+                "Tăng tốc độ đổi mới\nInternet vạn vật mang tới cho các doanh nghiệp khả năng tiếp cận với những phân tích nâng cao để khám phá các cơ hội mới. Ví dụ: các doanh nghiệp có thể tạo ra những chiến dịch tiếp thị nhắm mục tiêu chuẩn xác bằng cách thu thập dữ liệu về hành vi của khách hàng.\n\nChuyển đổi dữ liệu thành thông tin chuyên sâu và hành động bằng AI và ML\nDữ liệu và xu hướng trong quá khứ đã thu thập có thể được sử dụng để dự đoán kết quả trong tương lai. Ví dụ: thông tin bảo hành có thể được ghép cặp với dữ liệu do IoT thu thập để dự đoán các sự cố bảo trì. Lợi thế này có thể được sử dụng để chủ động cung cấp dịch vụ khách hàng cũng như xây dựng lòng trung thành của khách.\n\nTăng tính bảo mật\nViệc liên tục giám sát cơ sở hạ tầng kỹ thuật số cũng như vật lý có thể tối ưu hóa hiệu suất, cải thiện mức độ hiệu quả và giảm bớt rủi ro an toàn. Ví dụ: dữ liệu được thu thập từ một thiết bị giám sát tại chỗ có thể kết hợp với dữ liệu phần cứng và phiên bản firmware để tự động lên lịch cập nhật hệ thống.\n\nThay đổi quy mô các giải pháp khác biệt\nCông nghệ IoT có thể được triển khai theo hướng tập trung vào khách hàng để cải thiện mức độ hài lòng. Ví dụ: các sản phẩm bán chạy có thể được bổ sung kịp thời để tránh tình trạng thiếu hụt hàng hóa."
+            ]
+        },
+        {
+            "tag": "iot_16",
+            "patterns": ["Các công nghệ IoT là gì?"],
+            "responses": [
+                "Các công nghệ được sử dụng trong hệ thống IoT có thể bao gồm:\n\nĐiện toán biên\nĐiện toán biên đề cập đến công nghệ được sử dụng để điều khiển các thiết bị thông minh thực hiện nhiều tác vụ hơn, không chỉ đơn thuần là gửi hay nhận dữ liệu từ nền tảng IoT của chúng. Công nghệ này tăng cường công suất điện toán tại biên của một mạng lưới IoT, giảm bớt độ trễ trong giao tiếp và cải thiện tốc độ phản hồi.\n\nĐiện toán đám mây\nCông nghệ đám mây được sử dụng để lưu trữ dữ liệu từ xa và quản lý thiết bị IoT, giúp nhiều thiết bị trong mạng lưới có thể truy cập dữ liệu.\n\nMáy học\nMáy học đề cập đến phần mềm và thuật toán được sử dụng để xử lý dữ liệu và đưa ra các quyết định theo thời gian thực dựa trên dữ liệu đó. Những thuật toán máy học này có thể được triển khai trên đám mây hoặc tại biên."
+            ]
+        },
+        {
+            "tag": "iot_17",
+            "patterns": [
+                "Ưu điểm của IoT là gì",
+                "Các lợi ích của công nghệ IoT là gì?",
+                "Tìm hiểu về các ưu điểm của IoT.",
+                "Những điểm mạnh của hệ thống IoT là gì?",
+                "IoT có những ưu điểm gì?",
+                "Các khả năng của công nghệ IoT là gì?",
+                "Tính đa dạng và linh hoạt của IoT là điểm mạnh nổi bật.",
+                "Tìm hiểu về sức mạnh của việc tích hợp thiết bị IoT.",
+                "Các tiện ích và lợi ích khi triển khai công nghệ IoT.",
+                "Những ưu điểm chính của hệ thống IoT.",
+                "IoT mang lại những lợi ích gì cho doanh nghiệp?",
+                "Các cơ hội phát triển và ứng dụng của công nghệ IoT.",
+                "Tìm hiểu về tầm quan trọng và ưu điểm của IoT trong cuộc sống hiện đại.",
+                "Sự tiện lợi và hiệu quả của việc sử dụng thiết bị IoT.",
+                "Sự tiện lợi của thiết bị IoT.",
+                "Các ưu điểm của IoT trong việc giám sát và quản lý.",
+                "Tích hợp IoT mang lại những lợi ích gì cho ngành công nghiệp?",
+                "Tầm quan trọng và lợi ích của hệ thống IoT trong môi trường kinh doanh.",
+                "Các ưu điểm của việc ứng dụng IoT trong quản lý đô thị và thông minh."
+            ],
+            "responses": [
+                "- Ưu điểm của IoT bao gồm: \n+ Truy cập thông tin từ mọi lúc, mọi nơi trên mọi thiết bị.\n+ Cải thiện việc giao tiếp\n+ Chuyển dữ liệu qua mạng Internet giúp tiết kiệm thời gian và tiền bạc.\n+ Tự động hóa các nhiệm vụ giúp cải thiện chất lượng dịch vụ của doanh nghiệp."
+            ]
+        },
+        {
+            "tag": "iot_18",
+            "patterns": [
+                "Nhược điểm của IoT là gì",
+                "Nhược điểm của công nghệ IoT là gì?",
+                "Các hạn chế của IoT là gì?",
+                "Tìm hiểu về các vấn đề của IoT.",
+                "Những điểm yếu của hệ thống IoT là gì?",
+                "IoT có những khuyết điểm gì?",
+                "Các vấn đề bảo mật trong công nghệ IoT là gì?",
+                "Những điểm mạnh và điểm yếu của IoT.",
+                "Tìm hiểu về các nguy cơ an ninh trong hệ thống IoT.",
+                "Các vấn đề về quản lý và bảo trì hệ thống IoT.",
+                "IoT có thể gặp phải những khó khăn gì?",
+                "Những rủi ro của công nghệ IoT là gì?",
+                "Nhược điểm chính của hệ thống IoT.",
+                "Tìm hiểu về các vấn đề liên quan đến tích hợp thiết bị IoT.",
+                "Các vấn đề về bảo mật dữ liệu trong IoT.",
+                "Các rủi ro và thách thức khi triển khai IoT.",
+                "Tìm hiểu về các lỗ hổng bảo mật có thể xảy ra trong IoT.",
+                "Các vấn đề của hệ thống IoT khi phát triển.",
+                "Những điểm yếu của việc sử dụng thiết bị IoT.",
+                "Tìm hiểu về các vấn đề về quyền riêng tư trong công nghệ IoT.",
+                "IoT có thể gây ra những vấn đề nào cho môi trường và xã hội?"
+            ],
+            "responses": [
+                "- Nhược điểm của IoT bao gồm: \n+ Khi nhiều thiết bị được kết nối và nhiều thông tin được chia sẻ giữa các thiết bị, thì hacker có thể lấy cắp thông tin bí mật cũng tăng lên.\n+ Các doanh nghiệp có thể phải đối phó với số lượng lớn thiết bị IoT và việc thu thập và quản lý dữ liệu từ các thiết bị đó sẽ là một thách thức.\n+ Nếu có lỗi trong hệ thống, có khả năng mọi thiết bị được kết nối sẽ bị hỏng.\n+ Vì không có tiêu chuẩn quốc tế về khả năng tương thích cho IoT, rất khó để các thiết bị từ các nhà sản xuất khác nhau giao tiếp với nhau."
+            ]
+        }
+    ]
+}

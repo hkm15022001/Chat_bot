@@ -1,0 +1,244 @@
+{
+    "intents": [
+        {
+            "tag": "goi_cuoc_m2m_1",
+            "patterns": [
+                "Các loại gói cước",
+                "Sản phẩm gói cước M2M có những gì",
+                "Gói cước M2M có những loại nào",
+                "Có những loại gói cước M2M nào?",
+                "Những tính năng nào gói cước M2M hỗ trợ?",
+                "Gói cước M2M bao gồm những loại nào những gì?",
+                "Gói cước M2M hỗ trợ những dịch vụ nào?",
+                "Tính năng của các loại gói cước M2M",
+                "Có bao nhiêu loại gói cước M2M?",
+                "Nên chọn gói cước M2M nào?",
+                "Gói cước M2M hỗ trợ các tính năng nổi bật gì?",
+                "Gói cước M2M hỗ trợ các ứng dụng nào?",
+                "Cho tôi biết về các gói cước mà bạn đang cung cấp.",
+                "Có thể giới thiệu về các gói cước phổ biến không?",
+                "Cho tôi biết những lựa chọn gói cước hiện có.",
+                "Tôi muốn biết về các gói cước phổ biến nhất.",
+                "Có thể giới thiệu về các gói cước dành cho doanh nghiệp không?",
+                "Xin hỏi về các tính năng của các gói cước."
+            ],
+            "responses": [
+                "Viettel hỗ trợ đa dạng các loại gói cước phù hợp nhu cầu khách hàng, bao gồm 8 loại sau: Các gói cước Đo lưu lượng (Metering), Các gói cước dành cho Giám sát hành trình, Các gói cước dành cho Máy thanh toán POS, Các gói cước dành cho Loa phường thông minh, Các gói cước dành cho Màn hình quảng cáo, Các gói cước dành cho Camera, Các gói cước dành cho Ô tô và Các gói cước dành cho Thiết bị bán hàng. Để biết thêm thông tin cụ thể về các gói cước như giá và thời hạn hãy chat \"Gói cước [loại gói cước]\""
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_2",
+            "patterns": [
+                "Các gói cước Đo lưu lượng (Metering).",
+                "Đo lưu lượng (Metering) có những gói cước nào",
+                "Có những gói cước nào cho việc đo lưu lượng (Metering)?",
+                "Có bao nhiêu loại gói cước để đo lưu lượng (Metering)?",
+                "Gói cước nào hỗ trợ đo lưu lượng (Metering)?",
+                "Những gói cước nào được cung cấp để đáp ứng nhu cầu đo lưu lượng (Metering)?",
+                "Có những lựa chọn nào cho việc đo lưu lượng (Metering)?",
+                "Tôi có thể chọn gói cước nào để đo lưu lượng (Metering)?",
+                "Gói cước nào phù hợp với yêu cầu đo lưu lượng (Metering) của tôi?",
+                "Có bao nhiêu loại gói cước đo lưu lượng (Metering) có sẵn?",
+                "Đo lưu lượng (Metering) có những lựa chọn nào về gói cước?",
+                "Hãy cho tôi biết về các gói cước đo lưu lượng (Metering).",
+                "Tôi cần tìm hiểu về các gói cước đo lưu lượng (Metering).",
+                "Có những gói cước nào dành cho việc đo lưu lượng (Metering)?",
+                "Tôi nên chọn gói cước đo lưu lượng (Metering) nào?",
+                "Hãy chỉ cho tôi về các gói cước đo lưu lượng (Metering).",
+                "Có bao nhiêu loại gói cước đo lưu lượng (Metering) có sẵn để lựa chọn?",
+                "Gói cước nào là phù hợp nhất để đo lưu lượng (Metering)?",
+                "Tôi muốn biết thêm về các lựa chọn gói cước đo lưu lượng (Metering).",
+                "Đo lường lưu lượng (Metering) có những gói cước nào đáng xem xét?",
+                "Có những gói cước nào được đề xuất để đo lưu lượng (Metering)?"
+            ],
+            "responses": [
+                "Đo lưu lượng (Metering) có 4 gói cước bao gồm IOT10 (10.000 VNĐ/30 ngày), Connect10 (10.000 VNĐ/30 ngày), Connect20 (20.000 VNĐ/30 ngày) và NBM2M_MD (10.000 VNĐ/30 ngày). Bạn có thể chọn 1 trong 4 gói cước này tùy thuộc vào nhu cầu của bạn."
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_3",
+            "patterns": [
+                "Các gói cước dành cho Giám sát hành trình.",
+                "Giám sát hành trình có những gói cước nào",
+                "Có những gói cước nào trong giám sát hành trình?",
+                "Xin hãy liệt kê các gói cước trong giám sát hành trình.",
+                "Giám sát hành trình cung cấp những gói cước gì?",
+                "Hãy cho biết các loại gói cước của dịch vụ giám sát hành trình.",
+                "Có bao nhiêu loại gói cước khác nhau cho giám sát hành trình?",
+                "Giám sát hành trình có thể sử dụng các gói cước nào?",
+                "Xin cho biết thông tin về các gói cước trong giám sát hành trình.",
+                "Hãy trình bày về các lựa chọn gói cước trong dịch vụ giám sát hành trình.",
+                "Có những gói cước nào được cung cấp bởi dịch vụ giám sát hành trình?",
+                "Giám sát hành trình đưa ra những lựa chọn gói cước nào cho khách hàng?",
+                "Hãy đề cập đến các gói cước có sẵn trong dịch vụ giám sát hành trình.",
+                "Giám sát hành trình cung cấp những gói cước với những tính năng khác nhau.",
+                "Xin hãy nêu danh sách các gói cước của giám sát hành trình.",
+                "Có bao nhiêu gói cước được cung cấp cho dịch vụ giám sát hành trình?",
+                "Giám sát hành trình đưa ra những lựa chọn về gói cước như thế nào?",
+                "Hãy giới thiệu về các gói cước có sẵn trong dịch vụ giám sát hành trình.",
+                "Xin cho biết thông tin chi tiết về từng gói cước của giám sát hành trình.",
+                "Giám sát hành trình cung cấp những tùy chọn gói cước phù hợp với nhu cầu nào?",
+                "Có những gói cước nào được khuyến nghị trong giám sát hành trình?",
+                "Tôi muốn dùng những gói cước hỗ trợ giám sát hành trình",
+                "Tôi muốn sử dụng những gói cước dành cho giám sát hành trình",
+                "Cho tôi biết về những gói cước hỗ trợ giám sát hành trình.",
+                "Tôi muốn tìm hiểu về các gói cước giám sát hành trình.",
+                "Tôi cần thông tin chi tiết về các gói cước hỗ trợ giám sát hành trình.",
+                "Hãy giới thiệu cho tôi các gói cước giám sát hành trình hiện có.",
+                "Tôi quan tâm đến việc sử dụng gói cước giám sát hành trình.",
+                "Xin hướng dẫn về các gói cước giám sát hành trình mà bạn có.",
+                "Có những gói cước nào dành riêng cho việc giám sát hành trình?",
+                "Tôi muốn biết về các gói cước hỗ trợ giám sát lộ trình.",
+                "Có những lựa chọn gói cước nào cho việc theo dõi hành trình?",
+                "Hãy cung cấp thông tin về các gói cước giám sát lộ trình có sẵn.",
+                "Tôi quan tâm đến việc sử dụng gói cước giám sát lộ trình của bạn.",
+                "Có những gói cước nào cho việc giám sát hành trình xe cộ?",
+                "Hãy giới thiệu tôi với các gói cước hỗ trợ giám sát hành trình của bạn.",
+                "Tôi quan tâm đến việc tìm hiểu về gói cước giám sát hành trình.",
+                "Có những lựa chọn gói cước nào dành cho việc theo dõi lộ trình di chuyển?"
+            ],
+            "responses": [
+                "Giám sát hành trình có 5 gói cước bao gồm Tracking10 (10.000 VNĐ/30 ngày), Tracking12 (12.000 VNĐ/30 ngày), Tracking15 (15.000 VNĐ/30 ngày), Tracking18 (18.000 VNĐ/30 ngày) và DBIZ10 (10.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_4",
+            "patterns": [
+                "Các gói cước dành cho Máy thanh toán POS",
+                "Máy thanh toán POS có những gói cước nào",
+                "Tìm hiểu về các gói cước đa dạng cho Máy thanh toán POS.",
+                "Các lựa chọn gói cước phong phú cho Máy thanh toán POS.",
+                "Máy thanh toán POS - Tìm hiểu các gói cước ưu đãi đang có.",
+                "Bảng giá chi tiết các gói cước dành cho Máy thanh toán POS.",
+                "Các gói cước dành cho Máy thanh toán POS đang có khuyến mãi gì?",
+                "Tìm hiểu về các gói cước giá rẻ cho Máy thanh toán POS.",
+                "Máy thanh toán POS có những gói cước nào phù hợp với doanh nghiệp của bạn?",
+                "Các gói cước tiết kiệm chi phí cho Máy thanh toán POS.",
+                "Các lựa chọn gói cước linh hoạt cho Máy thanh toán POS.",
+                "Máy thanh toán POS - Xem xét các gói cước được ưa chuộng.",
+                "Tìm hiểu về các gói cước cao cấp cho Máy thanh toán POS.",
+                "Các gói cước Máy thanh toán POS phù hợp cho doanh nghiệp vừa và nhỏ.",
+                "Ưu điểm của các gói cước linh hoạt cho Máy thanh toán POS.",
+                "Máy thanh toán POS - Các gói cước phổ biến và tiện ích.",
+                "Các gói cước tích hợp dịch vụ tài chính cho Máy thanh toán POS.",
+                "Tính năng và ưu đãi của các gói cước dành cho Máy thanh toán POS.",
+                "Máy thanh toán POS - Hướng dẫn chọn gói cước phù hợp với nhu cầu kinh doanh của bạn."
+            ],
+            "responses": [
+                "Có 2 gói cước bao gồm SHOP20 (20.000 VNĐ/30 ngày) và SHOP30 (30.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_5",
+            "patterns": [
+                "Các gói cước dành cho Loa phường thông minh",
+                "Loa phường thông minh có những gói cước nào",
+                "Các gói cước dành cho Loa phường thông minh đang có khuyến mãi gì?",
+                "Tìm hiểu về các gói cước giá rẻ cho Loa phường thông minh.",
+                "Loa phường thông minh có những gói cước nào phù hợp với nhu cầu của bạn?",
+                "Các gói cước tiết kiệm chi phí cho Loa phường thông minh.",
+                "Các lựa chọn gói cước linh hoạt cho Loa phường thông minh.",
+                "Loa phường thông minh - Xem xét các gói cước được ưa chuộng.",
+                "Tìm hiểu về các gói cước cao cấp cho Loa phường thông minh.",
+                "Các gói cước Loa phường thông minh phù hợp cho người dùng cá nhân.",
+                "Ưu điểm của các gói cước linh hoạt cho Loa phường thông minh.",
+                "Bảng giá các gói cước Loa phường thông minh hiện có trên thị trường.",
+                "Loa phường thông minh - Các gói cước phổ biến và tiện ích.",
+                "Tìm hiểu về các gói cước thanh toán trả trước cho Loa phường thông minh.",
+                "Loa phường thông minh - Xem xét các gói cước cho nhu cầu giải trí gia đình.",
+                "Các gói cước phù hợp với người dùng cá nhân cho Loa phường thông minh.",
+                "Loa phường thông minh - Chọn gói cước phù hợp với nhu cầu sử dụng của bạn.",
+                "Tính năng và ưu đãi của các gói cước dành cho Loa phường thông minh.",
+                "Loa phường thông minh - Hướng dẫn chọn gói cước phù hợp với nhu cầu giải trí của bạn."
+            ],
+            "responses": [
+                "Có 2 gói cước bao gồm LED15 (15.000 VNĐ/30 ngày) và LED15 12 tháng (180.000 VNĐ/360 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_6",
+            "patterns": [
+                "Các gói cước dành cho màn hình quảng cáo",
+                "Màn hình quảng cáo có những gói cước nào",
+                "Các gói cước dành cho màn hình quảng cáo đang có khuyến mãi gì?",
+                "Tìm hiểu về các gói cước giá rẻ cho màn hình quảng cáo.",
+                "Màn hình quảng cáo có những gói cước nào phù hợp với nhu cầu của bạn?",
+                "Các gói cước tiết kiệm chi phí cho màn hình quảng cáo.",
+                "Các lựa chọn gói cước linh hoạt cho màn hình quảng cáo.",
+                "Màn hình quảng cáo - Xem xét các gói cước được ưa chuộng.",
+                "Tìm hiểu về các gói cước cao cấp cho màn hình quảng cáo.",
+                "Các gói cước màn hình quảng cáo phù hợp cho doanh nghiệp vừa và nhỏ.",
+                "Ưu điểm của các gói cước linh hoạt cho màn hình quảng cáo.",
+                "Bảng giá các gói cước màn hình quảng cáo hiện có trên thị trường.",
+                "Màn hình quảng cáo - Các gói cước phổ biến và tiện ích.",
+                "Tìm hiểu về các gói cước thanh toán trả trước cho màn hình quảng cáo.",
+                "Các gói cước phù hợp với doanh nghiệp vừa và lớn cho màn hình quảng cáo.",
+                "Ưu điểm và nhược điểm của các gói cước màn hình quảng cáo.",
+                "Tìm hiểu về các gói cước đặc biệt cho màn hình quảng cáo trong dịp lễ.",
+                "Màn hình quảng cáo - Chọn gói cước phù hợp với nhu cầu quảng bá của bạn.",
+                "Tính năng và ưu đãi của các gói cước dành cho màn hình quảng cáo."
+            ],
+            "responses": [
+                "Có 5 gói cước bao gồm LED20 (20.000 VNĐ/30 ngày), LED30 (30.000 VNĐ/30 ngày), LED30 6 tháng (180.000 VNĐ/30 ngày), LED20 12 tháng (240.000 VNĐ/30 ngày) và LED30 12 tháng (360.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_7",
+            "patterns": [
+                "Các gói cước dành cho camera",
+                "Camera có những gói cước nào",
+                "Các gói cước dành cho camera đang có khuyến mãi gì?",
+                "Tìm hiểu về các gói cước giá rẻ cho camera.",
+                "Camera có những gói cước nào phù hợp với nhu cầu của bạn?",
+                "Các gói cước tiết kiệm chi phí cho camera.",
+                "Các lựa chọn gói cước linh hoạt cho camera.",
+                "Camera - Xem xét các gói cước được ưa chuộng.",
+                "Tìm hiểu về các gói cước cao cấp cho camera.",
+                "Các gói cước camera phù hợp cho hộ gia đình và doanh nghiệp.",
+                "Ưu điểm của các gói cước linh hoạt cho camera.",
+                "Bảng giá các gói cước camera hiện có trên thị trường.",
+                "Camera - Các gói cước phổ biến và tiện ích.",
+                "Tìm hiểu về các gói cước dành cho camera an ninh.",
+                "Camera - Xem xét các gói cước cho nhu cầu giám sát công ty.",
+                "Các gói cước phù hợp với hộ gia đình và doanh nghiệp cho camera.",
+                "Ưu điểm và nhược điểm của các gói cước camera.",
+                "Tìm hiểu về các gói cước đặc biệt cho camera trong dịp lễ.",
+                "Camera - Chọn gói cước phù hợp với nhu cầu giám sát của bạn.",
+                "Các gói cước tích hợp dịch vụ lưu trữ đám mây cho camera.",
+                "Tính năng và ưu đãi của các gói cước dành cho camera.",
+                "Camera - Hướng dẫn chọn gói cước phù hợp với nhu cầu giám sát của bạn."
+            ],
+            "responses": [
+                "Có 9 gói cước bao gồm CAM50 (50.000 VNĐ/30 ngày), CAM70 (70.000 VNĐ/30 ngày), CAM50 12 tháng (600.000 VNĐ/360 ngày), CAM70 12 tháng (840.000 VNĐ/360 ngày), CAM120 (120.000 VNĐ/30 ngày), CAM150 (150.000 VNĐ/30 ngày), CAM200 (200.000 VNĐ/30 ngày), CAM250 (250.000 VNĐ/30 ngày) và CAM300 (300.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_8",
+            "patterns": [
+                "Các gói cước dành cho ô tô",
+                "Ô tô có những gói cước nào",
+                "Các gói cước dành cho ô tô đang có khuyến mãi gì?",
+                "Tìm hiểu về các gói cước giá rẻ cho ô tô.",
+                "Ô tô có những gói cước nào phù hợp với nhu cầu của bạn?",
+                "Các gói cước tiết kiệm chi phí cho ô tô.",
+                "Các lựa chọn gói cước linh hoạt cho ô tô.",
+                "Ô tô - Xem xét các gói cước được ưa chuộng.",
+                "Tìm hiểu về các gói cước cao cấp cho ô tô.",
+                "Các gói cước ô tô phù hợp cho cá nhân và doanh nghiệp.",
+                "Bảng giá các gói cước ô tô hiện có trên thị trường.",
+                "Ô tô - Các gói cước phổ biến và tiện ích.",
+                "Tìm hiểu về các gói cước bảo hiểm cho ô tô.",
+                "Ô tô - Xem xét các gói cước cho nhu cầu cá nhân và gia đình.",
+                "Các gói cước phù hợp với cá nhân và doanh nghiệp cho ô tô.",
+                "Tìm hiểu về các gói cước đặc biệt cho ô tô trong dịp lễ.",
+                "Ô tô - Chọn gói cước phù hợp với nhu cầu sử dụng của bạn.",
+                "Các gói cước tích hợp dịch vụ hỗ trợ đường xa cho ô tô.",
+                "Tính năng và ưu đãi của các gói cước dành cho ô tô.",
+                "Ô tô - Hướng dẫn chọn gói cước phù hợp với nhu cầu sử dụng của bạn."
+            ],
+            "responses": [
+                "Có 6 gói cước bao gồm DCAR60 (60.000 VNĐ/30 ngày), DCAR60 6 tháng (360.000 VNĐ/180 ngày), DCAR90 (90.000 VNĐ/30 ngày), DCAR120 (120.000 VNĐ/30 ngày), DCAR150 (150.000 VNĐ/30 ngày) và DCAR180 (180.000 VNĐ/30 ngày)"
+            ]
+        }
+    ]
+}

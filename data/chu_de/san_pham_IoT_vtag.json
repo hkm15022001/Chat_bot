@@ -1,0 +1,151 @@
+{
+    "intents": [
+        {
+            "tag": "?thong_tin_vtag",
+            "patterns": [
+                "Vtag là gì?",
+                "vtag là cái gì",
+                "vtag cụ thể là cái gì",
+                "Tôi muốn hỏi về vtag",
+                "thông tin về vtag",
+                "chi tiết về vtag",
+                "cụ thể về vtag",
+                "thông tin chi tiết về vtag",
+                "thêm thông tin về vtag",
+                "Xin hãy giải thích về vtag.",
+                "Tôi quan tâm đến thông tin về vtag, bạn có thể cung cấp không?",
+                "Hãy giới thiệu chi tiết về vtag.",
+                "Tôi muốn biết cụ thể về vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin chi tiết về vtag.",
+                "Tôi muốn tìm hiểu thêm về vtag.",
+                "Có những tính năng gì đáng chú ý trong vtag?",
+                "Hãy cung cấp thông tin về chức năng của vtag.",
+                "Tôi đang tìm hiểu về vtag, có thể cho tôi biết thêm không?"
+            ],
+            "responses": [
+                "vTag là sản phẩm định vị không dây của Viettel được thiết kế và sản xuất dựa trên sự kết hợp định vị GPS và định vị cột sóng BTS nhà mạng Viettel nên cho ra kết quả định vị chính xác và hiệu quả cao. Vtag được thiết kế rất thời trang và nhỏ gọn giúp bố mẹ quản lý con, hay con định vị bố mẹ già, hay đeo vTag cho thú cưng (chó mèo). Ngoài ra dùng vTag lên các đồ vật giá trị như xe ô tô xe máy, hành lý, thùng hàng... và rất nhiều mục đích khác để có thể định vị và theo dõi báo động chính xác nhất"
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vtag",
+            "patterns": [
+                "Chức năng của vtag.",
+                "tính năng về vtag",
+                "vtag có thể làm được những gì",
+                "các tính năng của vtag",
+                "vtag có chức năng gì",
+                "vtag có những tính năng gì",
+                "Xin hãy giới thiệu về chức năng của vtag.",
+                "Tính năng về vtag là gì?",
+                "Hãy giải thích những việc mà vtag có thể làm được.",
+                "Tôi quan tâm đến các tính năng của vtag, bạn có thể cho tôi biết không?",
+                "Xin hãy cung cấp thông tin về các tính năng của vtag.",
+                "Tôi muốn tìm hiểu về tính năng cụ thể của vtag, có thể hướng dẫn tôi không?",
+                "Có những điểm nào đáng chú ý trong chức năng của vtag?",
+                "Hãy kể về các tính năng đặc biệt của vtag.",
+                "Tôi đang tìm hiểu về vtag, có thể cung cấp thông tin về tính năng không?",
+                "Xin hãy chỉ ra những công việc mà vtag có khả năng thực hiện.",
+                "Tôi cần hiểu rõ về tính năng và khả năng của vtag.",
+                "Có những ứng dụng gì trong tính năng của vtag?",
+                "Xin hãy giới thiệu về cách vtag có thể hỗ trợ và tiện ích cho người dùng.",
+                "Xin hãy cung cấp thông tin về những điểm mạnh trong chức năng của vtag.",
+                "Hãy giải thích cụ thể về các tính năng thông minh của vtag.",
+                "Tôi cần hiểu rõ về các tính năng nổi bật và sự đa dạng trong vtag."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vTag có thể kể đến như: \n1. Định vị chính xác: Định vị theo yêu cầu và chu kỳ đặt trước\n2. Xem lịch sử di chuyển: Hệ thống tự động lưu lại lịch sử di chuyển, cho phép bạn dễ dàng xem lại mọi lúc mọi nơi\n3. Cảm biến chuyển động:Thiết bị có trang bị cảm biến chuyển động, phát hiện di chuyển và cảnh báo về app.\n 4. Cảnh báo SOS: Trường hợp khẩn cấp, đối tượng sử dụng có thể chủ động nhất nút thiết bị trong 2 giây để lập tức gửi vị trí đến bạn.\n5. Thiết lập vùng an toàn: Người dùng có thể thiết lập vùng an toàn cho thiết bị và sẽ nhận được thông báo khi thiết bị ra khỏi vùng an toàn. "
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vtag",
+            "patterns": [
+                "Giá thành của vtag.",
+                "giá của vtag",
+                "vtag có giá bao nhiêu",
+                "chi phí cho vtag là bao nhiêu",
+                "vtag bao nhiêu tiền",
+                "Xin hãy cung cấp thông tin về giá thành của vtag.",
+                "Tôi quan tâm đến giá của vtag, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về giá của vtag.",
+                "Tôi muốn biết giá thành cụ thể cho vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về giá bán của vtag.",
+                "Tôi muốn tìm hiểu về giá cả của vtag.",
+                "Tôi đang tìm hiểu về giá của vtag, có thể cung cấp thông tin về giá không?",
+                "Xin hãy chỉ ra giá tiền của vtag.",
+                "Tôi cần hiểu rõ về giá cả và chi phí của vtag.",
+                "Có những gói giá và tùy chọn nào khi mua vtag?",
+                "Xin hãy giải thích cụ thể về chi phí cho việc sở hữu vtag.",
+                "Tôi muốn biết về các khoản phí và chi phí đi kèm khi sử dụng vtag.",
+                "Xin hãy cung cấp thông tin về các khuyến mãi và chương trình giảm giá cho vtag."
+            ],
+            "responses": [
+                "Giá thiết bị vTag: 990.000 VNĐ (bao gồm thiết bị và cáp sạc)\nCác tùy chọn màu sắc khác nhau có sẵn\nCước phí dịch vụ data esim kèm thiết bị:\n– VTAG25: 25.000đ/tháng\n– 6VTAG25: 150.000đ/6 tháng\n– 12VTAG25: 300.000đ/12 tháng\nCác màu khác nhau có sẵn bao gồm đen và trắng cho cả hai mẫu của vTag tiêu chuẩn."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vtag",
+            "patterns": [
+                "Cách sử dụng vtag.",
+                "cách cài đặt vtag",
+                "cài đặt vtag như thế nào",
+                "dùng vtag như nào",
+                "cách dùng vtag",
+                "Xin hãy hướng dẫn cách sử dụng vtag.",
+                "Tôi quan tâm đến cách sử dụng vtag, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách cài đặt vtag.",
+                "Tôi muốn biết cụ thể cách sử dụng vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về việc cài đặt vtag.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtag, có thể hướng dẫn tôi không?",
+                "Có những bước nào khi cài đặt vtag mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý khi sử dụng vtag.",
+                "Tôi đang tìm hiểu về cách cài đặt vtag, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cách sử dụng vtag một cách hiệu quả.",
+                "Tôi cần hiểu rõ về quy trình cài đặt vtag.",
+                "Có những hướng dẫn nào để sử dụng vtag một cách dễ dàng?",
+                "Xin hãy giải thích cách sử dụng vtag một cách chính xác.",
+                "Tôi muốn biết về các tính năng và ứng dụng của vtag khi đã cài đặt.",
+                "Hãy cung cấp thông tin về các yêu cầu kỹ thuật khi cài đặt vtag.",
+                "Tôi quan tâm đến các bước cài đặt vtag, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về quá trình cài đặt vtag.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtag một cách an toàn và hiệu quả.",
+                "Xin hãy cung cấp hướng dẫn về cách kích hoạt và sử dụng vtag.",
+                "Tôi cần hiểu rõ về cách dùng vtag một cách đơn giản và hiệu quả."
+            ],
+            "responses": [
+                "B1. Tải ứng dụng vtag trên điện thoại\nB2. Đăng ký tài khoản vTag. Sau khi tải và cài đặt phần mềm vTag thành công trên smartphone, bạn tiến hành mở ứng dụng nhấn vào nút “ĐĂNG KÝ NGAY” và tạo tài khoản với số điện thoại của bạn\nB3. Kết nối thiết bị: Sau khi đăng nhập tài khoản, vào thẻ ”thiết bị” nhấn nút dấu + ở góc dưới bên phải của màn hình, và quét mã QR đính kèm trong hộp hoặc nhập mã IMEI trên vỏ thiết bị\nB4. Kích hoạt thiết bị: Nhấn nút 1 lần để kích hoạt thiết bị. Sau đó thiết bị sẽ gửi thông tin vị trí đầu tiên về ứng dụng vTag, đồng thời nháy đèn xanh liên tục trong 30 giây."
+            ]
+        },
+        {
+            "tag": "?bao_hanh_vtag",
+            "patterns": [
+                "Bảo hành của vtag.",
+                "chế độ bảo hành của vtag",
+                "cơ chế bảo hành vtag",
+                "chính sách bảo hành của vtag",
+                "Xin hãy cung cấp thông tin về bảo hành của vtag.",
+                "Tôi quan tâm đến chế độ bảo hành của vtag, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về cơ chế bảo hành vtag.",
+                "Tôi muốn biết cụ thể chế độ bảo hành của vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về chính sách bảo hành của vtag.",
+                "Tôi muốn tìm hiểu về chế độ bảo hành vtag, có thể hướng dẫn tôi không?",
+                "Có những yêu cầu nào khi sử dụng chế độ bảo hành vtag mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong chế độ bảo hành của vtag.",
+                "Tôi đang tìm hiểu về chính sách bảo hành của vtag, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cơ chế bảo hành của vtag.",
+                "Tôi cần hiểu rõ về quy trình khi yêu cầu bảo hành vtag.",
+                "Có những hướng dẫn nào về cơ chế bảo hành mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về chế độ bảo hành của vtag.",
+                "Tôi muốn biết về các điều kiện và điều khoản trong chính sách bảo hành vtag.",
+                "Hãy cung cấp thông tin về thời hạn và phạm vi bảo hành của vtag.",
+                "Tôi quan tâm đến các điều kiện khi yêu cầu bảo hành vtag, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về cơ chế khi yêu cầu bảo hành vtag.",
+                "Tôi muốn tìm hiểu về chính sách bảo hành vtag và những quyền lợi được hưởng.",
+                "Xin hãy cung cấp hướng dẫn về cách yêu cầu bảo hành và hỗ trợ kỹ thuật cho vtag.",
+                "Tôi cần hiểu rõ về chế độ bảo hành và các dịch vụ hỗ trợ kỹ thuật liên quan đến vtag."
+            ],
+            "responses": [
+                "vTag được bảo hành chính hãng 12 tháng tại tất cả các cửa hàng của Viettel Telecom và Viettel Store trên toàn quốc. Khách hàng có thể đến 1 trong 2 chuỗi cửa hàng trên để bảo hành hoặc sữa chữa thiết bị."
+            ]
+        }
+    ]
+}

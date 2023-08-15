@@ -1,0 +1,77 @@
+{
+    "intents": [
+        {
+            "tag": "!goi_cuoc_m2m",
+            "patterns": [
+                "Tôi muốn hỏi về gói cước",
+                "Thông tin về gói cước",
+                "Hãy chỉ dẫn tôi tới các thông tin về gói cước.",
+                "Tôi cần thông tin liên quan đến gói cước.",
+                "Tôi muốn biết thông tin về các gói cước"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "!quan_ly_thue_bao",
+            "patterns": [
+                "Thông tin về quản lý thuê bao",
+                "Tôi có thắc mắc về quản lý thuê bao",
+                "Tôi cần được giải đáp thắc mắc về quản lý thuê bao.",
+                "Tôi muốn nắm rõ chi tiết về quản lý thuê bao.",
+                "Có những gì cần biết về quản lý thuê bao?",
+                "Quản lý thuê bao thế nào"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "!san_pham_IoT",
+            "patterns": [
+                "Các giải pháp mẫu của nền tảng",
+                "Các giải pháp đặc trưng của nền tảng",
+                "Các sản phẩm IoT của nền tảng",
+                "Tham khảo một số giải pháp mẫu"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "!innoway_platform",
+            "patterns": [
+                "Tôi muốn tìm hiểu về innoway platform",
+                "Tôi muốn tìm hiểu về platform iot",
+                "Thông tin về nền tảng IoT",
+                "Thắc mắc về nền tảng IoT",
+                "Thông tin về innoway platform",
+                "tôi muốn hỏi về innoway platform",
+                "Tôi có thắc mắc về innoway platform",
+                "Tôi muốn biết thông tin về IoT"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "!iot",
+            "patterns": [
+                "Tôi muốn tìm hiểu về IoT",
+                "Tôi có một số câu hỏi về IoT",
+                "Thắc mắc về IoT",
+                "Tôi muốn biết về IoT",
+                "Kiến thức về IoT",
+                "Tôi muốn hỏi về IoT"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "giao_tiep_co_ban",
+            "patterns": [],
+            "responses": []
+        },
+        {
+            "tag": "giao_thuc_iot",
+            "patterns": [
+                "Tôi muốn tìm hiểu về giao thức IoT",
+                "Tôi có thắc mắc về giao thức IoT",
+                "Tôi muốn biết về giao thức IoT"
+            ],
+            "responses": []
+        }
+    ]
+}

@@ -1,0 +1,1467 @@
+{
+    "intents": [
+        {
+            "tag": "!goi_cuoc_m2m",
+            "patterns": [
+                "Tôi muốn hỏi về gói cước",
+                "Thông tin về gói cước",
+                "Hãy chỉ dẫn tôi tới các thông tin về gói cước.",
+                "Tôi cần thông tin liên quan đến gói cước.",
+                "Tôi muốn biết thông tin về các gói cước"
+            ],
+            "responses": [
+                "Các gói cước Đo lưu lượng (Metering).",
+                "Các gói cước dành cho Giám sát hành trình.",
+                "Các gói cước dành cho Máy thanh toán POS.",
+                "Các gói cước dành cho Loa phường thông minh.",
+                "Các gói cước dành cho màn hình quảng cáo.",
+                "Các gói cước dành cho camera.",
+                "Các gói cước dành cho ô tô."
+            ]
+        },
+        {
+            "tag": "!quan_ly_thue_bao",
+            "patterns": [
+                "Thông tin về quản lý thuê bao",
+                "Tôi có thắc mắc về quản lý thuê bao",
+                "Tôi cần được giải đáp thắc mắc về quản lý thuê bao.",
+                "Tôi muốn nắm rõ chi tiết về quản lý thuê bao.",
+                "Có những gì cần biết về quản lý thuê bao?",
+                "Quản lý thuê bao thế nào"
+            ],
+            "responses": [
+                "Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký.",
+                "Khách hàng có thể quản lý thuê bao cá nhân của mình trên hệ thống Telco không?",
+                "Khách hàng có thể quản lý những thông tin gì của thuê bao thuộc doanh nghiệp?",
+                "Chi phí để sử dụng Hệ thống Telco, thuộc nền tảng IoT Innoway là bao nhiêu?"
+            ]
+        },
+        {
+            "tag": "!san_pham_IoT",
+            "patterns": [
+                "Các giải pháp mẫu của nền tảng",
+                "Các giải pháp đặc trưng của nền tảng",
+                "Các sản phẩm IoT của nền tảng",
+                "Tham khảo một số giải pháp mẫu"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "!innoway_platform",
+            "patterns": [
+                "Tôi muốn tìm hiểu về innoway platform",
+                "Tôi muốn tìm hiểu về platform iot",
+                "Thông tin về nền tảng IoT",
+                "Thắc mắc về nền tảng IoT",
+                "Thông tin về innoway platform",
+                "tôi muốn hỏi về innoway platform",
+                "Tôi có thắc mắc về innoway platform"
+            ],
+            "responses": [
+                "Kết nối thiết bị thực với Platform.",
+                "Platform IoT là gì?",
+                "innoway của viettel là gì",
+                "Innoway cung cấp dịch vụ gì?",
+                "Innoway tích hợp những sản phẩm đặc trưng nào?"
+            ]
+        },
+        {
+            "tag": "!iot",
+            "patterns": [
+                "Tôi muốn tìm hiểu về IoT",
+                "Tôi có một số câu hỏi về IoT",
+                "Thắc mắc về IoT",
+                "Tôi muốn biết về IoT",
+                "Kiến thức về IoT"
+            ],
+            "responses": [
+                "Internet vạn vật (IoT) là gì?",
+                "Giao diện đồ họa người dùng",
+                "Ô tô thông minh",
+                "Nhà thông minh",
+                "Thành phố thông minh",
+                "Công trình thông minh"
+            ]
+        },
+        {
+            "tag": "giao_thuc_iot",
+            "patterns": [
+                "Tôi muốn tìm hiểu về giao thức IoT",
+                "Tôi có thắc mắc về giao thức IoT",
+                "Tôi muốn biết về giao thức IoT"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "giao_thuc_iot_2",
+            "patterns": [
+                "giao thức là gì",
+                "giao thức trong iot là gì",
+                "protocol trong iot là gì",
+                "Các giao thức thường gặp trong iot",
+                "Giao thức là khái niệm gì?",
+                "Khái niệm về giao thức trong lĩnh vực IoT là gì?",
+                "Giao thức trong IoT được định nghĩa như thế nào?",
+                "Các giao thức thông dụng trong lĩnh vực IoT là gì?",
+                "Giao thức là gì và có tác dụng gì?",
+                "Giao thức là thuật ngữ mang ý nghĩa gì?",
+                "Giao thức trong IoT là gì và có ý nghĩa như thế nào?",
+                "Giao thức trong IoT được mô tả như thế nào?",
+                "Giao thức là khái niệm có liên quan đến gì trong IoT?",
+                "Giao thức trong IoT có tác dụng gì?",
+                "Giao thức được hiểu như thế nào trong lĩnh vực IoT?",
+                "Giao thức trong IoT có tác dụng ra sao?",
+                "Giao thức là gì và ý nghĩa trong IoT như thế nào?",
+                "Khái niệm về giao thức trong IoT có gì?",
+                "Giao thức trong IoT mang ý nghĩa như thế nào?",
+                "Giao thức là gì và vai trò của nó trong IoT là gì?",
+                "Khái niệm giao thức trong IoT được định nghĩa như thế nào?",
+                "Giao thức trong IoT được mô tả ra sao?",
+                "Giao thức trong IoT có ý nghĩa gì?",
+                "Các giao thức thông dụng trong lĩnh vực IoT là gì?"
+            ],
+            "responses": [
+                "Giao thức (protocol/communication protocol) là bộ quy tắc chuẩn cho phép hai hoặc nhiều thực thể trong một hệ thống thông tin liên lạc để trao đổi thông tin, dữ liệu qua các kênh truyền thông.Các giao thức thường gặp là TCP, UDP, HTTP/HTTPS, MQTT, CoAP,..."
+            ]
+        },
+        {
+            "tag": "Mở đầu",
+            "patterns": [
+                "Chào bạn",
+                "Chào ad nhé",
+                "Hi",
+                "Chào thầy cô",
+                "Chào anh chị",
+                "Chào admin",
+                "Chào",
+                "Alo alo",
+                "Chào buổi tối",
+                "Chào buổi sáng",
+                "xin chào",
+                "chào ad",
+                "chào ad ạ",
+                "chào admin ạ",
+                "em xin chào",
+                "em xin chào ạ",
+                "em chào ad",
+                "em chào admin",
+                "em chào admin ạ",
+                "em chào ad min",
+                "em chào ad min ạ",
+                "chào ad min ạ",
+                "xin chào nhé",
+                "chào nhé",
+                "chào bạn",
+                "Hi ad",
+                "Hi admin",
+                "Hi ad min",
+                "Hi ad ạ",
+                "Hi admin ạ",
+                "Em chào ad nhé",
+                "Em chào admin nhé",
+                "Em chào ad min nhé",
+                "Alo ad",
+                "Alo admin",
+                "Alo ad min",
+                "Xin chào bạn",
+                "chào bạn nhé",
+                "mình xin chào",
+                "mình chào bạn",
+                "mình chào ad",
+                "mình chào admin",
+                "xin chào admin nhé",
+                "alo alo ad",
+                "hi ad min"
+            ],
+            "responses": [
+                "Chào bạn",
+                "Xin chào bạn",
+                "Chào bạn nhé",
+                "Xin chào bạn nhé",
+                "Xin chào"
+            ]
+        },
+        {
+            "tag": "Kết thúc",
+            "patterns": [
+                "Cám ơn admin ạ",
+                "Cảm ơn admin ạ",
+                "Cám ơn admin",
+                "Cám ơn ad",
+                "Cám ơn ad ạ",
+                "Cám ơn ad min",
+                "Em xin cảm ơn ạ",
+                "Em xin cám ơn",
+                "Em cảm ơn nhiều ạ",
+                "Em cám ơn nhiều ạ",
+                "Em cám ơn",
+                "Em xin cảm ơn",
+                "Em xin cám ơn ạ",
+                "Em cám ơn rất nhiều",
+                "Em cảm ơn rất nhiều ạ",
+                "Dạ em cảm ơn",
+                "Dạ em cám ơn",
+                "Dạ em cám ơn nhiều",
+                "Dạ em cảm ơn nhiều",
+                "Em cảm ơn admin ạ",
+                "Em cảm ơn ad ạ",
+                "Em cám ơn admin ạ",
+                "Em cám ơn ad ạ",
+                "Mình cảm ơn",
+                "mình cảm ơn nhiều nhé",
+                "mình cảm ơn nhé",
+                "mình cám ơn ad nhé",
+                "mình cám ơn admin",
+                "mình cảm ơn ad min nhé",
+                "cho mình cảm ơn nhé",
+                "cho mình cảm ơn bạn nhé",
+                "mình cảm ơn bạn nhé",
+                "okay mình cảm ơn nhé",
+                "ok mình cảm ơn nhé",
+                "ok em cảm ơn",
+                "okay em cảm ơn ạ",
+                "okay em cảm ơn ad",
+                "okay em cảm ơn ad min",
+                "ok em cảm ơn ad min",
+                "ok cảm ơn ad ạ",
+                "ok ạ, em cảm ơn nhiều",
+                "okay ạ, em cảm ơn ad",
+                "oke em hiểu rồi",
+                "oke em hiểu rồi ạ",
+                "ok em hiểu rồi ạ",
+                "ok em hiểu rồi ad",
+                "oke ad em hiểu rồi",
+                "okay ad em hiểu rồi",
+                "okay em hiểu rồi ạ",
+                "em hiểu rồi ok ad",
+                "em hiểu rồi ok admin",
+                "em hiểu rồi ok ad min",
+                "ok ad min em đã hiểu",
+                "em đã hiểu cám ơn ạ",
+                "em đã hiểu cảm ơn ad"
+            ],
+            "responses": [
+                "Okay",
+                "Ok bạn",
+                "Không có gì"
+            ]
+        },
+        {
+            "tag": "goi_cuoc_m2m_1",
+            "patterns": [
+                "Các loại gói cước",
+                "Sản phẩm gói cước M2M có những gì",
+                "Gói cước M2M có những loại nào",
+                "Có những loại gói cước M2M nào?",
+                "Những tính năng nào gói cước M2M hỗ trợ?",
+                "Gói cước M2M bao gồm những loại nào những gì?",
+                "Gói cước M2M hỗ trợ những dịch vụ nào?",
+                "Tính năng của các loại gói cước M2M",
+                "Có bao nhiêu loại gói cước M2M?",
+                "Nên chọn gói cước M2M nào?",
+                "Gói cước M2M hỗ trợ các tính năng nổi bật gì?",
+                "Gói cước M2M hỗ trợ các ứng dụng nào?",
+                "Cho tôi biết về các gói cước mà bạn đang cung cấp.",
+                "Có thể giới thiệu về các gói cước phổ biến không?",
+                "Cho tôi biết những lựa chọn gói cước hiện có.",
+                "Tôi muốn biết về các gói cước phổ biến nhất.",
+                "Có thể giới thiệu về các gói cước dành cho doanh nghiệp không?",
+                "Xin hỏi về các tính năng của các gói cước."
+            ],
+            "responses": [
+                "Viettel hỗ trợ đa dạng các loại gói cước phù hợp nhu cầu khách hàng, bao gồm 8 loại sau: Các gói cước Đo lưu lượng (Metering), Các gói cước dành cho Giám sát hành trình, Các gói cước dành cho Máy thanh toán POS, Các gói cước dành cho Loa phường thông minh, Các gói cước dành cho Màn hình quảng cáo, Các gói cước dành cho Camera, Các gói cước dành cho Ô tô và Các gói cước dành cho Thiết bị bán hàng. Để biết thêm thông tin cụ thể về các gói cước như giá và thời hạn hãy chat \"Gói cước [loại gói cước]\""
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_2",
+            "patterns": [
+                "Các gói cước Đo lưu lượng (Metering).",
+                "Đo lưu lượng (Metering) có những gói cước nào",
+                "Có những gói cước nào cho việc đo lưu lượng (Metering)?",
+                "Có bao nhiêu loại gói cước để đo lưu lượng (Metering)?",
+                "Gói cước nào hỗ trợ đo lưu lượng (Metering)?",
+                "Những gói cước nào được cung cấp để đáp ứng nhu cầu đo lưu lượng (Metering)?",
+                "Có những lựa chọn nào cho việc đo lưu lượng (Metering)?",
+                "Tôi có thể chọn gói cước nào để đo lưu lượng (Metering)?",
+                "Gói cước nào phù hợp với yêu cầu đo lưu lượng (Metering) của tôi?",
+                "Có bao nhiêu loại gói cước đo lưu lượng (Metering) có sẵn?",
+                "Đo lưu lượng (Metering) có những lựa chọn nào về gói cước?",
+                "Hãy cho tôi biết về các gói cước đo lưu lượng (Metering).",
+                "Tôi cần tìm hiểu về các gói cước đo lưu lượng (Metering).",
+                "Có những gói cước nào dành cho việc đo lưu lượng (Metering)?",
+                "Tôi nên chọn gói cước đo lưu lượng (Metering) nào?",
+                "Hãy chỉ cho tôi về các gói cước đo lưu lượng (Metering).",
+                "Có bao nhiêu loại gói cước đo lưu lượng (Metering) có sẵn để lựa chọn?",
+                "Gói cước nào là phù hợp nhất để đo lưu lượng (Metering)?",
+                "Tôi muốn biết thêm về các lựa chọn gói cước đo lưu lượng (Metering).",
+                "Đo lường lưu lượng (Metering) có những gói cước nào đáng xem xét?",
+                "Có những gói cước nào được đề xuất để đo lưu lượng (Metering)?"
+            ],
+            "responses": [
+                "Đo lưu lượng (Metering) có 4 gói cước bao gồm IOT10 (10.000 VNĐ/30 ngày), Connect10 (10.000 VNĐ/30 ngày), Connect20 (20.000 VNĐ/30 ngày) và NBM2M_MD (10.000 VNĐ/30 ngày). Bạn có thể chọn 1 trong 4 gói cước này tùy thuộc vào nhu cầu của bạn."
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_3",
+            "patterns": [
+                "Các gói cước dành cho Giám sát hành trình.",
+                "Giám sát hành trình có những gói cước nào",
+                "Có những gói cước nào trong giám sát hành trình?",
+                "Xin hãy liệt kê các gói cước trong giám sát hành trình.",
+                "Giám sát hành trình cung cấp những gói cước gì?",
+                "Hãy cho biết các loại gói cước của dịch vụ giám sát hành trình.",
+                "Có bao nhiêu loại gói cước khác nhau cho giám sát hành trình?",
+                "Giám sát hành trình có thể sử dụng các gói cước nào?",
+                "Xin cho biết thông tin về các gói cước trong giám sát hành trình.",
+                "Hãy trình bày về các lựa chọn gói cước trong dịch vụ giám sát hành trình.",
+                "Có những gói cước nào được cung cấp bởi dịch vụ giám sát hành trình?",
+                "Giám sát hành trình đưa ra những lựa chọn gói cước nào cho khách hàng?",
+                "Hãy đề cập đến các gói cước có sẵn trong dịch vụ giám sát hành trình.",
+                "Giám sát hành trình cung cấp những gói cước với những tính năng khác nhau.",
+                "Xin hãy nêu danh sách các gói cước của giám sát hành trình.",
+                "Có bao nhiêu gói cước được cung cấp cho dịch vụ giám sát hành trình?",
+                "Giám sát hành trình đưa ra những lựa chọn về gói cước như thế nào?",
+                "Hãy giới thiệu về các gói cước có sẵn trong dịch vụ giám sát hành trình.",
+                "Xin cho biết thông tin chi tiết về từng gói cước của giám sát hành trình.",
+                "Giám sát hành trình cung cấp những tùy chọn gói cước phù hợp với nhu cầu nào?",
+                "Có những gói cước nào được khuyến nghị trong giám sát hành trình?",
+                "Tôi muốn dùng những gói cước hỗ trợ giám sát hành trình",
+                "Tôi muốn sử dụng những gói cước dành cho giám sát hành trình",
+                "Cho tôi biết về những gói cước hỗ trợ giám sát hành trình.",
+                "Tôi muốn tìm hiểu về các gói cước giám sát hành trình.",
+                "Tôi cần thông tin chi tiết về các gói cước hỗ trợ giám sát hành trình.",
+                "Hãy giới thiệu cho tôi các gói cước giám sát hành trình hiện có.",
+                "Tôi quan tâm đến việc sử dụng gói cước giám sát hành trình.",
+                "Xin hướng dẫn về các gói cước giám sát hành trình mà bạn có.",
+                "Có những gói cước nào dành riêng cho việc giám sát hành trình?",
+                "Tôi muốn biết về các gói cước hỗ trợ giám sát lộ trình.",
+                "Có những lựa chọn gói cước nào cho việc theo dõi hành trình?",
+                "Hãy cung cấp thông tin về các gói cước giám sát lộ trình có sẵn.",
+                "Tôi quan tâm đến việc sử dụng gói cước giám sát lộ trình của bạn.",
+                "Có những gói cước nào cho việc giám sát hành trình xe cộ?",
+                "Hãy giới thiệu tôi với các gói cước hỗ trợ giám sát hành trình của bạn.",
+                "Tôi quan tâm đến việc tìm hiểu về gói cước giám sát hành trình.",
+                "Có những lựa chọn gói cước nào dành cho việc theo dõi lộ trình di chuyển?"
+            ],
+            "responses": [
+                "Giám sát hành trình có 5 gói cước bao gồm Tracking10 (10.000 VNĐ/30 ngày), Tracking12 (12.000 VNĐ/30 ngày), Tracking15 (15.000 VNĐ/30 ngày), Tracking18 (18.000 VNĐ/30 ngày) và DBIZ10 (10.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_4",
+            "patterns": [
+                "Các gói cước dành cho Máy thanh toán POS.",
+                "Máy thanh toán POS có những gói cước nào"
+            ],
+            "responses": [
+                "Có 2 gói cước bao gồm SHOP20 (20.000 VNĐ/30 ngày) và SHOP30 (30.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_5",
+            "patterns": [
+                "Các gói cước dành cho Loa phường thông minh.",
+                "Loa phường thông minh có những gói cước nào"
+            ],
+            "responses": [
+                "Có 2 gói cước bao gồm LED15 (15.000 VNĐ/30 ngày) và LED15 12 tháng (180.000 VNĐ/360 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_6",
+            "patterns": [
+                "Các gói cước dành cho màn hình quảng cáo.",
+                "Màn hình quảng cáo có những gói cước nào"
+            ],
+            "responses": [
+                "Có 5 gói cước bao gồm LED20 (20.000 VNĐ/30 ngày), LED30 (30.000 VNĐ/30 ngày), LED30 6 tháng (180.000 VNĐ/30 ngày), LED20 12 tháng (240.000 VNĐ/30 ngày) và LED30 12 tháng (360.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_7",
+            "patterns": [
+                "Các gói cước dành cho camera.",
+                "Camera có những gói cước nào"
+            ],
+            "responses": [
+                "Có 9 gói cước bao gồm CAM50 (50.000 VNĐ/30 ngày), CAM70 (70.000 VNĐ/30 ngày), CAM50 12 tháng (600.000 VNĐ/360 ngày), CAM70 12 tháng (840.000 VNĐ/360 ngày), CAM120 (120.000 VNĐ/30 ngày), CAM150 (150.000 VNĐ/30 ngày), CAM200 (200.000 VNĐ/30 ngày), CAM250 (250.000 VNĐ/30 ngày) và CAM300 (300.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?goi_cuoc_m2m_8",
+            "patterns": [
+                "Các gói cước dành cho ô tô.",
+                "Ô tô có những gói cước nào"
+            ],
+            "responses": [
+                "Có 6 gói cước bao gồm DCAR60 (60.000 VNĐ/30 ngày), DCAR60 6 tháng (360.000 VNĐ/180 ngày), DCAR90 (90.000 VNĐ/30 ngày), DCAR120 (120.000 VNĐ/30 ngày), DCAR150 (150.000 VNĐ/30 ngày) và DCAR180 (180.000 VNĐ/30 ngày)"
+            ]
+        },
+        {
+            "tag": "?innoway_platform_1",
+            "patterns": [
+                "Kết nối thiết bị thực với Platform.",
+                "Kết nối thiết bị vật lý với Platform.",
+                "Thiết bị thực được kết nối với Platform.",
+                "Gắn kết thiết bị thực vào Platform.",
+                "Kết nối các thiết bị vật lý với nền tảng.",
+                "Đưa thiết bị thực vào hệ thống Platform.",
+                "Gắn kết thiết bị vào nền tảng.",
+                "Thiết lập kết nối giữa thiết bị và Platform.",
+                "Nối thiết bị thực với nền tảng.",
+                "Thiết bị thực được liên kết với Platform.",
+                "Kết hợp thiết bị vật lý với nền tảng.",
+                "Thiết bị thực và Platform được gắn kết với nhau.",
+                "Tạo sự kết nối giữa thiết bị và Platform.",
+                "Gắn thiết bị thực vào hệ thống Platform.",
+                "Tạo liên kết giữa thiết bị và nền tảng.",
+                "Kết nối thiết bị vật lý vào Platform.",
+                "Nối thiết bị thực vào hệ thống Platform.",
+                "Kết nối thiết bị với nền tảng.",
+                "Đưa thiết bị thực vào hạ tầng Platform.",
+                "Tạo liên kết giữa thiết bị vật lý và nền tảng.",
+                "Thiết bị và Platform được liên kết với nhau."
+            ],
+            "responses": [
+                "Để kết nối thiết bị thực với Platform, bạn hãy tham khảo hướng dẫn sau đây: \nhttps://innoway-viettel.gitbook.io/innoway/bat-dau-su-dung/ket-noi-thiet-bi-thuc-voi-platform "
+            ]
+        },
+        {
+            "tag": "?innoway_platform_2",
+            "patterns": [
+                "Platform IoT là gì?",
+                "Plaform iot đóng vai trò gì trong hệ thống iot",
+                "khái niệm platform iot",
+                "Trong hệ thống IoT, nền tảng IoT có vai trò gì?",
+                "Nền tảng IoT thực hiện chức năng gì trong hệ thống IoT?",
+                "Vai trò của nền tảng IoT là gì trong hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có chức năng gì?",
+                "Nền tảng IoT chịu trách nhiệm thực hiện những nhiệm vụ gì trong hệ thống IoT?",
+                "Khái niệm 'nền tảng IoT' là gì?",
+                "Giải thích ý nghĩa của 'nền tảng IoT' trong hệ thống IoT.",
+                "Nền tảng IoT được hiểu như thế nào trong ngữ cảnh của hệ thống IoT?",
+                "Vai trò của nền tảng IoT là gì trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT thực hiện những chức năng gì trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có vai trò như thế nào?",
+                "Nền tảng IoT chịu trách nhiệm thực hiện những nhiệm vụ gì trong ngữ cảnh của hệ thống IoT?",
+                "Nền tảng IoT được hiểu như thế nào trong hệ thống IoT?",
+                "Giải thích ý nghĩa của nền tảng IoT trong hệ thống IoT.",
+                "Vai trò của nền tảng IoT là gì trong hệ thống IoT?",
+                "Nền tảng IoT đóng vai trò như thế nào trong hệ thống IoT?",
+                "Nền tảng IoT thực hiện những chức năng gì trong hệ thống IoT?",
+                "Trong hệ thống IoT, nền tảng IoT có chức năng gì?"
+            ],
+            "responses": [
+                "Platform iot là hệ thống phần mềm và cơ sở hạ tầng được thiết kế để hỗ trợ việc kết nối, quản lý và xử lý dữ liệu từ các thiết bị IOT \n Cung cấp công cụ và dịch vụ để triển khai, vận hành, phát triển và quản lý các ứng dụng IOT"
+            ]
+        },
+        {
+            "tag": "innoway_platform_3",
+            "patterns": [
+                "dùng platform IoT để làm gì?",
+                "platform iot có tác dụng gì",
+                "tại sao phải sử dụng platform iot",
+                "Platform IoT được sử dụng để thực hiện những việc gì?",
+                "Platform IoT có tác dụng gì trong các ứng dụng IoT?",
+                "Tại sao cần sử dụng nền tảng IoT?",
+                "nền tảng IoT được áp dụng vào mục đích gì?",
+                "nền tảng IoT được dùng để làm gì trong các hệ thống IoT?",
+                "Tác dụng của nền tảng IoT trong việc quản lý thiết bị IoT là gì?",
+                "Vai trò của nền tảng IoT trong hệ thống IoT là gì?",
+                "Lý do phải sử dụng nền tảng IoT là gì?",
+                "nền tảng IoT được sử dụng như thế nào trong các ứng dụng IoT?",
+                "nền tảng IoT được ứng dụng để làm gì trong hệ thống IoT?",
+                "Tại sao nên dùng nền tảng IoT trong việc quản lý thiết bị IoT?",
+                "nền tảng IoT có vai trò quan trọng như thế nào trong hệ thống IoT?",
+                "Tác dụng của nền tảng IoT là gì trong việc quản lý thiết bị IoT?",
+                "Vai trò của nền tảng IoT trong hệ thống IoT là gì?",
+                "Lợi ích của việc sử dụng platform IoT là gì?",
+                "Platform IoT được áp dụng như thế nào trong các ứng dụng IoT?",
+                "Platform IoT có tác dụng gì trong việc quản lý thiết bị IoT?",
+                "Tại sao cần sử dụng platform IoT trong hệ thống IoT?",
+                "Platform IoT được dùng để làm gì trong hệ thống IoT?",
+                "Lý do phải sử dụng platform IoT là gì trong các ứng dụng IoT?"
+            ],
+            "responses": [
+                "Hướng tới mục tiêu rút ngắn time-to-market, giảm chi phí, cải thiện năng suất, tối ưu nguồn lực.Innoway là nền tảng IOT lớn nhất Việt Nam.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_4",
+            "patterns": [
+                "innoway của viettel là gì",
+                "platform iot của viettel là gì",
+                "Định nghĩa của Innoway là gì?",
+                "Innoway là khái niệm gì?",
+                "Hãy giải thích về Innoway.",
+                "Có thể giới thiệu về Innoway không?",
+                "Innoway được mô tả như thế nào?",
+                "Xin hãy giải thích về Innoway của Viettel.",
+                "Innoway do Viettel phát triển là gì?",
+                "Định nghĩa về Innoway của Viettel là gì?",
+                "Innoway là dự án gì của Viettel?",
+                "Hãy mô tả về Innoway của Viettel.",
+                "Xin hãy giải thích về Platform IoT của Viettel.",
+                "Platform IoT do Viettel phát triển là gì?",
+                "Định nghĩa về Platform IoT của Viettel là gì?",
+                "Platform IoT là dịch vụ gì do Viettel cung cấp?",
+                "Hãy mô tả về Platform IoT của Viettel.",
+                "Xin hãy giải thích về Platform IoT của Viettel.",
+                "Platform IoT do Viettel phát triển là gì?",
+                "Định nghĩa về Platform IoT của Viettel là gì?",
+                "Platform IoT là dịch vụ gì do Viettel cung cấp?",
+                "Hãy mô tả về Platform IoT của Viettel."
+            ],
+            "responses": [
+                "InnoWay là một nền tảng Internet of Thing (IoT) được nghiên cứu và phát triển bởi Viettel High Tech, đơn vị nghiên cứu, sản xuất Công nghệ chủ lực của tập đoàn Viettel.InnoWay ra đời với mục đích giảm chi phí PoC và time to market tối ưu quy trình xây dựng giải pháp IoT.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_5",
+            "patterns": [
+                "Innoway cung cấp dịch vụ gì?",
+                "nền tảng iot của viettel cung cấp dịch vụ gì",
+                "platform iot của viettel cung cấp gì",
+                "nền tảng innoway có tác dụng gì",
+                "platform innoway giúp ích được gì",
+                "Các dịch vụ mà Innoway cung cấp là gì?",
+                "Nền tảng IoT của Viettel cung cấp những dịch vụ gì?",
+                "Platform IoT của Viettel cung cấp những gì?",
+                "Nền tảng Innoway có ứng dụng gì?",
+                "Platform Innoway giúp ích được những gì?",
+                "Innoway cung cấp những dịch vụ ra sao?",
+                "Những dịch vụ nào được cung cấp bởi nền tảng IoT của Viettel?",
+                "Platform IoT của Viettel cung cấp những dịch vụ như thế nào?",
+                "Nền tảng Innoway có tác dụng như thế nào?",
+                "Platform Innoway hỗ trợ những gì?",
+                "Các dịch vụ do Innoway cung cấp là gì?",
+                "Nền tảng IoT của Viettel cung cấp những gì?",
+                "Platform IoT của Viettel hỗ trợ như thế nào?",
+                "Nền tảng Innoway giúp ích ra sao?",
+                "Platform Innoway có tác dụng gì?",
+                "Những dịch vụ mà Innoway cung cấp như thế nào?",
+                "Nền tảng IoT của Viettel có những gì?",
+                "Platform IoT của Viettel giúp ích như thế nào?",
+                "Nền tảng Innoway có tác dụng ra sao?",
+                "Platform Innoway hỗ trợ như thế nào?"
+            ],
+            "responses": [
+                "InnoWay định hướng mở rộng rãi các developer dễ dàng sử dụng để phát triển giải pháp, các bộ công cụ hỗ trợ vận hành khai thác và cho phép tích hợp toàn bộ thiết bị từ các nhà sản xuất khác.InnoWay cung cấp bộ công cụ vượt trội so với các nền tảng hiện có tại Việt Nam về phát triển thiết bị và bộ công cụ quản lý SIM, provisioning, thuê bao,gói cước.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "innoway_platform_6",
+            "patterns": [
+                "innoway của viettel phù hợp với ai",
+                "innoway dành cho ai",
+                "người không có kiến thức chuyên sâu sử dụng được innoway không",
+                "cần biết lập trình để sử dụng innoway không",
+                "nền tảng innoway của viettel có hỗ trợ các ngành nghề khác nhau không",
+                "Innoway của Viettel phù hợp với đối tượng nào?",
+                "Innoway dành cho ai trong dòng sản phẩm của Viettel?",
+                "Người không có kiến thức chuyên sâu có thể sử dụng Innoway không?",
+                "Có cần biết lập trình để sử dụng Innoway không?",
+                "Nền tảng Innoway của Viettel có thích hợp cho những đối tượng nào?",
+                "Đối tượng sử dụng Innoway của Viettel là ai?",
+                "Innoway của Viettel hướng đến đối tượng người dùng nào?",
+                "Ai nên sử dụng Innoway của Viettel?",
+                "Innoway có thích hợp cho mọi người không?",
+                "Nền tảng Innoway của Viettel phù hợp cho những ai?",
+                "Có thể sử dụng Innoway của Viettel mà không cần kiến thức chuyên sâu không?",
+                "Innoway của Viettel sử dụng được bởi những đối tượng nào?",
+                "Innoway có ứng dụng cho những đối tượng nào?",
+                "Cần phải có kiến thức lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có hỗ trợ cho những đối tượng không có kiến thức chuyên sâu không?",
+                "Ai có thể sử dụng Innoway của Viettel một cách hiệu quả?",
+                "Innoway của Viettel có dễ sử dụng cho mọi người không?",
+                "Innoway của Viettel được thiết kế để phục vụ đối tượng nào?",
+                "Ai có thể hưởng lợi từ việc sử dụng Innoway của Viettel?",
+                "Có yêu cầu kiến thức lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có ứng dụng rộng rãi trong ngành nghề khác nhau không?",
+                "Có cần phải biết lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel hỗ trợ cho ngành nghề nào?",
+                "Ai có thể tận dụng Innoway của Viettel một cách hiệu quả nhất?",
+                "Innoway của Viettel có thích hợp cho người không có kỹ năng lập trình không?",
+                "Innoway của Viettel có ứng dụng rộng rãi cho người dùng không chuyên không?",
+                "Cần phải có kỹ năng lập trình để sử dụng Innoway không?",
+                "Innoway của Viettel có phù hợp với đối tượng người dùng nào?"
+            ],
+            "responses": [
+                "Innoway hỗ trợ nghiệp vụ đa ngành, đa lĩnh vực - Không yêu cầu nhà phát triển có kinh nghiệm chuyên sâu.Hãy liên hệ với chúng tôi theo hotline ở trang chủ.Chúng tôi rất vui khi được phục vụ bạn."
+            ]
+        },
+        {
+            "tag": "?innoway_platform_7",
+            "patterns": [
+                "Innoway tích hợp những sản phẩm đặc trưng nào?",
+                "các sản phẩm đặc trưng tích hợp của Innoway là gì",
+                "Các giải pháp đặc trưng của nền tảng Innoway",
+                "Những giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Innoway tích hợp những giải pháp đặc trưng như thế nào?",
+                "Các giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Innoway tích hợp những giải pháp đặc trưng ra sao?",
+                "Nền tảng Innoway tích hợp những sản phẩm đặc trưng như thế nào?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway là gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway có gì?",
+                "Innoway tích hợp những sản phẩm đặc trưng như thế nào?",
+                "Nền tảng Innoway tích hợp những giải pháp đặc trưng gì?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway có những gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway là gì?",
+                "Nền tảng Innoway tích hợp những giải pháp đặc trưng nào?",
+                "Những sản phẩm đặc trưng tích hợp của Innoway có những gì?",
+                "Các giải pháp đặc trưng của nền tảng Innoway có những gì?"
+            ],
+            "responses": [
+                "Có rất nhiều các sản phẩm được phát triển tích hợp nền tảng Innoway như: Smart Home, Định vị thông minh vTag, Asset Management, Giám sát xe tải – vận chuyển hành khách - V-Tracking 2.0, Smart Metering..."
+            ]
+        },
+        {
+            "tag": "innoway_platform_8",
+            "patterns": [
+                "Innoway hỗ trợ các giao thức nào",
+                "Innoway hỗ trợ các giao thức nào?",
+                "Các giao thức nào được hỗ trợ bởi Innoway?",
+                "Những giao thức nào có sự hỗ trợ từ Innoway?",
+                "Innoway có hỗ trợ các giao thức nào không?",
+                "Innoway hỗ trợ những giao thức ra sao?",
+                "Các giao thức nào được hỗ trợ trong Innoway?",
+                "Innoway hỗ trợ những giao thức như thế nào?",
+                "Innoway có sự hỗ trợ cho các giao thức nào?",
+                "Những giao thức nào được hỗ trợ bởi nền tảng Innoway?",
+                "Innoway hỗ trợ những giao thức như thế nào?"
+            ],
+            "responses": [
+                "Innoway hỗ trợ hầu hết các giao thức kết nối trong IOT thông dụng hiện nay. Để được hỗ trợ tích hợp, hãy liên hệ với chúng tôi theo hotline ở trang chủ."
+            ]
+        },
+        {
+            "tag": "?iot_1",
+            "patterns": [
+                "Internet vạn vật (IoT) là gì?",
+                "Iot là gì"
+            ],
+            "responses": [
+                "Thuật ngữ IoT hay Internet vạn vật đề cập đến mạng lưới tập hợp các thiết bị thông minh và công nghệ tạo điều kiện thuận lợi cho hoạt động giao tiếp giữa thiết bị và đám mây cũng như giữa các thiết bị với nhau.\nNhờ sự ra đời của chip máy tính giá rẻ và công nghệ viễn thông băng thông cao, ngày nay, chúng ta có hàng tỷ thiết bị được kết nối với internet. Điều này nghĩa là các thiết bị hàng ngày như bàn chải đánh răng, máy hút bụi, ô tô và máy móc có thể sử dụng cảm biến để thu thập dữ liệu và phản hồi lại người dùng một cách thông minh."
+            ]
+        },
+        {
+            "tag": "iot_2",
+            "patterns": [
+                "IoT hoạt động như thế nào?"
+            ],
+            "responses": [
+                "Một hệ thống IoT thông thường hoạt động thông qua việc thu thập và trao đổi dữ liệu theo thời gian thực. Một hệ thống IoT có ba thành phần:\n+ Thiết bị thông minh\n+ Nền tảng IoT (IoT platform)\n+ Giao diện đồ họa người dùng"
+            ]
+        },
+        {
+            "tag": "iot_3",
+            "patterns": [
+                "Thiết bị thông minh là gì?"
+            ],
+            "responses": [
+                "Đây là một thiết bị, giống như tivi, camera an ninh hoặc thiết bị tập thể dục đã được trao cho khả năng điện toán. Thiết bị này thu thập dữ liệu từ môi trường xung quanh, thao tác nhập liệu của người dùng hoặc mô thức sử dụng và truyền cũng như nhận dữ liệu qua Internet từ ứng dụng IoT của nó."
+            ]
+        },
+        {
+            "tag": "?iot_4",
+            "patterns": [
+                "Giao diện đồ họa người dùng"
+            ],
+            "responses": [
+                "Một hoặc một nhóm các thiết bị IoT có thể được quản lý thông qua giao diện đồ họa người dùng. Các ví dụ phổ biến bao gồm một ứng dụng di động hoặc trang web có thể được sử dụng để đăng ký và kiểm soát các thiết bị thông minh."
+            ]
+        },
+        {
+            "tag": "?iot_5",
+            "patterns": [
+                "Ô tô thông minh"
+            ],
+            "responses": [
+                "Những phương tiện, chẳng hạn như ô tô, có thể kết nối với Internet bằng rất nhiều cách. Có thể là thông qua camera hành trình thông minh, hệ thống tin học giải trí hoặc thậm chí qua cổng kết nối của phương tiện. Chúng thu thập dữ diệu từ chân ga, phanh, đồng hồ đo tốc độ, đồng hồ đo quãng đường, bánh xe và bình xăng để giám sát cả hiệu suất của người lái và tình trạng phương tiện. \nÔ tô thông minh được sử dụng cho hàng loạt mục đích:\n+ Giám sát đội xe ô tô cho thuê để tăng cường hiệu quả sử dụng nhiên liệu và giảm chi phí.\n+ Giúp cha mẹ theo dõi hành vi lái xe của con cái.\n + Tự động thông báo cho bạn bè và người thân trong trường hợp xảy ra tai nạn xe.\n + Dự đoán và hạn chế nhu cầu bảo dưỡng xe."
+            ]
+        },
+        {
+            "tag": "?iot_6",
+            "patterns": [
+                "Nhà thông minh"
+            ],
+            "responses": [
+                "Các thiết bị gia đình thông minh tập trung chủ yếu vào hoạt động cải thiện hiệu quả và độ an toàn của ngôi nhà, cũng như mạng lưới kết nối trong nhà. Các thiết bị như ổ điện thông minh có thể giám sát mức sử dụng điện và bộ điều nhiệt thông minh có thể cung cấp khả năng kiểm soát nhiệt độ tốt hơn. Các hệ thống thủy canh có thể sử dụng cảm biến IoT để quản lý khu vườn, trong khi đó, máy báo khói IoT có thể phát hiện khói thuốc lá. Các hệ thống an ninh gia đình như khóa cửa, camera an ninh và máy phát hiện rò nước có thể phát hiện và ngăn chặn các mối nguy hiểm, đồng thời gửi cảnh báo tới chủ nhà.\nGia đình có thể sử dụng những thiết bị thông minh cho các mục đích:\n+ Tự động tắt các thiết bị khi không sử dụng.\n+ Quản lý và bảo trì các bất động sản cho thuê.\n+ Tìm đồ thất lạc như chìa khóa hoặc ví.\n+ Tự động hóa các công việc hàng ngày như hút bụi, pha cà phê,..."
+            ]
+        },
+        {
+            "tag": "?iot_7",
+            "patterns": [
+                "Thành phố thông minh"
+            ],
+            "responses": [
+                "Các ứng dụng IoT đã giúp quá trình quy hoạch đô thị và bảo trì cơ sở hạ tầng hiệu quả hơn. Các chính phủ đang sử dụng ứng dụng IoT để giải quyết những vấn đề về cơ sở hạ tầng, y tế và môi trường. Ứng dụng IoT có thể được sử dụng cho các mục đích:\n+ Đo lường chất lượng không khí và mức độ bức xạ.\n+ Giảm chi phí năng lượng nhờ hệ thống chiếu sáng thông minh.\n+ Giảm chi phí năng lượng nhờ hệ thống chiếu sáng thông minh.\n+ Xác định thời điểm cần bảo trì các cơ sở hạ tầng quan trọng như đường xá, cầu cống và đường ống.\n+ Tăng lợi nhuận thông qua công tác quản lý bãi đỗ xe hiệu quả."
+            ]
+        },
+        {
+            "tag": "?iot_8",
+            "patterns": [
+                "Công trình thông minh"
+            ],
+            "responses": [
+                "Các công trình như khuôn viên trường đại học và công trình thương mại sử dụng ứng dụng IoT để thúc đẩy hoạt động hiệu quả hơn. Những công trình thông minh có thể sử dụng các thiết bị IoT cho mục đích:\n+ Giảm mức tiêu thụ năng lượng.\n+ Giảm chi phí bảo trì.\n+ Tận dụng không gian làm việc hiệu quả hơn."
+            ]
+        },
+        {
+            "tag": "iot_9",
+            "patterns": [
+                "IoT công nghiệp là gì?"
+            ],
+            "responses": [
+                "IoT công nghiệp (IIoT) đề cập đến các thiết bị thông minh được sử dụng trong sản xuất, bán lẻ, y tế và các lĩnh vực khác để tạo ra hiệu quả kinh doanh. Các thiết bị công nghiệp, từ cảm biến đến máy móc, cung cấp cho chủ doanh nghiệp dữ liệu chi tiết theo thời gian thực để các doanh nghiệp có thể sử dụng phục vụ mục đích cải thiện quá trình kinh doanh. Những thiết bị này cung cấp thông tin chuyên sâu về quản lý chuỗi cung ứng, kho vận, nguồn nhân lực và sản xuất – giảm chi phí và tăng luồng doanh thu. Một số ngành phổ biến áp dụng IoT công nghiệp như: Sản xuất, Công nghiệp ô tô, Kho vận và vận tải và bán lẻ"
+            ]
+        },
+        {
+            "tag": "iot_10",
+            "patterns": [
+                "IoT công nghiệp áp dụng trong sản xuất"
+            ],
+            "responses": [
+                "IoT doanh nghiệp trong sản xuất sử dụng khả năng bảo trì dự đoán để giảm thời gian ngừng hoạt động ngoài dự kiến và công nghệ đeo trên người để cải thiện an toàn cho người lao động. Các ứng dụng IoT có thể dự đoán lỗi máy móc trước khi nó xảy ra, giúp giảm thời gian ngừng sản xuất. Thiết bị gắn trên mũ bảo hiểm và vòng tay, cũng như các camera thị giác máy tính được sử dụng để cảnh báo người lao động về những mối nguy hiểm tiềm ẩn."
+            ]
+        },
+        {
+            "tag": "iot_11",
+            "patterns": [
+                "IoT công nghiệp áp dụng trong công nghiệp ô tô"
+            ],
+            "responses": [
+                "Phân tích dựa theo cảm biến và robot giúp tăng hiệu quả trong sản xuất ô tô và công tác bảo dưỡng. Ví dụ: các cảm biến công nghiệp được sử dụng để cung cấp hình ảnh 3D của các thành phần bên trong phương tiện theo thời gian thực. Việc chẩn đoán và khắc phục sự cố có thể được thực hiện nhanh hơn nhiều trong khi hệ thống IoT tự động đặt hàng các phụ tùng thay thế."
+            ]
+        },
+        {
+            "tag": "iot_12",
+            "patterns": [
+                "IoT công nghiệp áp dụng trong công nghiệp kho vận và vận tải"
+            ],
+            "responses": [
+                "Các thiết bị IoT thương mại và công nghiệp có thể hỗ trợ quản lý chuỗi cung ứng, bao gồm quản lý hàng tồn kho, mối quan hệ với nhà cung cấp, quản lý đội xe và bảo trì theo lịch. Các công ty vận chuyển sử dụng ứng dụng IoT công nghiệp để theo dõi tài sản và tối ưu hóa mức tiêu thụ nhiên liệu trên các tuyến vận chuyển. Công nghệ này đặc biệt hữu dụng trong việc kiểm soát chặt chẽ nhiệt độ trong các công-ten-nơ lạnh. Nhờ các thuật toán định tuyến và tái định tuyến thông minh, các quản lý chuỗi cung ứng có thể đưa ra những dự đoán sáng suốt"
+            ]
+        },
+        {
+            "tag": "iot_13",
+            "patterns": [
+                "IoT công nghiệp áp dụng trong công nghiệp bán lẻ"
+            ],
+            "responses": [
+                "Amazon đang thúc đẩy quá trình đổi mới tự động hóa và hợp tác giữa con người và máy móc trong lĩnh vực bán lẻ. Các cơ sở của Amazon sử dụng robot được kết nối Internet để theo dõi, định vị, phân loại và vận chuyển sản phẩm."
+            ]
+        },
+        {
+            "tag": "iot_14",
+            "patterns": [
+                "IoT có thể cải thiện cuộc sống của chúng ta như thế nào?"
+            ],
+            "responses": [
+                "Internet vạn vật tác động sâu rộng tới cuộc sống cũng như công việc của con người. IoT cho phép máy móc xử lý phần việc nặng nhọc, đảm nhiệm những nhiệm vụ nhàm chán và giúp cuộc sống trở nên lành mạnh, năng suất và thoải mái hơn.\nVí dụ: các thiết bị thông minh có thể thay đổi hoàn toàn thói quen buổi sáng của bạn. Khi bạn nhấn nút tạm hoãn, chiếc đồng hồ báo thức của bạn sẽ tự động bật máy pha cà phê và kéo mở rèm cửa sổ. Tủ lạnh của bạn sẽ tự động phát hiện những thực phẩm sắp hết và đặt mua giao tận nhà. Lò nướng thông minh sẽ cho bạn biết thực đơn trong ngày và thậm chí còn nấu những nguyên liệu đã được chuẩn bị sẵn để đảm bảo rằng bữa trưa của bạn đã sẵn sàng. Chiếc đồng hồ thông minh sẽ lên lịch họp cho bạn, trong khi đó, chiếc ô tô thông minh của bạn tự động đặt vị trí GPS dừng xe để nạp nhiên liệu. Tiềm năng là vô hạn trong thế giới IoT!"
+            ]
+        },
+        {
+            "tag": "iot_15",
+            "patterns": [
+                "IoT mang tới cho doanh nghiệp những lợi ích gì?"
+            ],
+            "responses": [
+                "Tăng tốc độ đổi mới\nInternet vạn vật mang tới cho các doanh nghiệp khả năng tiếp cận với những phân tích nâng cao để khám phá các cơ hội mới. Ví dụ: các doanh nghiệp có thể tạo ra những chiến dịch tiếp thị nhắm mục tiêu chuẩn xác bằng cách thu thập dữ liệu về hành vi của khách hàng.\n\nChuyển đổi dữ liệu thành thông tin chuyên sâu và hành động bằng AI và ML\nDữ liệu và xu hướng trong quá khứ đã thu thập có thể được sử dụng để dự đoán kết quả trong tương lai. Ví dụ: thông tin bảo hành có thể được ghép cặp với dữ liệu do IoT thu thập để dự đoán các sự cố bảo trì. Lợi thế này có thể được sử dụng để chủ động cung cấp dịch vụ khách hàng cũng như xây dựng lòng trung thành của khách.\n\nTăng tính bảo mật\nViệc liên tục giám sát cơ sở hạ tầng kỹ thuật số cũng như vật lý có thể tối ưu hóa hiệu suất, cải thiện mức độ hiệu quả và giảm bớt rủi ro an toàn. Ví dụ: dữ liệu được thu thập từ một thiết bị giám sát tại chỗ có thể kết hợp với dữ liệu phần cứng và phiên bản firmware để tự động lên lịch cập nhật hệ thống.\n\nThay đổi quy mô các giải pháp khác biệt\nCông nghệ IoT có thể được triển khai theo hướng tập trung vào khách hàng để cải thiện mức độ hài lòng. Ví dụ: các sản phẩm bán chạy có thể được bổ sung kịp thời để tránh tình trạng thiếu hụt hàng hóa."
+            ]
+        },
+        {
+            "tag": "iot_16",
+            "patterns": [
+                "Các công nghệ IoT là gì?"
+            ],
+            "responses": [
+                "Các công nghệ được sử dụng trong hệ thống IoT có thể bao gồm:\n\nĐiện toán biên\nĐiện toán biên đề cập đến công nghệ được sử dụng để điều khiển các thiết bị thông minh thực hiện nhiều tác vụ hơn, không chỉ đơn thuần là gửi hay nhận dữ liệu từ nền tảng IoT của chúng. Công nghệ này tăng cường công suất điện toán tại biên của một mạng lưới IoT, giảm bớt độ trễ trong giao tiếp và cải thiện tốc độ phản hồi.\n\nĐiện toán đám mây\nCông nghệ đám mây được sử dụng để lưu trữ dữ liệu từ xa và quản lý thiết bị IoT, giúp nhiều thiết bị trong mạng lưới có thể truy cập dữ liệu.\n\nMáy học\nMáy học đề cập đến phần mềm và thuật toán được sử dụng để xử lý dữ liệu và đưa ra các quyết định theo thời gian thực dựa trên dữ liệu đó. Những thuật toán máy học này có thể được triển khai trên đám mây hoặc tại biên."
+            ]
+        },
+        {
+            "tag": "iot_17",
+            "patterns": [
+                "Ưu điểm của IoT"
+            ],
+            "responses": [
+                "- Ưu điểm của IoT bao gồm: \n+ Truy cập thông tin từ mọi lúc, mọi nơi trên mọi thiết bị.\n+ Cải thiện việc giao tiếp\n+ Chuyển dữ liệu qua mạng Internet giúp tiết kiệm thời gian và tiền bạc.\n+ Tự động hóa các nhiệm vụ giúp cải thiện chất lượng dịch vụ của doanh nghiệp."
+            ]
+        },
+        {
+            "tag": "iot_18",
+            "patterns": [
+                "Nhược điểm của IoT"
+            ],
+            "responses": [
+                "- Nhược điểm của IoT bao gồm: \n+ Khi nhiều thiết bị được kết nối và nhiều thông tin được chia sẻ giữa các thiết bị, thì hacker có thể lấy cắp thông tin bí mật cũng tăng lên.\n+ Các doanh nghiệp có thể phải đối phó với số lượng lớn thiết bị IoT và việc thu thập và quản lý dữ liệu từ các thiết bị đó sẽ là một thách thức.\n+ Nếu có lỗi trong hệ thống, có khả năng mọi thiết bị được kết nối sẽ bị hỏng.\n+ Vì không có tiêu chuẩn quốc tế về khả năng tương thích cho IoT, rất khó để các thiết bị từ các nhà sản xuất khác nhau giao tiếp với nhau."
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_1",
+            "patterns": [
+                "Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký.",
+                "Tôi quan tâm đến việc áp dụng quản lý thuê bao trong doanh nghiệp.",
+                "Làm sao để Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký",
+                "Hệ thống có hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp không",
+                "Kiểm soát các thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Quản lý thông tin liên quan đến việc thuê bao doanh nghiệp đã đăng ký làm thế nào?",
+                "Có cách nào để quản lý thông tin về thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Lưu trữ thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Hướng dẫn cách quản lý thông tin về thuê bao doanh nghiệp đã đăng ký.",
+                "Xử lý thông tin liên quan đến việc thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Có phương pháp nào để quản lý thông tin liên quan đến thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Giải pháp quản lý thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Làm cách nào để doanh nghiệp có thể quản lý thông tin về thuê bao đã đăng ký?",
+                "Có giải pháp hỗ trợ doanh nghiệp quản lý các thuê bao đã đăng ký không?",
+                "Tối ưu hóa việc quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký.",
+                "Có cách nào hiệu quả để quản lý thông tin về các thuê bao doanh nghiệp đã đăng ký không?",
+                "Có hỗ trợ từ hệ thống để doanh nghiệp quản lý các thuê bao đã đăng ký không?",
+                "Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Tối ưu hoá việc quản lý các thông tin về thuê bao mà doanh nghiệp đã đăng ký.",
+                "Làm thế nào để doanh nghiệp có thể quản lý thông tin liên quan đến thuê bao đã đăng ký?",
+                "Hệ thống có hỗ trợ quản lý các thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Có phương pháp nào hiệu quả để quản lý thông tin về thuê bao doanh nghiệp đã đăng ký không?",
+                "Lưu trữ thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Có cách nào để hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp đã đăng ký không?"
+            ],
+            "responses": [
+                "Để quản lý được thông tin liên quan tới thuê bao của doanh nghiệp một cách dễ dàng, anh/chị cần đăng ký tài khoản ở trên nền tảng IoT Innoway, đăng nhập và bổ sung thông tin GPKD của doanh nghiệp (Để nhận được sự hỗ trợ chi tiết, vui lòng gọi số ...)."
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_2",
+            "patterns": [
+                "Khách hàng có thể quản lý thuê bao cá nhân của mình trên hệ thống Telco không?",
+                "Có cho phép khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có thể tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có hỗ trợ cho khách hàng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có thể tự điều chỉnh thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu có cách nào cho khách hàng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có tính năng cho phép khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có quyền tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có thể tự điều hành thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có khả năng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có hỗ trợ cho khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có quyền tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có tính năng tự quản lý thuê bao cá nhân trên hệ thống Telco không"
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp, không hỗ trợ với khách hàng cá nhân."
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_3",
+            "patterns": [
+                "Khách hàng có thể quản lý những thông tin gì của thuê bao thuộc doanh nghiệp?",
+                "Hệ thống cho phép khách hàng quản lý thông tin nào của thuê bao doanh nghiệp",
+                "Khách hàng có thể tự quản lý những thông tin nào của thuê bao doanh nghiệp",
+                "Có hỗ trợ cho khách hàng tự quản lý những thông tin gì của thuê bao doanh nghiệp",
+                "Thuê bao thuộc doanh nghiệp được cho phép quản lý thông tin gì",
+                "Liệu có cách nào cho phép khách hàng tự quản lý thông tin của thuê bao doanh nghiệp không",
+                "Khách hàng có quyền tự quản lý những thông tin nào của thuê bao doanh nghiệp",
+                "Có tính năng cho phép khách hàng quản lý thông tin nào của thuê bao doanh nghiệp",
+                "Liệu khách hàng có thể tự điều hành thông tin nào của thuê bao doanh nghiệp",
+                "Có cho phép khách hàng tự quản lý những thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Khách hàng có khả năng tự quản lý thông tin gì của thuê bao doanh nghiệp",
+                "Liệu có cách nào cho phép khách hàng tự điều chỉnh thông tin của thuê bao doanh nghiệp không",
+                "Có hỗ trợ cho khách hàng quản lý thông tin gì của thuê bao doanh nghiệp",
+                "Có tính năng cho phép khách hàng quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Liệu khách hàng có quyền tự quản lý những thông tin gì của thuê bao doanh nghiệp",
+                "Khách hàng có khả năng tự điều hành thông tin gì của thuê bao doanh nghiệp",
+                "Có hỗ trợ cho khách hàng quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Khách hàng có thể tự điều chỉnh thông tin gì của thuê bao doanh nghiệp",
+                "Liệu khách hàng có tính năng tự quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống"
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ doanh nghiệp các nghiệp vụ sau: \n- Xem thông tin thuê bao, hợp đồng , hóa đơn, đơn hàng của doanh nghiệp \n- Thực hiện đăng ký đơn mua hàng mua thuê bao mới một cách thuận tiện \n- Thực hiện đầu nối trực tuyến mộ cách đơn giản, thuận tiện \n- Thực hiện nạp tiền, thanh toán hóa đơn, đăng ký các gói dịch vụ giá trị gia tăng \n- Thực hiện chặn, mở thuê bao một các chủ động"
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_4",
+            "patterns": [
+                "Chi phí để sử dụng Hệ thống Telco, thuộc nền tảng IoT Innoway là bao nhiêu?",
+                "Hệ thống Telco trên nền tảng IoT Innoway có chi phí sử dụng là bao nhiêu?",
+                "Xin hỏi chi phí sử dụng Hệ thống Telco của nền tảng IoT Innoway là bao nhiêu?",
+                "Hãy cho biết số tiền cần trả để sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Bạn có thể cho biết mức chi phí sử dụng Hệ thống Telco trên nền tảng IoT Innoway không?",
+                "Tôi muốn biết giá phải trả để sử dụng Hệ thống Telco của nền tảng IoT Innoway.",
+                "Hãy cung cấp thông tin về giá sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Cho tôi xin thông tin chi tiết về chi phí sử dụng Hệ thống Telco trong IoT Innoway.",
+                "Hệ thống Telco trên IoT Innoway có chi phí sử dụng là bao nhiêu tiền?",
+                "Xin vui lòng nêu giá cả để sử dụng Hệ thống Telco trên nền tảng IoT Innoway.",
+                "Bạn có thể cho biết số tiền cần trả để sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway không?",
+                "Tôi muốn biết mức giá để sử dụng Hệ thống Telco trên nền tảng IoT Innoway.",
+                "Hãy cung cấp thông tin chi tiết về giá sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Giá phải trả để sử dụng Hệ thống Telco trên nền tảng IoT Innoway là bao nhiêu tiền?",
+                "Xin hỏi chi phí để sử dụng Hệ thống Telco trên nền tảng IoT Innoway là bao nhiêu tiền?",
+                "Hãy cung cấp thông tin chi tiết về mức giá sử dụng Hệ thống Telco trong IoT Innoway.",
+                "Cho tôi xin thông tin về mức chi phí để sử dụng Hệ thống Telco của nền tảng IoT Innoway.",
+                "Hệ thống Telco trên nền tảng IoT Innoway yêu cầu bao nhiêu tiền để sử dụng?",
+                "Xin vui lòng nêu giá sử dụng Hệ thống Telco của nền tảng IoT Innoway."
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ các doanh nghiệp đã đăng ký sử dụng thuê bao của Viettel quản lý thông tin thuê bao một cách miễn phí. Khách hàng chỉ cần tạo tài khoản và cung cấp thông tin GPKD để thực hiện quản lý."
+            ]
+        },
+        {
+            "tag": "!san_pham_IoT_vtag",
+            "patterns": [
+                "Giải pháp vtag",
+                "Tôi muốn hỏi về vtag",
+                "thông tin về vtag",
+                "chi tiết về vtag",
+                "cụ thể về vtag",
+                "thông tin chi tiết về vtag",
+                "thêm thông tin về vtag"
+            ],
+            "responses": [
+                "san_pham_IoT_vtag",
+                "Vtag là gì?",
+                "Chức năng của vtag.",
+                "Giá thành của vtag.",
+                "Cách sử dụng vtag.",
+                "Bảo hành của vtag."
+            ]
+        },
+        {
+            "tag": "!san_pham_IoT_vtracking",
+            "patterns": [
+                "Giải pháp vtracking",
+                "Tôi muốn hỏi về vtracking",
+                "thông tin về vtracking",
+                "chi tiết về vtracking",
+                "cụ thể về vtracking",
+                "thông tin chi tiết về vtracking",
+                "thêm thông tin về vtracking"
+            ],
+            "responses": [
+                "san_pham_IoT_vtracking",
+                "Vtracking là gì?",
+                "Chức năng của vtracking.",
+                "Giá thành của vtracking.",
+                "Cách sử dụng vtracking.",
+                "Bảo hành của vtracking.",
+                "Thanh toán hàng tháng của vtracking."
+            ]
+        },
+        {
+            "tag": "!san_pham_IoT_vcar",
+            "patterns": [
+                "Giải pháp vcar",
+                "Tôi muốn hỏi về vcar",
+                "thông tin về vcar",
+                "chi tiết về vcar",
+                "cụ thể về vcar",
+                "thông tin chi tiết về vcar",
+                "thêm thông tin về vcar"
+            ],
+            "responses": [
+                "san_pham_IoT_vcar",
+                "Vcar là gì?",
+                "Chức năng của vcar.",
+                "Giá thành của vcar.",
+                "Cách sử dụng vcar.",
+                "Bảo hành của vcar.",
+                "Thanh toán hàng tháng của vcar."
+            ]
+        },
+        {
+            "tag": "?thong_tin_vcar",
+            "patterns": [
+                "Vcar là gì?",
+                "vcar là cái gì",
+                "vcar cụ thể là cái gì",
+                "Tôi muốn hỏi về vcar",
+                "thông tin về vcar",
+                "chi tiết về vcar",
+                "cụ thể về vcar",
+                "thông tin chi tiết về vcar",
+                "thêm thông tin về vcar",
+                "Có điều gì bạn có thể chia sẻ về vcar không?",
+                "Hãy cho tôi biết thêm về vcar.",
+                "Tôi đang quan tâm đến vcar, liệu bạn có thể cung cấp thông tin về nó không?",
+                "Tôi cần hiểu rõ hơn về vcar, bạn có thể giải thích thêm không?",
+                "Có thông tin chi tiết nào về vcar mà tôi nên biết?",
+                "Tôi muốn tìm hiểu về vcar, bạn có thể hướng dẫn tôi điều đó không?",
+                "Hãy cung cấp một cái nhìn tổng quan về vcar.",
+                "Có thể cho tôi biết về vcar được không?",
+                "Xin hỏi về vcar thông tin?",
+                "Bạn có thể cung cấp thông tin chi tiết về vcar không?",
+                "Tôi cần tìm hiểu về vcar, bạn có thể giúp được không?",
+                "Hãy cung cấp cho tôi thêm thông tin về vcar.",
+                "Tôi quan tâm đến vcar, có thể nói rõ hơn về nó được không?",
+                "Tôi đang tìm hiểu về vcar, có thể chia sẻ thêm về nó không?"
+            ],
+            "responses": [
+                "vCar là giải pháp kết nối ô tô thông minh qua Smartphone đầu tiên tại Việt Nam, giúp số hóa mọi thông tin và hỗ trợ đắc lực cho trải nghiệm sử dụng ô tô của bạn. Khách hàng có thể dễ dàng sử dụng để phát wifi, khám sức khỏe ô tô, phát hiện va chạm,... qua ứng dụng ngay trên điện thoại thông minh, luôn đảm bảo yên tâm trên mọi cung đường."
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vcar",
+            "patterns": [
+                "Chức năng của vcar.",
+                "tính năng về vcar",
+                "vcar có thể làm được những gì",
+                "các tính năng của vcar",
+                "vcar có chức năng gì",
+                "vcar có những tính năng gì",
+                "Hãy cung cấp thông tin về chức năng của vcar.",
+                "Xin hãy mô tả những tính năng chính của vcar.",
+                "Vui lòng giới thiệu về khả năng vận hành của vcar.",
+                "Tôi muốn hiểu rõ hơn về các tính năng đặc biệt của vcar.",
+                "Có gì đáng chú ý về tính năng của vcar mà tôi nên biết?",
+                "Xin hãy chỉ ra những chức năng cơ bản của vcar.",
+                "Hãy kể về những điểm mạnh của vcar trong khía cạnh tính năng.",
+                "vcar có những tính năng công nghệ cao nào được tích hợp?",
+                "Tôi quan tâm đến tính năng của vcar, bạn có thể mô tả chúng cho tôi không?",
+                "Có những tính năng độc đáo nào trên vcar không?",
+                "Hãy cho biết về tính năng tiện ích dành cho người dùng trên vcar."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vCar có thể kể đến như: \n1. Định vị, giám sát, lưu lịch sử hành trình và quản lý nhiều xe từ xa\n2. Hỗ trợ hành trình với các tính năng cảnh báo tốc độ, thông báo tình trạng giao thông và cảnh báo cảmera phạt nguội trên từng cung đường bằng giọng nói.\n3. Theo dõi các thông số kỹ thuật, tình trạng sức khỏe của xe, đưa ra các chẩn đoán và cảnh báo khi xe có lỗi động cơ, bộ truyền động, hệ thống nhiên liệu.\n4. Các tiện ích nâng cao như phát WiFi, tìm kiếm garage, trạm xăng, tìm đường,..."
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vcar",
+            "patterns": [
+                "Giá thành của vcar.",
+                "giá của vcar",
+                "vcar có giá bao nhiêu",
+                "chi phí cho vcar là bao nhiêu",
+                "vcar bao nhiêu tiền",
+                "Xin hãy cho biết giá cả của vcar là bao nhiêu?",
+                "Tôi quan tâm đến giá thành của vcar, bạn có thể cung cấp thông tin chi tiết không?",
+                "Hãy giới thiệu về giá của vcar và các tùy chọn mua hàng.",
+                "Tôi muốn tìm hiểu về mức giá phổ biến của vcar trên thị trường.",
+                "Vui lòng cho biết vcar có giá cả phải chăng hay không?",
+                "Có các gói giá hoặc ưu đãi đặc biệt nào cho việc mua vcar không?",
+                "Xin hãy cung cấp thông tin về giá cả và cách thức thanh toán cho vcar.",
+                "Tôi đang tìm hiểu về giá thành của vcar, có thể giúp tôi tìm hiểu thêm không?",
+                "Tôi muốn biết chi phí cho vcar trong nhiều phiên bản khác nhau.",
+                "Xin hãy cho tôi biết giá của vcar",
+                "Tôi cần thông tin về giá cả và các gói bảo hành cho vcar.",
+                "Hãy cung cấp thông tin về giá bán lẻ đề xuất của vcar.",
+                "Vcar có phải là lựa chọn tốt với giá cả hiện tại?",
+                "Tôi muốn tìm hiểu về giá và các chương trình khuyến mãi liên quan đến vcar.",
+                "Xin hãy hướng dẫn tôi cách tìm hiểu và so sánh giá của các mẫu vcar khác nhau.",
+                "Có những khoản chi phí nào khác ngoài giá của vcar mà tôi nên xem xét?"
+            ],
+            "responses": [
+                "Giá thiết bị vCar: 2.500.000 VNĐ\nCước phí dịch vụ data eSim kèm thiết bị:\n– Gói vCar BASIC (không có data phát wifi): 30.000đ/tháng\n– Gói vCar BASIC Data (có 2GB data tốc độ cao/ngày để phát wifi): 50.000đ/tháng\n– Gói vCar VIP (có 4GB data tốc độ cao/ngày để phát wifi): 100.000đ/tháng\n- Ưu đãi khi đóng cước trước: đóng trước 6 tháng tặng 1 tháng dịch vụ, đóng trước 12 tháng tặng 2 tháng\n- Ưu đãi dành cho khách hàng lần đầu hòa mạng gói 12 tháng kèm thiết bị vCar: giảm 50% giá gói cước VIP hoặc BASIC Data 12 tháng hoặc miễn phí giá gói cước BASIC 12 tháng."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vcar",
+            "patterns": [
+                "Cách sử dụng vcar.",
+                "cách cài đặt vcar",
+                "cài đặt vcar như thế nào",
+                "quy trình cài đặt vcar",
+                "Xin hãy hướng dẫn cách sử dụng vcar.",
+                "Tôi muốn tìm hiểu cách thức vận hành vcar, bạn có thể giúp tôi không?",
+                "Hãy cung cấp hướng dẫn cụ thể về cách sử dụng vcar.",
+                "Tôi cần hướng dẫn về cách điều khiển và sử dụng vcar, có thể cung cấp thông tin không?",
+                "Có những hướng dẫn cài đặt nào cho vcar không?",
+                "Hãy giải thích cách cài đặt vcar một cách dễ hiểu.",
+                "Tôi muốn tự cài đặt vcar, bạn có thể chỉ cho tôi quy trình không?",
+                "Xin hãy hướng dẫn tôi cài đặt vcar một cách chi tiết.",
+                "Có những điều cần lưu ý khi cài đặt vcar không?",
+                "Tôi cần một quy trình chi tiết về cách cài đặt vcar.",
+                "Hãy hướng dẫn tôi cách thiết lập vcar sao cho hiệu quả nhất.",
+                "Xin hãy cung cấp hướng dẫn chi tiết về cách kết nối vcar với các thiết bị khác.",
+                "Tôi đang gặp khó khăn khi cài đặt vcar, bạn có thể giúp tôi không?",
+                "Có những tài liệu hướng dẫn cài đặt vcar mà tôi nên tham khảo không?",
+                "Hãy cung cấp các bước cài đặt cơ bản cho vcar.",
+                "Tôi muốn tìm hiểu cách sử dụng và cài đặt vcar một cách đơn giản nhất."
+            ],
+            "responses": [
+                "B1. Định vị cổng OBD trên ô tô của bạn\nB2. Cắm thiết bị VCAR vào cổng OBD cho đến khi thiết bị sáng đèn\n3. Cài đặt ứng dụng VCAR trên thiết bị thông minh như smartphone, Ipad,... của bạn và bạn đã sẵn sàng sử dụng!\n Nếu bạn còn thắc mắc về quá trình cài đặt, Viettel sẽ hướng dẫn người dùng cài đặt từ xa hoặc tại điểm giao dịch."
+            ]
+        },
+        {
+            "tag": "?bao_hanh_vcar",
+            "patterns": [
+                "Bảo hành của vcar.",
+                "chế độ bảo hành của vcar",
+                "cơ chế bảo hành vcar",
+                "chính sách bảo hành của vcar",
+                "Xin hãy cung cấp thông tin về chế độ bảo hành của vcar.",
+                "Tôi quan tâm đến chính sách bảo hành của vcar, bạn có thể giải thích cho tôi không?",
+                "Hãy giới thiệu về cơ chế bảo hành vcar.",
+                "Tôi muốn biết chi tiết về các điều kiện và điều khoản trong chế độ bảo hành của vcar.",
+                "Xin hãy chỉ ra thời gian và phạm vi bảo hành của vcar.",
+                "Có những yếu tố nào ảnh hưởng đến chế độ bảo hành của vcar?",
+                "Tôi cần hiểu rõ về chế độ bảo hành và phạm vi bảo hành của vcar.",
+                "Có những lợi ích và điểm đặc biệt nào trong chính sách bảo hành của vcar?",
+                "Hãy giải thích cụ thể về chế độ bảo hành của vcar.",
+                "Tôi đang tìm hiểu về chế độ bảo hành, có thể cung cấp thông tin chi tiết không?",
+                "Xin hãy cung cấp những điều khoản và điều kiện trong chế độ bảo hành của vcar.",
+                "Vui lòng cho biết về các gói bảo hành và dịch vụ hỗ trợ liên quan đến vcar.",
+                "Hãy hướng dẫn tôi cách yêu cầu bảo hành cho vcar khi cần thiết.",
+                "Xin hãy cung cấp thông tin về điều kiện mất bảo hành của vcar.",
+                "Tôi muốn biết về các trường hợp không được bảo hành của vcar.",
+                "Hãy kể về những điểm nổi bật trong chính sách bảo hành của vcar."
+            ],
+            "responses": [
+                "vCar được bảo hành chính hãng 12 tháng tại tất cả các cửa hàng của Viettel Telecom và Viettel Store trên toàn quốc. Khách hàng có thể đến 1 trong 2 chuỗi cửa hàng trên để bảo hành hoặc sữa chữa thiết bị."
+            ]
+        },
+        {
+            "tag": "?thanh_toan_vcar",
+            "patterns": [
+                "Thanh toán hàng tháng của vcar.",
+                "hình thức thanh toán gói cước hàng tháng của vcar",
+                "cách thanh toán hàng tháng của vcar",
+                "Xin hãy cung cấp thông tin về thanh toán hàng tháng của vcar.",
+                "Tôi quan tâm đến hình thức thanh toán gói cước hàng tháng của vcar, bạn có thể giải thích cho tôi không.",
+                "Hãy giới thiệu về cách thanh toán hàng tháng của vcar.",
+                "Tôi muốn biết cách thanh toán hàng tháng cho vcar, bạn có thể hướng dẫn tôi không.",
+                "Xin hãy chỉ ra cách thanh toán hàng tháng của vcar.",
+                "Có những hình thức thanh toán gói cước hàng tháng nào cho vcar.",
+                "Tôi cần hiểu rõ về các phương thức thanh toán hàng tháng của vcar.",
+                "Có những điều cần lưu ý khi thanh toán hàng tháng cho vcar không.",
+                "Hãy giải thích cụ thể về hình thức thanh toán gói cước hàng tháng của vcar.",
+                "Tôi đang tìm hiểu về cách thanh toán hàng tháng của vcar, có thể cung cấp thông tin chi tiết không.",
+                "Xin hãy cung cấp các tùy chọn thanh toán hàng tháng cho vcar.",
+                "Vui lòng cho biết về cách thanh toán hàng tháng và các phương thức thanh toán khác của vcar.",
+                "Hãy hướng dẫn tôi cách thiết lập thanh toán hàng tháng cho vcar.",
+                "Xin hãy cung cấp thông tin về cách thanh toán hàng tháng và các điều khoản liên quan đến vcar.",
+                "Tôi muốn biết về các tùy chọn và hình thức thanh toán hàng tháng của vcar."
+            ],
+            "responses": [
+                "Hệ thống tự động gia hạn thanh toán nếu tài khoản của khách hàng đủ tiền hoặc hệ thống sẽ nhắn tin và khách hàng tự nạp tiền, tự đăng ký gia hạn gói cước trên APP MyViettel, Viettel Pay hoặc tại các điểm giao dịch của Viettel trên toàn quốc"
+            ]
+        },
+        {
+            "tag": "?thong_tin_vtag",
+            "patterns": [
+                "Vtag là gì?",
+                "vtag là cái gì",
+                "vtag cụ thể là cái gì",
+                "Tôi muốn hỏi về vtag",
+                "thông tin về vtag",
+                "chi tiết về vtag",
+                "cụ thể về vtag",
+                "thông tin chi tiết về vtag",
+                "thêm thông tin về vtag",
+                "Xin hãy giải thích về vtag.",
+                "Tôi quan tâm đến thông tin về vtag, bạn có thể cung cấp không?",
+                "Hãy giới thiệu chi tiết về vtag.",
+                "Tôi muốn biết cụ thể về vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin chi tiết về vtag.",
+                "Tôi muốn tìm hiểu thêm về vtag.",
+                "Có những tính năng gì đáng chú ý trong vtag?",
+                "Hãy cung cấp thông tin về chức năng của vtag.",
+                "Tôi đang tìm hiểu về vtag, có thể cho tôi biết thêm không?"
+            ],
+            "responses": [
+                "vTag là sản phẩm định vị không dây của Viettel được thiết kế và sản xuất dựa trên sự kết hợp định vị GPS và định vị cột sóng BTS nhà mạng Viettel nên cho ra kết quả định vị chính xác và hiệu quả cao. Vtag được thiết kế rất thời trang và nhỏ gọn giúp bố mẹ quản lý con, hay con định vị bố mẹ già, hay đeo vTag cho thú cưng (chó mèo). Ngoài ra dùng vTag lên các đồ vật giá trị như xe ô tô xe máy, hành lý, thùng hàng... và rất nhiều mục đích khác để có thể định vị và theo dõi báo động chính xác nhất"
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vtag",
+            "patterns": [
+                "Chức năng của vtag.",
+                "tính năng về vtag",
+                "vtag có thể làm được những gì",
+                "các tính năng của vtag",
+                "vtag có chức năng gì",
+                "vtag có những tính năng gì",
+                "Xin hãy giới thiệu về chức năng của vtag.",
+                "Tính năng về vtag là gì?",
+                "Hãy giải thích những việc mà vtag có thể làm được.",
+                "Tôi quan tâm đến các tính năng của vtag, bạn có thể cho tôi biết không?",
+                "Xin hãy cung cấp thông tin về các tính năng của vtag.",
+                "Tôi muốn tìm hiểu về tính năng cụ thể của vtag, có thể hướng dẫn tôi không?",
+                "Có những điểm nào đáng chú ý trong chức năng của vtag?",
+                "Hãy kể về các tính năng đặc biệt của vtag.",
+                "Tôi đang tìm hiểu về vtag, có thể cung cấp thông tin về tính năng không?",
+                "Xin hãy chỉ ra những công việc mà vtag có khả năng thực hiện.",
+                "Tôi cần hiểu rõ về tính năng và khả năng của vtag.",
+                "Có những ứng dụng gì trong tính năng của vtag?",
+                "Xin hãy giới thiệu về cách vtag có thể hỗ trợ và tiện ích cho người dùng.",
+                "Xin hãy cung cấp thông tin về những điểm mạnh trong chức năng của vtag.",
+                "Hãy giải thích cụ thể về các tính năng thông minh của vtag.",
+                "Tôi cần hiểu rõ về các tính năng nổi bật và sự đa dạng trong vtag."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vTag có thể kể đến như: \n1. Định vị chính xác: Định vị theo yêu cầu và chu kỳ đặt trước\n2. Xem lịch sử di chuyển: Hệ thống tự động lưu lại lịch sử di chuyển, cho phép bạn dễ dàng xem lại mọi lúc mọi nơi\n3. Cảm biến chuyển động:Thiết bị có trang bị cảm biến chuyển động, phát hiện di chuyển và cảnh báo về app.\n 4. Cảnh báo SOS: Trường hợp khẩn cấp, đối tượng sử dụng có thể chủ động nhất nút thiết bị trong 2 giây để lập tức gửi vị trí đến bạn.\n5. Thiết lập vùng an toàn: Người dùng có thể thiết lập vùng an toàn cho thiết bị và sẽ nhận được thông báo khi thiết bị ra khỏi vùng an toàn. "
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vtag",
+            "patterns": [
+                "Giá thành của vtag.",
+                "giá của vtag",
+                "vtag có giá bao nhiêu",
+                "chi phí cho vtag là bao nhiêu",
+                "vtag bao nhiêu tiền",
+                "Xin hãy cung cấp thông tin về giá thành của vtag.",
+                "Tôi quan tâm đến giá của vtag, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về giá của vtag.",
+                "Tôi muốn biết giá thành cụ thể cho vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về giá bán của vtag.",
+                "Tôi muốn tìm hiểu về giá cả của vtag.",
+                "Tôi đang tìm hiểu về giá của vtag, có thể cung cấp thông tin về giá không?",
+                "Xin hãy chỉ ra giá tiền của vtag.",
+                "Tôi cần hiểu rõ về giá cả và chi phí của vtag.",
+                "Có những gói giá và tùy chọn nào khi mua vtag?",
+                "Xin hãy giải thích cụ thể về chi phí cho việc sở hữu vtag.",
+                "Tôi muốn biết về các khoản phí và chi phí đi kèm khi sử dụng vtag.",
+                "Xin hãy cung cấp thông tin về các khuyến mãi và chương trình giảm giá cho vtag."
+            ],
+            "responses": [
+                "Giá thiết bị vTag: 990.000 VNĐ (bao gồm thiết bị và cáp sạc)\nCác tùy chọn màu sắc khác nhau có sẵn\nCước phí dịch vụ data esim kèm thiết bị:\n– VTAG25: 25.000đ/tháng\n– 6VTAG25: 150.000đ/6 tháng\n– 12VTAG25: 300.000đ/12 tháng\nCác màu khác nhau có sẵn bao gồm đen và trắng cho cả hai mẫu của vTag tiêu chuẩn."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vtag",
+            "patterns": [
+                "Cách sử dụng vtag.",
+                "cách cài đặt vtag",
+                "cài đặt vtag như thế nào",
+                "dùng vtag như nào",
+                "cách dùng vtag",
+                "Xin hãy hướng dẫn cách sử dụng vtag.",
+                "Tôi quan tâm đến cách sử dụng vtag, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách cài đặt vtag.",
+                "Tôi muốn biết cụ thể cách sử dụng vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về việc cài đặt vtag.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtag, có thể hướng dẫn tôi không?",
+                "Có những bước nào khi cài đặt vtag mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý khi sử dụng vtag.",
+                "Tôi đang tìm hiểu về cách cài đặt vtag, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cách sử dụng vtag một cách hiệu quả.",
+                "Tôi cần hiểu rõ về quy trình cài đặt vtag.",
+                "Có những hướng dẫn nào để sử dụng vtag một cách dễ dàng?",
+                "Xin hãy giải thích cách sử dụng vtag một cách chính xác.",
+                "Tôi muốn biết về các tính năng và ứng dụng của vtag khi đã cài đặt.",
+                "Hãy cung cấp thông tin về các yêu cầu kỹ thuật khi cài đặt vtag.",
+                "Tôi quan tâm đến các bước cài đặt vtag, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về quá trình cài đặt vtag.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtag một cách an toàn và hiệu quả.",
+                "Xin hãy cung cấp hướng dẫn về cách kích hoạt và sử dụng vtag.",
+                "Tôi cần hiểu rõ về cách dùng vtag một cách đơn giản và hiệu quả."
+            ],
+            "responses": [
+                "B1. Tải ứng dụng vtag trên điện thoại\nB2. Đăng ký tài khoản vTag. Sau khi tải và cài đặt phần mềm vTag thành công trên smartphone, bạn tiến hành mở ứng dụng nhấn vào nút “ĐĂNG KÝ NGAY” và tạo tài khoản với số điện thoại của bạn\nB3. Kết nối thiết bị: Sau khi đăng nhập tài khoản, vào thẻ ”thiết bị” nhấn nút dấu + ở góc dưới bên phải của màn hình, và quét mã QR đính kèm trong hộp hoặc nhập mã IMEI trên vỏ thiết bị\nB4. Kích hoạt thiết bị: Nhấn nút 1 lần để kích hoạt thiết bị. Sau đó thiết bị sẽ gửi thông tin vị trí đầu tiên về ứng dụng vTag, đồng thời nháy đèn xanh liên tục trong 30 giây."
+            ]
+        },
+        {
+            "tag": "?bao_hanh_vtag",
+            "patterns": [
+                "Bảo hành của vtag.",
+                "chế độ bảo hành của vtag",
+                "cơ chế bảo hành vtag",
+                "chính sách bảo hành của vtag",
+                "Xin hãy cung cấp thông tin về bảo hành của vtag.",
+                "Tôi quan tâm đến chế độ bảo hành của vtag, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về cơ chế bảo hành vtag.",
+                "Tôi muốn biết cụ thể chế độ bảo hành của vtag, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về chính sách bảo hành của vtag.",
+                "Tôi muốn tìm hiểu về chế độ bảo hành vtag, có thể hướng dẫn tôi không?",
+                "Có những yêu cầu nào khi sử dụng chế độ bảo hành vtag mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong chế độ bảo hành của vtag.",
+                "Tôi đang tìm hiểu về chính sách bảo hành của vtag, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cơ chế bảo hành của vtag.",
+                "Tôi cần hiểu rõ về quy trình khi yêu cầu bảo hành vtag.",
+                "Có những hướng dẫn nào về cơ chế bảo hành mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về chế độ bảo hành của vtag.",
+                "Tôi muốn biết về các điều kiện và điều khoản trong chính sách bảo hành vtag.",
+                "Hãy cung cấp thông tin về thời hạn và phạm vi bảo hành của vtag.",
+                "Tôi quan tâm đến các điều kiện khi yêu cầu bảo hành vtag, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về cơ chế khi yêu cầu bảo hành vtag.",
+                "Tôi muốn tìm hiểu về chính sách bảo hành vtag và những quyền lợi được hưởng.",
+                "Xin hãy cung cấp hướng dẫn về cách yêu cầu bảo hành và hỗ trợ kỹ thuật cho vtag.",
+                "Tôi cần hiểu rõ về chế độ bảo hành và các dịch vụ hỗ trợ kỹ thuật liên quan đến vtag."
+            ],
+            "responses": [
+                "vTag được bảo hành chính hãng 12 tháng tại tất cả các cửa hàng của Viettel Telecom và Viettel Store trên toàn quốc. Khách hàng có thể đến 1 trong 2 chuỗi cửa hàng trên để bảo hành hoặc sữa chữa thiết bị."
+            ]
+        },
+        {
+            "tag": "?thong_tin_vtracking",
+            "patterns": [
+                "Vtracking là gì?",
+                "vtracking là cái gì",
+                "vtracking cụ thể là cái gì",
+                "Tôi muốn hỏi về vtracking",
+                "thông tin về vtracking",
+                "chi tiết về vtracking",
+                "cụ thể về vtracking",
+                "thông tin chi tiết về vtracking",
+                "thêm thông tin về vtracking",
+                "Xin hãy giải thích về vtracking.",
+                "vtracking là gì",
+                "Tôi quan tâm đến thông tin về vtracking, bạn có thể cung cấp không?",
+                "Hãy giới thiệu chi tiết về vtracking.",
+                "Tôi muốn biết cụ thể về vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin chi tiết về vtracking.",
+                "Tôi muốn tìm hiểu thêm về vtracking.",
+                "Có những tính năng gì đáng chú ý trong vtracking?",
+                "Hãy cung cấp thông tin về chức năng của vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cho tôi biết thêm không?"
+            ],
+            "responses": [
+                "vTracking là hệ thống quản lý và giám sát phương tiện vận tải để giám sát hành trình và quản lý những chiếc xe của bạn."
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vtracking",
+            "patterns": [
+                "Chức năng của vtracking.",
+                "tính năng về vtracking",
+                "vtracking có thể làm được những gì",
+                "các tính năng của vtracking",
+                "vtracking có chức năng gì",
+                "vtracking có những tính năng gì",
+                "Xin hãy giới thiệu về chức năng của vtracking.",
+                "Tính năng về vtracking là gì?",
+                "Hãy giải thích những việc mà vtracking có thể làm được.",
+                "Tôi quan tâm đến các tính năng của vtracking, bạn có thể cho tôi biết không?",
+                "Xin hãy cung cấp thông tin về các tính năng của vtracking.",
+                "Tôi muốn tìm hiểu về tính năng cụ thể của vtracking, có thể hướng dẫn tôi không?",
+                "Có những điểm nào đáng chú ý trong chức năng của vtracking?",
+                "Hãy kể về các tính năng đặc biệt của vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cung cấp thông tin về tính năng không?",
+                "Xin hãy chỉ ra những công việc mà vtracking có khả năng thực hiện.",
+                "Tôi cần hiểu rõ về tính năng và khả năng của vtracking.",
+                "Có những ứng dụng gì trong tính năng của vtracking?",
+                "Xin hãy giới thiệu về cách vtracking có thể hỗ trợ và tiện ích cho người dùng.",
+                "Tôi muốn biết về khả năng thích ứng và độ linh hoạt của vtracking.",
+                "Xin hãy cung cấp thông tin về những điểm mạnh trong chức năng của vtracking.",
+                "Tôi quan tâm đến khả năng tương thích của vtracking với các hệ thống khác.",
+                "Hãy giải thích cụ thể về các tính năng thông minh của vtracking."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vtracking có thể kể đến như: \n1. Giám sát vị trí: Vận tốc, số km đi được, trạng thái đóng mở cửa, tắt mở máy, trạng thái điều hòa, thông tin đặt xe, ...\n2. Giám sát hình ảnh & video: Xem trực tuyến video chất lượng cao không giới hạn dung lượng và thời gian\n3. Xem lại hành trình: Xem lại video và ảnh với độ nét cao, vẽ lại hành trình trực quan trên bản đồ, tính tổng quảng đường, tổng số lần dừng, thời gian dừng\n4. Cảnh cáo tức thời: Có thể cảnh báo các trường hợp như SOS, quá tốc độ, vi phạm thời gian lái xe liên tục, vi phạm thời gian làm việc…\n5. Báo cáo đa dạng: Đầy đủ báo cáo theo quy định mẫu của Bộ GTVT,  báo cáo đa dạng khác theo nghiệp vụ của từng doanh nghiệp, tổ chức: đếm hành trình di chuyển, báo cáo qua vùng, qua trạm thu phí,…"
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vtracking",
+            "patterns": [
+                "Giá thành của vtracking.",
+                "giá của vtracking",
+                "vtracking có giá bao nhiêu",
+                "chi phí cho vtracking là bao nhiêu",
+                "vtracking bao nhiêu tiền",
+                "Xin hãy cung cấp thông tin về giá thành của vtracking.",
+                "Tôi quan tâm đến giá của vtracking, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về giá của vtracking.",
+                "Tôi muốn biết cụ thể giá thành vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về giá bán của vtracking.",
+                "Tôi muốn tìm hiểu về giá cả của vtracking.",
+                "Có những yếu tố nào ảnh hưởng đến giá của vtracking?",
+                "Hãy kể về những điều kiện và gói giá khi sử dụng vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cung cấp thông tin về giá không?",
+                "Xin hãy chỉ ra giá tiền của vtracking.",
+                "Tôi cần hiểu rõ về giá cả và chi phí của vtracking.",
+                "Có những gói giá và tùy chọn nào khi mua vtracking?",
+                "Xin hãy giải thích cụ thể về chi phí cho việc sở hữu vtracking.",
+                "Tôi muốn biết về các khoản phí và chi phí đi kèm khi sử dụng vtracking.",
+                "Xin hãy cung cấp thông tin về các khuyến mãi và chương trình giảm giá cho vtracking.",
+                "Tôi quan tâm đến chi phí và hiệu quả sử dụng của vtracking.",
+                "Hãy giải thích cụ thể về giá trị và tính năng của vtracking so với giá tiền.",
+                "Tôi muốn tìm hiểu về các tùy chọn thanh toán và hình thức thanh toán cho vtracking.",
+                "Xin hãy cung cấp thông tin về giá và các ưu đãi khi mua vtracking.",
+                "Tôi cần hiểu rõ về các khoản phí và điều kiện thanh toán khi mua vtracking."
+            ],
+            "responses": [
+                "Giá thiết bị vtracking: 495.000 VNĐ\nCước phí dịch vụ data eSim kèm thiết bị:\n– Gói VTR_GH: 960.000đ/12 tháng\n– Gói VTR24GH: 1.650.000đ/24 tháng."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vtracking",
+            "patterns": [
+                "Cách sử dụng vtracking.",
+                "cách cài đặt vtracking",
+                "cài đặt vtracking như thế nào",
+                "quy trình cài đặt vtracking",
+                "cách dùng vtracking",
+                "Xin hãy hướng dẫn cách sử dụng vtracking.",
+                "Tôi quan tâm đến cách sử dụng vtracking, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách cài đặt vtracking.",
+                "Tôi muốn biết cụ thể cách sử dụng vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về việc cài đặt vtracking.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtracking, có thể hướng dẫn tôi không?",
+                "Có những bước nào khi cài đặt vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý khi sử dụng vtracking.",
+                "Tôi đang tìm hiểu về cách cài đặt vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Tôi cần hiểu rõ về quy trình cài đặt vtracking.",
+                "Có những hướng dẫn nào để sử dụng vtracking một cách dễ dàng?",
+                "Tôi muốn biết về các tính năng và ứng dụng của vtracking khi đã cài đặt.",
+                "Hãy cung cấp thông tin về các yêu cầu kỹ thuật khi cài đặt vtracking.",
+                "Tôi quan tâm đến các bước cài đặt vtracking, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về quá trình cài đặt vtracking.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtracking một cách an toàn và hiệu quả.",
+                "Xin hãy cung cấp hướng dẫn về cách kích hoạt và sử dụng vtracking.",
+                "Tôi cần hiểu rõ về cách dùng vtracking một cách đơn giản và hiệu quả."
+            ],
+            "responses": [
+                "cai_dat_vtracking"
+            ]
+        },
+        {
+            "tag": "?bao_hanh_vtracking",
+            "patterns": [
+                "Bảo hành của vtracking.",
+                "chế độ bảo hành của vtracking",
+                "cơ chế bảo hành vtracking",
+                "chính sách bảo hành của vtracking",
+                "Xin hãy cung cấp thông tin về bảo hành của vtracking.",
+                "Tôi quan tâm đến chế độ bảo hành của vtracking, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về cơ chế bảo hành vtracking.",
+                "Tôi muốn biết cụ thể chế độ bảo hành của vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về chính sách bảo hành của vtracking.",
+                "Tôi muốn tìm hiểu về chế độ bảo hành vtracking, có thể hướng dẫn tôi không?",
+                "Có những yêu cầu nào khi sử dụng chế độ bảo hành vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong chế độ bảo hành của vtracking.",
+                "Tôi đang tìm hiểu về chính sách bảo hành của vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cơ chế bảo hành của vtracking.",
+                "Tôi cần hiểu rõ về quy trình khi yêu cầu bảo hành vtracking.",
+                "Có những hướng dẫn nào về cơ chế bảo hành mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về chế độ bảo hành của vtracking.",
+                "Tôi muốn biết về các điều kiện và điều khoản trong chính sách bảo hành vtracking.",
+                "Hãy cung cấp thông tin về thời hạn và phạm vi bảo hành của vtracking.",
+                "Tôi quan tâm đến các điều kiện khi yêu cầu bảo hành vtracking, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về cơ chế khi yêu cầu bảo hành vtracking.",
+                "Tôi muốn tìm hiểu về chính sách bảo hành vtracking và những quyền lợi được hưởng.",
+                "Xin hãy cung cấp hướng dẫn về cách yêu cầu bảo hành và hỗ trợ kỹ thuật cho vtracking.",
+                "Tôi cần hiểu rõ về cách thức bảo hành và các dịch vụ hỗ trợ kỹ thuật liên quan đến vtracking."
+            ],
+            "responses": [
+                "bao_hanh_vtracking"
+            ]
+        },
+        {
+            "tag": "?thanh_toan_vtracking",
+            "patterns": [
+                "Thanh toán hàng tháng của vtracking.",
+                "hình thức thanh toán gói cước hàng tháng của vtracking",
+                "cách thanh toán hàng tháng của vtracking",
+                "Xin hãy cung cấp thông tin về thanh toán hàng tháng của vtracking.",
+                "Tôi quan tâm đến hình thức thanh toán gói cước hàng tháng của vtracking, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách thanh toán hàng tháng của vtracking.",
+                "Tôi muốn biết cụ thể cách thanh toán hàng tháng vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về hình thức thanh toán hàng tháng của vtracking.",
+                "Tôi muốn tìm hiểu về cách thanh toán hàng tháng vtracking, có thể hướng dẫn tôi không?",
+                "Có những bước nào trong quy trình thanh toán hàng tháng vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong quá trình thanh toán hàng tháng của vtracking.",
+                "Tôi đang tìm hiểu về hình thức thanh toán gói cước hàng tháng của vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cách thanh toán hàng tháng cho gói cước vtracking.",
+                "Tôi cần hiểu rõ về quy trình thanh toán hàng tháng vtracking.",
+                "Có những hướng dẫn nào về cách thức thanh toán hàng tháng mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về cách thanh toán hàng tháng của vtracking.",
+                "Tôi muốn biết về các tùy chọn thanh toán hàng tháng và cách tính phí cho vtracking.",
+                "Hãy cung cấp thông tin về các phương thức thanh toán vtracking.",
+                "Tôi quan tâm đến cách thức thanh toán hàng tháng của vtracking, bạn có thể hướng dẫn tôi không?"
+            ],
+            "responses": [
+                "thanh_toan_vtracking"
+            ]
+        }
+    ]
+}

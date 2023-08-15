@@ -1,0 +1,179 @@
+{
+    "intents": [
+        {
+            "tag": "?thong_tin_vtracking",
+            "patterns": [
+                "Vtracking là gì?",
+                "vtracking là cái gì",
+                "vtracking cụ thể là cái gì",
+                "Tôi muốn hỏi về vtracking",
+                "thông tin về vtracking",
+                "chi tiết về vtracking",
+                "cụ thể về vtracking",
+                "thông tin chi tiết về vtracking",
+                "thêm thông tin về vtracking",
+                "Xin hãy giải thích về vtracking.",
+                "vtracking là gì",
+                "Tôi quan tâm đến thông tin về vtracking, bạn có thể cung cấp không?",
+                "Hãy giới thiệu chi tiết về vtracking.",
+                "Tôi muốn biết cụ thể về vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin chi tiết về vtracking.",
+                "Tôi muốn tìm hiểu thêm về vtracking.",
+                "Có những tính năng gì đáng chú ý trong vtracking?",
+                "Hãy cung cấp thông tin về chức năng của vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cho tôi biết thêm không?"
+            ],
+            "responses": [
+                "vTracking là hệ thống quản lý và giám sát phương tiện vận tải để giám sát hành trình và quản lý những chiếc xe của bạn."
+            ]
+        },
+        {
+            "tag": "?chuc_nang_vtracking",
+            "patterns": [
+                "Chức năng của vtracking.",
+                "tính năng về vtracking",
+                "vtracking có thể làm được những gì",
+                "các tính năng của vtracking",
+                "vtracking có chức năng gì",
+                "vtracking có những tính năng gì",
+                "Xin hãy giới thiệu về chức năng của vtracking.",
+                "Tính năng về vtracking là gì?",
+                "Hãy giải thích những việc mà vtracking có thể làm được.",
+                "Tôi quan tâm đến các tính năng của vtracking, bạn có thể cho tôi biết không?",
+                "Xin hãy cung cấp thông tin về các tính năng của vtracking.",
+                "Tôi muốn tìm hiểu về tính năng cụ thể của vtracking, có thể hướng dẫn tôi không?",
+                "Có những điểm nào đáng chú ý trong chức năng của vtracking?",
+                "Hãy kể về các tính năng đặc biệt của vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cung cấp thông tin về tính năng không?",
+                "Xin hãy chỉ ra những công việc mà vtracking có khả năng thực hiện.",
+                "Tôi cần hiểu rõ về tính năng và khả năng của vtracking.",
+                "Có những ứng dụng gì trong tính năng của vtracking?",
+                "Xin hãy giới thiệu về cách vtracking có thể hỗ trợ và tiện ích cho người dùng.",
+                "Tôi muốn biết về khả năng thích ứng và độ linh hoạt của vtracking.",
+                "Xin hãy cung cấp thông tin về những điểm mạnh trong chức năng của vtracking.",
+                "Tôi quan tâm đến khả năng tương thích của vtracking với các hệ thống khác.",
+                "Hãy giải thích cụ thể về các tính năng thông minh của vtracking."
+            ],
+            "responses": [
+                "Các tính năng nổi bật của thiết bị định vị vtracking có thể kể đến như: \n1. Giám sát vị trí: Vận tốc, số km đi được, trạng thái đóng mở cửa, tắt mở máy, trạng thái điều hòa, thông tin đặt xe, ...\n2. Giám sát hình ảnh & video: Xem trực tuyến video chất lượng cao không giới hạn dung lượng và thời gian\n3. Xem lại hành trình: Xem lại video và ảnh với độ nét cao, vẽ lại hành trình trực quan trên bản đồ, tính tổng quảng đường, tổng số lần dừng, thời gian dừng\n4. Cảnh cáo tức thời: Có thể cảnh báo các trường hợp như SOS, quá tốc độ, vi phạm thời gian lái xe liên tục, vi phạm thời gian làm việc…\n5. Báo cáo đa dạng: Đầy đủ báo cáo theo quy định mẫu của Bộ GTVT,  báo cáo đa dạng khác theo nghiệp vụ của từng doanh nghiệp, tổ chức: đếm hành trình di chuyển, báo cáo qua vùng, qua trạm thu phí,…"
+            ]
+        },
+        {
+            "tag": "?gia_thanh_vtracking",
+            "patterns": [
+                "Giá thành của vtracking.",
+                "giá của vtracking",
+                "vtracking có giá bao nhiêu",
+                "chi phí cho vtracking là bao nhiêu",
+                "vtracking bao nhiêu tiền",
+                "Xin hãy cung cấp thông tin về giá thành của vtracking.",
+                "Tôi quan tâm đến giá của vtracking, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về giá của vtracking.",
+                "Tôi muốn biết cụ thể giá thành vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về giá bán của vtracking.",
+                "Tôi muốn tìm hiểu về giá cả của vtracking.",
+                "Có những yếu tố nào ảnh hưởng đến giá của vtracking?",
+                "Hãy kể về những điều kiện và gói giá khi sử dụng vtracking.",
+                "Tôi đang tìm hiểu về vtracking, có thể cung cấp thông tin về giá không?",
+                "Xin hãy chỉ ra giá tiền của vtracking.",
+                "Tôi cần hiểu rõ về giá cả và chi phí của vtracking.",
+                "Có những gói giá và tùy chọn nào khi mua vtracking?",
+                "Xin hãy giải thích cụ thể về chi phí cho việc sở hữu vtracking.",
+                "Tôi muốn biết về các khoản phí và chi phí đi kèm khi sử dụng vtracking.",
+                "Xin hãy cung cấp thông tin về các khuyến mãi và chương trình giảm giá cho vtracking.",
+                "Tôi quan tâm đến chi phí và hiệu quả sử dụng của vtracking.",
+                "Hãy giải thích cụ thể về giá trị và tính năng của vtracking so với giá tiền.",
+                "Tôi muốn tìm hiểu về các tùy chọn thanh toán và hình thức thanh toán cho vtracking.",
+                "Xin hãy cung cấp thông tin về giá và các ưu đãi khi mua vtracking.",
+                "Tôi cần hiểu rõ về các khoản phí và điều kiện thanh toán khi mua vtracking."
+            ],
+            "responses": [
+                "Giá thiết bị vtracking: 495.000 VNĐ\nCước phí dịch vụ data eSim kèm thiết bị:\n– Gói VTR_GH: 960.000đ/12 tháng\n– Gói VTR24GH: 1.650.000đ/24 tháng."
+            ]
+        },
+        {
+            "tag": "?cai_dat_vtracking",
+            "patterns": [
+                "Cách sử dụng vtracking.",
+                "cách cài đặt vtracking",
+                "cài đặt vtracking như thế nào",
+                "quy trình cài đặt vtracking",
+                "cách dùng vtracking",
+                "Xin hãy hướng dẫn cách sử dụng vtracking.",
+                "Tôi quan tâm đến cách sử dụng vtracking, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách cài đặt vtracking.",
+                "Tôi muốn biết cụ thể cách sử dụng vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về việc cài đặt vtracking.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtracking, có thể hướng dẫn tôi không?",
+                "Có những bước nào khi cài đặt vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý khi sử dụng vtracking.",
+                "Tôi đang tìm hiểu về cách cài đặt vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Tôi cần hiểu rõ về quy trình cài đặt vtracking.",
+                "Có những hướng dẫn nào để sử dụng vtracking một cách dễ dàng?",
+                "Tôi muốn biết về các tính năng và ứng dụng của vtracking khi đã cài đặt.",
+                "Hãy cung cấp thông tin về các yêu cầu kỹ thuật khi cài đặt vtracking.",
+                "Tôi quan tâm đến các bước cài đặt vtracking, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về quá trình cài đặt vtracking.",
+                "Tôi muốn tìm hiểu về cách sử dụng vtracking một cách an toàn và hiệu quả.",
+                "Xin hãy cung cấp hướng dẫn về cách kích hoạt và sử dụng vtracking.",
+                "Tôi cần hiểu rõ về cách dùng vtracking một cách đơn giản và hiệu quả."
+            ],
+            "responses": ["cai_dat_vtracking"]
+        },
+        {
+            "tag": "?bao_hanh_vtracking",
+            "patterns": [
+                "Bảo hành của vtracking.",
+                "chế độ bảo hành của vtracking",
+                "cơ chế bảo hành vtracking",
+                "chính sách bảo hành của vtracking",
+                "Xin hãy cung cấp thông tin về bảo hành của vtracking.",
+                "Tôi quan tâm đến chế độ bảo hành của vtracking, bạn có thể cho tôi biết không?",
+                "Hãy giới thiệu về cơ chế bảo hành vtracking.",
+                "Tôi muốn biết cụ thể chế độ bảo hành của vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về chính sách bảo hành của vtracking.",
+                "Tôi muốn tìm hiểu về chế độ bảo hành vtracking, có thể hướng dẫn tôi không?",
+                "Có những yêu cầu nào khi sử dụng chế độ bảo hành vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong chế độ bảo hành của vtracking.",
+                "Tôi đang tìm hiểu về chính sách bảo hành của vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cơ chế bảo hành của vtracking.",
+                "Tôi cần hiểu rõ về quy trình khi yêu cầu bảo hành vtracking.",
+                "Có những hướng dẫn nào về cơ chế bảo hành mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về chế độ bảo hành của vtracking.",
+                "Tôi muốn biết về các điều kiện và điều khoản trong chính sách bảo hành vtracking.",
+                "Hãy cung cấp thông tin về thời hạn và phạm vi bảo hành của vtracking.",
+                "Tôi quan tâm đến các điều kiện khi yêu cầu bảo hành vtracking, bạn có thể hướng dẫn tôi không?",
+                "Xin hãy giải thích cụ thể về cơ chế khi yêu cầu bảo hành vtracking.",
+                "Tôi muốn tìm hiểu về chính sách bảo hành vtracking và những quyền lợi được hưởng.",
+                "Xin hãy cung cấp hướng dẫn về cách yêu cầu bảo hành và hỗ trợ kỹ thuật cho vtracking.",
+                "Tôi cần hiểu rõ về cách thức bảo hành và các dịch vụ hỗ trợ kỹ thuật liên quan đến vtracking."
+            ],
+            "responses": ["bao_hanh_vtracking"]
+        },
+        {
+            "tag": "?thanh_toan_vtracking",
+            "patterns": [
+                "Thanh toán hàng tháng của vtracking.",
+                "hình thức thanh toán gói cước hàng tháng của vtracking",
+                "cách thanh toán hàng tháng của vtracking",
+                "Xin hãy cung cấp thông tin về thanh toán hàng tháng của vtracking.",
+                "Tôi quan tâm đến hình thức thanh toán gói cước hàng tháng của vtracking, bạn có thể giúp tôi không?",
+                "Hãy giới thiệu về cách thanh toán hàng tháng của vtracking.",
+                "Tôi muốn biết cụ thể cách thanh toán hàng tháng vtracking, có thể hướng dẫn tôi không?",
+                "Xin hãy cung cấp thông tin về hình thức thanh toán hàng tháng của vtracking.",
+                "Tôi muốn tìm hiểu về cách thanh toán hàng tháng vtracking, có thể hướng dẫn tôi không?",
+                "Có những bước nào trong quy trình thanh toán hàng tháng vtracking mà tôi cần biết?",
+                "Hãy kể về những điểm cần lưu ý trong quá trình thanh toán hàng tháng của vtracking.",
+                "Tôi đang tìm hiểu về hình thức thanh toán gói cước hàng tháng của vtracking, có thể cung cấp hướng dẫn chi tiết không?",
+                "Xin hãy chỉ ra cách thanh toán hàng tháng cho gói cước vtracking.",
+                "Tôi cần hiểu rõ về quy trình thanh toán hàng tháng vtracking.",
+                "Có những hướng dẫn nào về cách thức thanh toán hàng tháng mà tôi cần biết?",
+                "Xin hãy giải thích cụ thể về cách thanh toán hàng tháng của vtracking.",
+                "Tôi muốn biết về các tùy chọn thanh toán hàng tháng và cách tính phí cho vtracking.",
+                "Hãy cung cấp thông tin về các phương thức thanh toán vtracking.",
+                "Tôi quan tâm đến cách thức thanh toán hàng tháng của vtracking, bạn có thể hướng dẫn tôi không?"
+            ],
+            "responses": ["thanh_toan_vtracking"]
+        }
+    ]
+}

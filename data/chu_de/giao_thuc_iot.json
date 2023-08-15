@@ -1,0 +1,41 @@
+{
+    "intents": [
+        {
+            "tag": "giao_thuc_iot_1",
+            "patterns": [],
+            "responses": []
+        },
+        {
+            "tag": "giao_thuc_iot_2",
+            "patterns": [
+                "giao thức là gì",
+                "giao thức trong iot là gì",
+                "protocol trong iot là gì",
+                "Các giao thức thường gặp trong iot",
+                "Giao thức là khái niệm gì?",
+                "Khái niệm về giao thức trong lĩnh vực IoT là gì?",
+                "Giao thức trong IoT được định nghĩa như thế nào?",
+                "Các giao thức thông dụng trong lĩnh vực IoT là gì?",
+                "Giao thức là gì và có tác dụng gì?",
+                "Giao thức là thuật ngữ mang ý nghĩa gì?",
+                "Giao thức trong IoT là gì và có ý nghĩa như thế nào?",
+                "Giao thức trong IoT được mô tả như thế nào?",
+                "Giao thức là khái niệm có liên quan đến gì trong IoT?",
+                "Giao thức trong IoT có tác dụng gì?",
+                "Giao thức được hiểu như thế nào trong lĩnh vực IoT?",
+                "Giao thức trong IoT có tác dụng ra sao?",
+                "Giao thức là gì và ý nghĩa trong IoT như thế nào?",
+                "Khái niệm về giao thức trong IoT có gì?",
+                "Giao thức trong IoT mang ý nghĩa như thế nào?",
+                "Giao thức là gì và vai trò của nó trong IoT là gì?",
+                "Khái niệm giao thức trong IoT được định nghĩa như thế nào?",
+                "Giao thức trong IoT được mô tả ra sao?",
+                "Giao thức trong IoT có ý nghĩa gì?",
+                "Các giao thức thông dụng trong lĩnh vực IoT là gì?"
+            ],
+            "responses": [
+                "Giao thức (protocol/communication protocol) là bộ quy tắc chuẩn cho phép hai hoặc nhiều thực thể trong một hệ thống thông tin liên lạc để trao đổi thông tin, dữ liệu qua các kênh truyền thông. Các giao thức thường gặp là TCP, UDP, HTTP/HTTPS, MQTT, CoAP,..."
+            ]
+        }
+    ]
+}

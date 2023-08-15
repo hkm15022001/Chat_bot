@@ -1,0 +1,111 @@
+{
+    "intents": [
+        {
+            "tag": "?quan_ly_thue_bao_1",
+            "patterns": [
+                "Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký.",
+                "Tôi quan tâm đến việc áp dụng quản lý thuê bao trong doanh nghiệp.",
+                "Làm sao để Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký",
+                "Hệ thống có hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp không",
+                "Kiểm soát các thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Quản lý thông tin liên quan đến việc thuê bao doanh nghiệp đã đăng ký làm thế nào?",
+                "Có cách nào để quản lý thông tin về thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Lưu trữ thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Hướng dẫn cách quản lý thông tin về thuê bao doanh nghiệp đã đăng ký.",
+                "Xử lý thông tin liên quan đến việc thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Có phương pháp nào để quản lý thông tin liên quan đến thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Giải pháp quản lý thông tin liên quan đến các thuê bao mà doanh nghiệp đã đăng ký.",
+                "Làm cách nào để doanh nghiệp có thể quản lý thông tin về thuê bao đã đăng ký?",
+                "Có giải pháp hỗ trợ doanh nghiệp quản lý các thuê bao đã đăng ký không?",
+                "Tối ưu hóa việc quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký.",
+                "Có cách nào hiệu quả để quản lý thông tin về các thuê bao doanh nghiệp đã đăng ký không?",
+                "Có hỗ trợ từ hệ thống để doanh nghiệp quản lý các thuê bao đã đăng ký không?",
+                "Quản lý thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Tối ưu hoá việc quản lý các thông tin về thuê bao mà doanh nghiệp đã đăng ký.",
+                "Làm thế nào để doanh nghiệp có thể quản lý thông tin liên quan đến thuê bao đã đăng ký?",
+                "Hệ thống có hỗ trợ quản lý các thuê bao mà doanh nghiệp đã đăng ký không?",
+                "Có phương pháp nào hiệu quả để quản lý thông tin về thuê bao doanh nghiệp đã đăng ký không?",
+                "Lưu trữ thông tin liên quan tới thuê bao mà doanh nghiệp đã đăng ký như thế nào?",
+                "Có cách nào để hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp đã đăng ký không?"
+            ],
+            "responses": [
+                "Để quản lý được thông tin liên quan tới thuê bao của doanh nghiệp một cách dễ dàng, anh/chị cần đăng ký tài khoản ở trên nền tảng IoT Innoway, đăng nhập và bổ sung thông tin GPKD của doanh nghiệp (Để nhận được sự hỗ trợ chi tiết, vui lòng gọi số ...)."
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_2",
+            "patterns": [
+                "Khách hàng có thể quản lý thuê bao cá nhân của mình trên hệ thống Telco không?",
+                "Có cho phép khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có thể tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có hỗ trợ cho khách hàng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có thể tự điều chỉnh thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu có cách nào cho khách hàng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có tính năng cho phép khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có quyền tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có thể tự điều hành thuê bao cá nhân trên hệ thống Telco không",
+                "Khách hàng có khả năng tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Có hỗ trợ cho khách hàng quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có quyền tự quản lý thuê bao cá nhân trên hệ thống Telco không",
+                "Liệu khách hàng có tính năng tự quản lý thuê bao cá nhân trên hệ thống Telco không"
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ doanh nghiệp quản lý các thuê bao doanh nghiệp, không hỗ trợ với khách hàng cá nhân."
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_3",
+            "patterns": [
+                "Khách hàng có thể quản lý những thông tin gì của thuê bao thuộc doanh nghiệp?",
+                "Hệ thống cho phép khách hàng quản lý thông tin nào của thuê bao doanh nghiệp",
+                "Khách hàng có thể tự quản lý những thông tin nào của thuê bao doanh nghiệp",
+                "Có hỗ trợ cho khách hàng tự quản lý những thông tin gì của thuê bao doanh nghiệp",
+                "Thuê bao thuộc doanh nghiệp được cho phép quản lý thông tin gì",
+                "Liệu có cách nào cho phép khách hàng tự quản lý thông tin của thuê bao doanh nghiệp không",
+                "Khách hàng có quyền tự quản lý những thông tin nào của thuê bao doanh nghiệp",
+                "Có tính năng cho phép khách hàng quản lý thông tin nào của thuê bao doanh nghiệp",
+                "Liệu khách hàng có thể tự điều hành thông tin nào của thuê bao doanh nghiệp",
+                "Có cho phép khách hàng tự quản lý những thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Khách hàng có khả năng tự quản lý thông tin gì của thuê bao doanh nghiệp",
+                "Liệu có cách nào cho phép khách hàng tự điều chỉnh thông tin của thuê bao doanh nghiệp không",
+                "Có hỗ trợ cho khách hàng quản lý thông tin gì của thuê bao doanh nghiệp",
+                "Có tính năng cho phép khách hàng quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Liệu khách hàng có quyền tự quản lý những thông tin gì của thuê bao doanh nghiệp",
+                "Khách hàng có khả năng tự điều hành thông tin gì của thuê bao doanh nghiệp",
+                "Có hỗ trợ cho khách hàng quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống",
+                "Khách hàng có thể tự điều chỉnh thông tin gì của thuê bao doanh nghiệp",
+                "Liệu khách hàng có tính năng tự quản lý thông tin gì của thuê bao doanh nghiệp trên hệ thống"
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ doanh nghiệp các nghiệp vụ sau: \n- Xem thông tin thuê bao, hợp đồng , hóa đơn, đơn hàng của doanh nghiệp \n- Thực hiện đăng ký đơn mua hàng mua thuê bao mới một cách thuận tiện \n- Thực hiện đầu nối trực tuyến mộ cách đơn giản, thuận tiện \n- Thực hiện nạp tiền, thanh toán hóa đơn, đăng ký các gói dịch vụ giá trị gia tăng \n- Thực hiện chặn, mở thuê bao một các chủ động"
+            ]
+        },
+        {
+            "tag": "?quan_ly_thue_bao_4",
+            "patterns": [
+                "Chi phí để sử dụng Hệ thống Telco, thuộc nền tảng IoT Innoway là bao nhiêu?",
+                "Hệ thống Telco trên nền tảng IoT Innoway có chi phí sử dụng là bao nhiêu?",
+                "Xin hỏi chi phí sử dụng Hệ thống Telco của nền tảng IoT Innoway là bao nhiêu?",
+                "Hãy cho biết số tiền cần trả để sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Bạn có thể cho biết mức chi phí sử dụng Hệ thống Telco trên nền tảng IoT Innoway không?",
+                "Tôi muốn biết giá phải trả để sử dụng Hệ thống Telco của nền tảng IoT Innoway.",
+                "Hãy cung cấp thông tin về giá sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Cho tôi xin thông tin chi tiết về chi phí sử dụng Hệ thống Telco trong IoT Innoway.",
+                "Hệ thống Telco trên IoT Innoway có chi phí sử dụng là bao nhiêu tiền?",
+                "Xin vui lòng nêu giá cả để sử dụng Hệ thống Telco trên nền tảng IoT Innoway.",
+                "Bạn có thể cho biết số tiền cần trả để sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway không?",
+                "Tôi muốn biết mức giá để sử dụng Hệ thống Telco trên nền tảng IoT Innoway.",
+                "Hãy cung cấp thông tin chi tiết về giá sử dụng Hệ thống Telco thuộc nền tảng IoT Innoway.",
+                "Giá phải trả để sử dụng Hệ thống Telco trên nền tảng IoT Innoway là bao nhiêu tiền?",
+                "Xin hỏi chi phí để sử dụng Hệ thống Telco trên nền tảng IoT Innoway là bao nhiêu tiền?",
+                "Hãy cung cấp thông tin chi tiết về mức giá sử dụng Hệ thống Telco trong IoT Innoway.",
+                "Cho tôi xin thông tin về mức chi phí để sử dụng Hệ thống Telco của nền tảng IoT Innoway.",
+                "Hệ thống Telco trên nền tảng IoT Innoway yêu cầu bao nhiêu tiền để sử dụng?",
+                "Xin vui lòng nêu giá sử dụng Hệ thống Telco của nền tảng IoT Innoway."
+            ],
+            "responses": [
+                "Hệ thống Telco của Viettel hỗ trợ các doanh nghiệp đã đăng ký sử dụng thuê bao của Viettel quản lý thông tin thuê bao một cách miễn phí. Khách hàng chỉ cần tạo tài khoản và cung cấp thông tin GPKD để thực hiện quản lý."
+            ]
+        }
+    ]
+}

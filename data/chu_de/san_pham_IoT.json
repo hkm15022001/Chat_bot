@@ -1,0 +1,43 @@
+{
+    "intents": [
+        {
+            "tag": "!san_pham_IoT_vtag",
+            "patterns": [
+                "Giải pháp vtag",
+                "Tôi muốn hỏi về vtag",
+                "thông tin về vtag",
+                "chi tiết về vtag",
+                "cụ thể về vtag",
+                "thông tin chi tiết về vtag",
+                "thêm thông tin về vtag"
+            ],
+            "responses": ["san_pham_IoT_vtag"]
+        },
+        {
+            "tag": "!san_pham_IoT_vtracking",
+            "patterns": [
+                "Giải pháp vtracking",
+                "Tôi muốn hỏi về vtracking",
+                "thông tin về vtracking",
+                "chi tiết về vtracking",
+                "cụ thể về vtracking",
+                "thông tin chi tiết về vtracking",
+                "thêm thông tin về vtracking"
+            ],
+            "responses": ["san_pham_IoT_vtracking"]
+        },
+        {
+            "tag": "!san_pham_IoT_vcar",
+            "patterns": [
+                "Giải pháp vcar",
+                "Tôi muốn hỏi về vcar",
+                "thông tin về vcar",
+                "chi tiết về vcar",
+                "cụ thể về vcar",
+                "thông tin chi tiết về vcar",
+                "thêm thông tin về vcar"
+            ],
+            "responses": ["san_pham_IoT_vcar"]
+        }
+    ]
+}

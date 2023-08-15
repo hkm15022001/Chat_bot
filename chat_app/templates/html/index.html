@@ -1,0 +1,58 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat App</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-body" id="chat-box" style="max-height: 300px; overflow-y: auto;">
+            </div>
+        </div>
+        <div class="input-group mt-3">
+            <input type="text" id="message" class="form-control" placeholder="Type your message..." onkeypress="checkEnter(event)">
+            <div class="input-group-append">
+                <button class="btn btn-primary" onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js"></script>
+    <script type="text/javascript">
+        var socket = io();
+        function checkEnter(event){
+            if(event.key == "Enter"){
+                var message = document.getElementById('message');
+                console.log(message)
+                if(message.value){
+                    sendMessage()
+                }
+            }
+
+        }
+        function sendMessage() {
+            var message = document.getElementById('message').value;
+            var chatBox = document.getElementById('chat-box');
+
+            var myMessage = document.createElement('p');
+            myMessage.classList.add('m-1', 'p-2', 'bg-primary', 'text-right','text-white');
+            myMessage.textContent = message;
+            chatBox.appendChild(myMessage);
+            socket.emit('message', message);
+            document.getElementById('message').value = '';
+            chatBox.scrollTop = chatBox.scrollHeight-chatBox.clientHeight; 
+
+        }
+
+        socket.on('message', function(message) {
+            var chatBox = document.getElementById('chat-box');
+            var newMessage = document.createElement('p');
+            newMessage.classList.add('m-1', 'p-2', 'bg-light', 'rounded');
+            newMessage.innerText = message;
+            chatBox.appendChild(newMessage);
+        });
+    </script>
+</body>
+</html>
